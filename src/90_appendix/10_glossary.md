@@ -58,6 +58,10 @@ The practice of keeping your attention on an active charge (a strong emotion, a 
 
 A goal reconceived as a direction on a compass rather than a fixed destination. Setting a vector (e.g., toward "creative fulfillment") provides clear direction while allowing for flexibility in how the journey unfolds, avoiding the rigidity of the Manifestation Trap.
 
+**Perseus Protocol**
+
+An advanced consciousness navigation system based on three tools: the Mirror Shield (reflective awareness that sees programming indirectly), Winged Sandals (dimensional mobility between perspectives), and the Sword of Discrimination (precise discernment between programming and authentic impulse). Named after the mythological hero who defeated Medusa through indirect seeing rather than direct confrontation.
+
 ---
 
 *This glossary is a reference tool. The concepts are best understood through direct experience and practice, not just intellectual analysis.*
