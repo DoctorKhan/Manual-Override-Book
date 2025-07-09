@@ -1,7 +1,7 @@
 # Manual Override
 ## A Practical Guide to Conscious Living
 
-**Compiled**: 2025-07-08 22:14:17
+**Compiled**: 2025-07-08 22:39:30
 
 ---
 
@@ -2852,6 +2852,23 @@ This becomes dangerous when they:
 - Become isolated from people who don't share their beliefs
 - Develop narcissistic tendencies based on their supposed special abilities
 - Avoid dealing with real problems because they're focused on "manifesting" solutions
+
+**When Positive Thinking Becomes Life-Threatening:**
+
+Consider Sarah's story: A friend warned her not to drive through a particular neighborhood late at night, explaining that several people had been mugged there recently. Sarah, deep in manifestation culture, dismissed this as "negative thinking" and accused her friend of "trying to manifest bad things." She drove through the area anyway with her young daughter in the car, believing her positive thoughts would protect them.
+
+They were mugged at gunpoint.
+
+Rather than recognizing that she had ignored practical safety advice, Sarah blamed her friend for "manifesting" the mugging by warning her about it. In her mind, the friend's "negative energy" had caused the attack, not her own decision to ignore real-world dangers in favor of magical thinking.
+
+This example illustrates how manifestation culture can become genuinely life-threatening:
+- **Reality denial** overrides basic safety precautions
+- **Victim blaming** prevents learning from dangerous situations
+- **Child endangerment** results from prioritizing ideology over protection
+- **Magical thinking** replaces practical risk assessment
+- **Responsibility avoidance** through blaming others for "manifesting" negative outcomes
+
+When positive thinking becomes more important than physical safety, the delusion has crossed from annoying to dangerous.
 
 ## The Secret's Toxic Legacy
 
