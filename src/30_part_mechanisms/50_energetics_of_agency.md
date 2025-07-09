@@ -6,6 +6,22 @@ The answer lies in understanding that agency is not just a philosophical concept
 
 This chapter explores the practical, energetic economy of awareness—how this vital force is allocated, depleted, and replenished, and how mastering this economy is the key to exercising consistent, conscious choice.
 
+**Critical Warning: Don't Turn This Into Another Program**
+
+Before we dive into the energetic model, it's essential to understand that this framework is meant to increase your freedom and ease, not create another source of anxiety or obsessive self-monitoring. The moment you find yourself constantly checking your "energy levels" or trying to micromanage your awareness energy, you've turned a useful tool into another rigid program.
+
+**The Ultimate Point: Energetic Balance Throughout Natural Cycles**
+
+The goal isn't to maintain constant high energy or perfect awareness. Just as the Cosmic Rhythm naturally cycles through phases, your energy will naturally fluctuate. The key is learning to work skillfully with these natural rhythms rather than fighting them.
+
+**If you're getting tired a lot, this is a clue to back off.** Exhaustion from consciousness work indicates you're forcing rather than flowing, trying to control rather than cooperate with natural processes.
+
+**Healthy Boundaries Are Essential:**
+- **Pace yourself**: Development happens over months and years, not days and weeks
+- **Rest when tired**: Fatigue is feedback, not failure
+- **Trust natural rhythms**: Your system knows how much it can handle
+- **Avoid spiritual perfectionism**: Progress includes setbacks and plateaus
+
 ## Navigating the Mental Landscape
 
 Instead of viewing agency as a resource that gets depleted, it is more accurate to understand it as a skill of navigation. Your mind is a vast, dynamic landscape. This mental landscape is not empty; it is filled with "charges"—points of energetic significance that either attract or repel your attention.
@@ -215,13 +231,15 @@ The boundaries between conscious choice and natural flow begin to dissolve. You 
 
 Understanding the energetic nature of consciousness transforms how you approach daily life. Instead of trying to maintain constant vigilance or forcing yourself to be perpetually mindful, you begin to work strategically with your awareness energy:
 
-**Energy Conservation**: You learn to recognize when you're burning through awareness energy inefficiently and develop skills for returning to a more sustainable baseline.
+**Energy Conservation**: You learn to recognize when you're burning through awareness energy inefficiently and develop skills for returning to a more sustainable baseline. **Warning**: Don't turn this into constant self-monitoring. If you find yourself obsessively checking your energy levels throughout the day, you're creating more stress, not less.
 
-**Strategic Deployment**: You become selective about when and where to invest conscious effort, saving your energy for the moments and decisions that matter most.
+**Strategic Deployment**: You become selective about when and where to invest conscious effort, saving your energy for the moments and decisions that matter most. **Key insight**: Most moments don't require intense conscious effort—trust your natural functioning.
 
-**Restoration Practices**: You develop reliable methods for replenishing awareness energy—meditation, time in nature, creative expression, physical movement, or whatever practices help you return to energetic balance.
+**Restoration Practices**: You develop reliable methods for replenishing awareness energy—meditation, time in nature, creative expression, physical movement, or whatever practices help you return to energetic balance. **Important**: These should feel nourishing, not like another task on your spiritual to-do list.
 
-**Efficiency Training**: Through practices like mindfulness meditation, sensory awareness, or tantric attention, you learn to accomplish more with less energetic expenditure.
+**Efficiency Training**: Through practices like mindfulness meditation, sensory awareness, or tantric attention, you learn to accomplish more with less energetic expenditure. **Remember**: The goal is ease and flow, not perfect technique.
+
+**The Fatigue Signal**: If you're consistently tired from consciousness work, this is your system telling you to slow down. Sustainable development feels energizing over time, not depleting. Chronic fatigue from spiritual practice indicates you're pushing too hard or approaching the work with too much effort and control.
 
 ## The Neutral Gear: Anatta as Energetic Reset
 
@@ -364,5 +382,7 @@ The energetics of agency, properly understood, lead not to greater control but t
 **Strategic Engagement**: Work with your energetic limits rather than against them, focusing conscious choice on the moments that matter most while allowing autopilot to handle routine tasks.
 
 **The Promise of Energy Mastery**: When you understand and work skillfully with awareness energy, you transform from being a victim of your own inconsistency to becoming a conscious programmer of your own experience. You stop wondering why you sometimes have willpower and sometimes don't—you learn to recognize your energetic state and work with it strategically. This leads to a profound shift: from feeling like life is happening to you, to knowing that you are an active participant in creating your reality moment by moment.
+
+**Critical Reminder**: The energetic model is a tool for greater ease and effectiveness, not a new source of self-judgment or obsessive monitoring. If working with these concepts creates more stress or fatigue, you're approaching them too rigidly. The ultimate goal is energetic balance throughout the natural cycles of consciousness—periods of high awareness alternating with periods of rest and automatic functioning. Both are necessary and healthy.
 
 **Next Steps**: The following chapter examines a particularly dangerous misunderstanding of consciousness-reality interaction: manifestation culture and the spiritual materialism that masquerades as genuine agency.

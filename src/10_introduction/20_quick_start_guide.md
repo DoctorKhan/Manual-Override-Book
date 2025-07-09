@@ -231,6 +231,26 @@ The following are tools for gathering data about consciousness. We're not explai
 4. Rest attention on the awareness that's observing the emotion
 *Research note: Test whether the observer can remain stable during intense emotions*
 
+## Essential Warning: Pace Yourself
+
+**Before you begin this investigation, understand that consciousness development is a marathon, not a sprint.** The most common mistake people make is approaching this work with too much intensity and effort, leading to burnout and abandonment of the practices.
+
+**Signs You're Pushing Too Hard:**
+- Feeling exhausted after consciousness practices
+- Obsessively monitoring your "awareness levels" throughout the day
+- Turning every moment into a spiritual practice opportunity
+- Feeling anxious when you're not being "conscious"
+- Judging yourself for operating automatically
+
+**Healthy Approach:**
+- **Start small**: 5-10 minutes of practice is better than forcing 30 minutes
+- **Trust natural rhythms**: Some days you'll feel more aware, others less—both are normal
+- **Rest when tired**: Fatigue is feedback, not failure
+- **Allow automatic functioning**: You don't need to be consciously aware of everything
+- **Focus on curiosity, not achievement**: This is investigation, not performance
+
+**The Ultimate Goal**: Energetic balance throughout the natural cycles of consciousness. Periods of heightened awareness naturally alternate with periods of rest and automatic functioning. Both are necessary and healthy.
+
 ## Next Phase: The Investigation Begins
 
 After completing this 30-day data collection period, you'll be ready to join the main investigation with your own evidence in hand.
