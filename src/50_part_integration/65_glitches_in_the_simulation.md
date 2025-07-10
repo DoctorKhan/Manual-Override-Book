@@ -47,37 +47,4 @@ This is not magic; it is an advanced skill of the conscious player. You are mome
 *   **Cultivate Gratitude:** When these flashes occur, be grateful. It is a sign that your connection to your deeper awareness is strengthening. The more you honor these insights, the more frequently and clearly they are likely to appear.
 *   **Focus on Action, Not Fear:** The purpose of these glimpses is not to create anxiety about the future, but to empower you in the present. The future is not fixed. A precognitive flash is a glimpse of a *probable* future. Your conscious choices in the present moment can still change the outcome.
 
-### The Ultimate Glitch: Your Hidden Blindness
-
-*Before we conclude, there's one more glitch that reveals just how constructed your experience really is. This one is happening right now as you read these words.*
-
-**The Saccadic Blindness Phenomenon:**
-
-*One of the most shocking examples of unconscious processing happens with your eyes right now:*
-
-**The Hidden Truth:**
-- Your eyes make rapid movements (saccades) 3-4 times per second
-- You are completely blind during these movements—lasting 40-50 milliseconds each
-- This means you're functionally blind about 40% of the time you think you're seeing
-- You never notice this blindness because the brain seamlessly "fills in" the gaps
-
-**The Implications:**
-- Your brain creates a continuous visual experience from discontinuous input
-- What you experience as "seeing" is largely constructed, not directly perceived
-- The sense of continuous awareness is an illusion created by automatic processing
-- You're blind to your own blindness—a perfect metaphor for unconscious automation
-
-**Why This Is the Ultimate Glitch:**
-This reveals that even your most basic experience of reality—vision—is largely a construction. Your brain is constantly creating seamless experiences from fragmented input while keeping you completely unaware of the construction process.
-
-**The Deeper Recognition:**
-If your brain seamlessly fabricates visual continuity to maintain the illusion of complete perception, what else might it be fabricating? How much of your experience of "knowing what's happening" is actually your brain filling gaps with assumptions, expectations, and constructed narratives?
-
-This is the ultimate glitch in the simulation: discovering that the simulation is far more extensive than you ever imagined. Not only are your thoughts, emotions, and behaviors largely automated—even your basic perception of reality is a sophisticated construction.
-
-**The Liberation:**
-Recognizing this isn't depressing—it's liberating. Once you understand how extensively your experience is constructed, you can begin to participate consciously in that construction. You can learn to distinguish between what's actually happening and what your brain is adding to the experience.
-
 By learning to spot these glitches, you transform your relationship with reality. Life is no longer a series of random, disconnected events. It becomes a living, intelligent, and responsive game—a mystery that invites you to explore its deepest secrets. You are not just playing the game; you are learning to read its code.
-
-And perhaps most importantly, you're learning to distinguish between the code and the coder—between the constructed experience and the consciousness that can observe the construction process itself.

@@ -33,7 +33,6 @@ What we call the "observer" is a specific charge configuration that mediates a n
 - Witnessing charge patterns and energetic movements
 - Observing the flow of life force and consciousness
 - **Risk**: Becoming attached to energetic experiences. This can lead to "spiritual materialism," where one chases pleasant energetic states (like bliss or spaciousness) and avoids difficult ones, turning practice into another form of pleasure-seeking.
-- **Additional Risk**: Obsessive energy monitoring. Some people turn energetic awareness into constant self-surveillance, anxiously tracking their "energy levels" throughout the day. This creates more stress than it relieves and defeats the purpose of the practice.
 
 **Spiritual Plane Observation:**
 - Witnessing the arising and passing of all phenomena
