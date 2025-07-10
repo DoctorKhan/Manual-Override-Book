@@ -119,18 +119,27 @@ Before diving into the stages, consider this puzzle: **What makes someone charis
 - Building the energetic capacity to sustain conscious choice
 - Learning to work with resistance when the system fights back
 
-**Daily Practices:**
-- **Conscious Response Training:** In low-stakes situations, deliberately choose responses different from your automatic patterns
-- **Energy Management:** Track your "choice energy" throughout the day - when is it high/low?
-- **Response Flexibility:** For each trigger, develop 3 different possible responses and practice choosing consciously
-- **Resistance Work:** When you notice internal resistance to conscious choice, observe it with curiosity rather than fighting it
+### Daily Practices:
 
-**Measurable Outcomes:**
-- You can consciously choose your response in 70% of triggered situations
-- You have developed 3+ alternative responses for your major trigger patterns
-- You can maintain conscious choice capacity for 4+ hours when well-rested
-- You recognize and work skillfully with internal resistance
-- Others notice you've become less reactive and more intentional
+**Conscious Response Training:**
+- In low-stakes situations, deliberately choose responses different from your automatic patterns
+
+**Energy Management:**
+- Track your "choice energy" throughout the day - when is it high/low?
+
+**Response Flexibility:**
+- For each trigger, develop 3 different possible responses and practice choosing consciously
+
+**Resistance Work:**
+- When you notice internal resistance to conscious choice, observe it with curiosity rather than fighting it
+
+### Measurable Outcomes:
+
+✅ You can consciously choose your response in 70% of triggered situations
+✅ You have developed 3+ alternative responses for your major trigger patterns
+✅ You can maintain conscious choice capacity for 4+ hours when well-rested
+✅ You recognize and work skillfully with internal resistance
+✅ Others notice you've become less reactive and more intentional
 
 **Common Challenges:**
 - Choice fatigue - conscious choice requires energy
@@ -138,11 +147,12 @@ Before diving into the stages, consider this puzzle: **What makes someone charis
 - Perfectionism about always making the "right" choice
 - Relationships changing as you become less predictable
 
-**Signs You're Ready for Stage 4:**
-- Conscious choice becomes more natural and less effortful
-- You can maintain choice capacity even under moderate stress
-- You start influencing situations through your presence rather than just your actions
-- You're curious about living from conscious choice as your default mode
+### Signs You're Ready for Stage 4:
+
+✅ Conscious choice becomes more natural and less effortful
+✅ You can maintain choice capacity even under moderate stress
+✅ You start influencing situations through your presence rather than just your actions
+✅ You're curious about living from conscious choice as your default mode
 
 ## Stage 4: Integration Mastery (Months 7-12+)
 **Core Skill:** Living from conscious choice as your primary operating system
@@ -153,18 +163,27 @@ Before diving into the stages, consider this puzzle: **What makes someone charis
 - Developing the capacity to influence reality through conscious presence
 - Becoming a beneficial influence in others' development without preaching
 
-**Daily Practices:**
-- **Integrated Living:** Bring conscious choice to routine activities (eating, walking, working)
-- **Presence Practice:** Focus on influencing situations through your state of being rather than just actions
-- **Mentoring Others:** Help others develop their own manual override capacity without imposing your framework
-- **Creative Expression:** Use conscious choice to create something meaningful in the world
+### Daily Practices:
 
-**Measurable Outcomes:**
-- Conscious choice is your default mode - automation is the exception
-- You can maintain choice capacity even under high stress
-- Your presence has a calming, clarifying effect on others
-- You're creating something meaningful that serves others' development
-- You experience life as participatory rather than something that happens to you
+**Integrated Living:**
+- Bring conscious choice to routine activities (eating, walking, working)
+
+**Presence Practice:**
+- Focus on influencing situations through your state of being rather than just actions
+
+**Mentoring Others:**
+- Help others develop their own manual override capacity without imposing your framework
+
+**Creative Expression:**
+- Use conscious choice to create something meaningful in the world
+
+### Measurable Outcomes:
+
+✅ Conscious choice is your default mode - automation is the exception
+✅ You can maintain choice capacity even under high stress
+✅ Your presence has a calming, clarifying effect on others
+✅ You're creating something meaningful that serves others' development
+✅ You experience life as participatory rather than something that happens to you
 
 **Common Challenges:**
 - Complacency - thinking you've "arrived" and stopping development
@@ -172,8 +191,10 @@ Before diving into the stages, consider this puzzle: **What makes someone charis
 - Integration challenges - maintaining consciousness in all life areas
 - The responsibility that comes with increased influence
 
-**Ongoing Development:**
+### Ongoing Development:
+
 Stage 4 isn't an endpoint but the beginning of lifelong mastery. Advanced practitioners continue developing:
+
 - Greater energetic capacity for sustained conscious choice
 - More subtle perception of choice points and influence opportunities
 - Deeper integration of consciousness into creative and service work
