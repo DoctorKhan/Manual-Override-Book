@@ -28,6 +28,8 @@ Watch people closely for a week. You'll notice something disturbing: they make t
 - Neuroimaging reveals that habitual behaviors activate different brain regions than conscious choices
 - The "planning fallacy" shows people consistently make the same estimation errors despite repeated experience
 
+**A note on evaluating research:** These findings come from studies that have been replicated across different laboratories and populations. That doesn't make them absolute truth, but it does mean independent researchers have tested the claims and gotten similar results. When research can't be replicated—when only one lab gets certain results—that's a red flag. The strength of these findings isn't that they're published, but that they're consistently reproducible.
+
 ## Evidence Category 2: The Trigger-Response Mechanism
 
 **What the data reveals:** When we map human responses to specific stimuli, we find patterns that are disturbingly mechanical. The precision is what makes this evidence so compelling.
