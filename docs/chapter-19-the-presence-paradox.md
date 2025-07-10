@@ -1,4 +1,4 @@
-# Chapter 19: The Presence Paradox
+# Chapter 18: The Presence Paradox
 
 ## The Investigation Reaches Its Climax
 

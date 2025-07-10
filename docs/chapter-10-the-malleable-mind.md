@@ -1,4 +1,4 @@
-# Chapter 10: The Malleable Mind
+# Chapter 9: The Malleable Mind
 
 The brain’s capacity to rewire itself—neuroplasticity—is often seen as the key to personal growth. It promises that we can break old patterns, update our beliefs, and reshape our reality.
 

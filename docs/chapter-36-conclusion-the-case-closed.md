@@ -1,4 +1,4 @@
-# Chapter 36: Conclusion: The Case Closed
+# Chapter 35: Conclusion: The Case Closed
 
 ## The Mystery Solved
 

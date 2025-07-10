@@ -1,4 +1,4 @@
-# Chapter 23: Building Sustainable Practice Routines
+# Chapter 22: Building Sustainable Practice Routines
 
 Consciousness development requires consistent practice, but most people approach it in ways that guarantee failure. They start with ambitious routines that collapse within weeks, then conclude they "don't have discipline." The real issue isn't discipline—it's designing sustainable systems that work with human psychology rather than against it.
 

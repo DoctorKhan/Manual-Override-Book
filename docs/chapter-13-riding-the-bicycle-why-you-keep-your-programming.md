@@ -1,4 +1,4 @@
-# Chapter 13: Riding the Bicycle: Why You Keep Your Programming
+# Chapter 12: Riding the Bicycle: Why You Keep Your Programming
 
 *Sarah stared at her meditation cushion with frustration. "I thought the point was to get rid of all this automatic stuff," she said. "But I still catch my mind wandering, still have emotional reactions, still fall into old patterns. Am I doing this wrong?"*
 

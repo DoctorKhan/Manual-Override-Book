@@ -1,4 +1,4 @@
-# Chapter 37: Workplace Consciousness
+# Chapter 36: Workplace Consciousness
 
 ## Navigating Professional Life from Presence
 
