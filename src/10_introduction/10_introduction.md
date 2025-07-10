@@ -68,4 +68,14 @@ This investigation follows a specific methodology:
 
 This isn't a belief system to adopt, but a mystery to solve through direct observation. The evidence exists in your own experience—you just need to know where to look.
 
+**The Investigative Approach**
+
+We'll approach this mystery like detectives, not believers. That means:
+- Following evidence wherever it leads, even if it's uncomfortable
+- Distinguishing between what we can observe directly and what we're speculating about
+- Testing claims through personal experimentation rather than accepting them on authority
+- Remaining open to being wrong about our initial assumptions
+
+The goal isn't to convince you of a particular worldview, but to give you tools for investigating consciousness yourself. If the evidence doesn't match your experience, trust your experience. If the techniques don't work for you, don't pretend they do.
+
 The investigation starts with the most basic question: **What is actually making your decisions?**

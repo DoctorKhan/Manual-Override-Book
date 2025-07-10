@@ -39,6 +39,10 @@ Neuroscience research has documented measurable changes in brain activity during
 **The Mystery:**
 These studies confirm that something measurable happens when people enter observer states. But they don't explain what is doing the observing or why this capacity isn't naturally active.
 
+**Important caveat:** Consciousness research is notoriously difficult. Unlike studying heart function or digestion, we're trying to use consciousness to study consciousness—like trying to see your own eyes. Many consciousness studies suffer from small sample sizes, subjective reporting, and difficulty controlling variables. The findings above are among the most robust, but they're still preliminary.
+
+What we can say with confidence: something changes in the brain during observer states. What we can't say: whether this represents a fundamental shift in consciousness or just altered neural activity. The honest answer is we don't know yet—and that's exactly the kind of humility real science requires.
+
 ## Evidence Category 3: Flow States and Peak Performance
 
 **When the Observer Takes Control**
