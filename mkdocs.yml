@@ -87,6 +87,12 @@ theme:
     code: Fira Code
 plugins:
 - search
+- pdf-export:
+    verbose: true
+    media_type: print
+    enabled_if_env: ENABLE_PDF_EXPORT
+    combined: true
+    combined_output_path: Manual_Override.pdf
 markdown_extensions:
 - pymdownx.highlight
 - pymdownx.superfences
