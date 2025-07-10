@@ -1,7 +1,7 @@
 # Manual Override
 ## A Practical Guide to Conscious Living
 
-**Compiled**: 2025-07-10 16:14:45
+**Compiled**: 2025-07-10 16:16:32
 
 ---
 
@@ -1421,7 +1421,7 @@ The wellness industry often presents mindfulness as a gentle practice of "quieti
 
 We will explore how practices like mindfulness, body scanning, and even mindful eating are not about simple relaxation, but are sophisticated techniques for developing the capacity to consciously override your automated responses and perceive reality beyond your conditioned filters.
 
-# Foundational Practices: Reality-Breaking Technologies
+## Foundational Practices: Reality-Breaking Technologies
 
 The meditation teacher sits before her students, radiating the kind of serene presence that suggests years of dedicated practice. "Mindfulness is about finding peace," she says softly. "Just sit still and try to quiet your mind. Focus on your breath and don't let thoughts distract you." The students struggle, fighting their minds, wondering why this feels so difficult and forced.
 
