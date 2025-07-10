@@ -99,107 +99,91 @@ Sometimes people report being able to "step back" and observe their own thoughts
 
 ## Research Tools: Attention Training Techniques
 
-The following are tools for gathering data about consciousness. We're not explaining the theory behind them—just providing methods for systematic observation.
+These are simple ways to explore how your mind works. Think of them as curiosity exercises rather than formal practices.
 
-**Think of these like scientific instruments:** A microscope doesn't "believe" in cells—it just makes them visible. These techniques make consciousness patterns visible.
+## Week 1: The Pattern Detective
 
-## Research Protocol 1: Basic Pattern Documentation (Week 1)
+**What you're exploring:** Do I have predictable patterns, or am I as random as I think?
 
-**Research Question:** How much of daily behavior follows predictable patterns?
+**The Simple Practice:**
+- Keep a small notebook or use your phone
+- When something triggers a strong reaction, just jot down:
+  - What happened?
+  - How did I react?
+  - Did that feel automatic or chosen?
 
-### Data Collection Method (5-10 minutes daily)
-**The Pattern Log**
-- Keep a small notebook or phone note
-- When you notice a strong emotional reaction, record:
-  - What triggered it?
-  - How did you respond?
-  - Did the response feel chosen or automatic?
-- This is data collection, not self-improvement—no judgment needed
+**The Random Check-In:**
+- Set a few phone alarms throughout the day
+- When they go off, pause and notice: "Was I on autopilot just now, or was I present?"
+- No need to change anything—just notice
 
-### Micro-Sampling (Throughout the day)
-**The Consciousness Check**
-- Set 3-5 random phone alarms throughout the day
-- When the alarm goes off, pause and ask: "What was I just doing? Was I conscious or automatic?"
-- Record the data without trying to change anything
+**Evening Reflection (2 minutes):**
+- Look at your notes
+- Any patterns jumping out?
+- Which situations seem to trigger the same responses every time?
 
-### Data Analysis (2-3 minutes evening)
-**Pattern Recognition**
-- Review your pattern log
-- Look for recurring trigger-response combinations
-- Note: What situations consistently produce automatic responses?
+## Week 2: The Observer Experiment
 
-## Research Protocol 2: Observer Phenomenon Investigation (Week 2)
+**What you're exploring:** Is there something in me that can watch my thoughts without getting caught up in them?
 
-**Research Question:** Is there something that can observe thoughts without being caught in them?
+**The Simple Practice (10 minutes):**
+- Sit comfortably and close your eyes
+- Instead of trying to stop thoughts, just watch them come and go
+- When you notice a thought, mentally say "thinking" and go back to watching
+- If you get caught up in a thought, no problem—just return to watching
+- The question: What is doing the watching?
 
-### Attention Training (10-15 minutes daily)
-**Thought Observation Experiment**
-- Sit comfortably with eyes closed
-- Instead of trying to stop thoughts, practice watching them
-- When a thought arises, mentally note "thinking" and return attention to watching
-- If you get caught in a thought, gently return to the observer position
-- Research focus: What is doing the observing?
+**Throughout the Day:**
+- A few times, ask yourself: "What is aware of this moment?"
+- Notice if you can step back and observe what you're thinking or feeling
+- Can you watch your emotions without being overwhelmed by them?
 
-### Field Testing (Throughout the day)
-**The Observer Check-In**
-- Several times per day, ask: "What is aware of this experience?"
-- Notice if there's something that can observe thoughts, emotions, and sensations
-- Test: Can you step back mentally and observe your current state?
+**Evening Check-In:**
+- When did you successfully step back and observe?
+- What made it easy or difficult to find that observer perspective?
 
-### Data Analysis (2-3 minutes evening)
-**Observer Documentation**
-- Record moments when you successfully observed your thoughts or emotions
-- Note: What conditions allowed stepping back? What pulled you back into automatic mode?
+## Week 3: The Choice Point Experiment
 
-## Research Protocol 3: Intervention Testing (Week 3)
+**What you're exploring:** Can I create space between what happens to me and how I respond?
 
-**Research Question:** Can automatic responses be interrupted to create space for different choices?
+**The Mental Rehearsal (15 minutes):**
+- Think of a recent situation that triggered an automatic reaction
+- Replay it in your mind, but this time pause when you feel the trigger
+- Imagine responding differently—not necessarily better, just more consciously chosen
+- Practice this mental pause and choice several times
 
-### Laboratory Simulation (15-20 minutes daily)
-**Trigger Replay Experiment**
-- Recall a recent situation that triggered an automatic response
-- Mentally replay the situation in detail
-- When you feel the trigger activating, practice pausing and observing
-- Test: Can you imagine responding differently—not better or worse, just consciously chosen?
-- Hypothesis: This might train the nervous system to create space between trigger and response
-
-### Field Testing (Throughout the day)
-**The Intervention Experiment**
-- When you notice a trigger activating, test this sequence:
-  1. Pause (even for 2 seconds)
+**In Real Life:**
+- When you notice yourself getting triggered, try this:
+  1. Pause for just 2 seconds
   2. Take one conscious breath
-  3. Ask: "How do I want to respond to this?"
-  4. Choose your response, even if it's the same as your automatic one
-- Research focus: Is conscious choice possible, regardless of the choice made?
+  3. Ask: "How do I want to respond?"
+  4. Choose your response (even if it's the same as your automatic one)
 
-### Data Analysis (2-3 minutes evening)
-**Choice Point Documentation**
-- Record moments when you successfully created space between trigger and response
-- Note: What conditions made conscious choice possible? What made it difficult?
+**Evening Reflection:**
+- When did you successfully create that pause?
+- What made conscious choice easier or harder?
+- Did choosing (even the same response) feel different than reacting automatically?
 
-## Research Protocol 4: Integration Testing (Week 4)
+## Week 4: The Integration Test
 
-**Research Question:** Can conscious awareness be maintained during different types of activity?
+**What you're exploring:** Can I stay conscious during different activities, or does awareness only work when I'm sitting still?
 
-### Multi-Modal Testing (20-25 minutes daily)
-**Awareness Stability Experiment**
-- Test 1: 10 minutes sitting meditation (thought observation)
-- Test 2: 10 minutes walking meditation (movement awareness)
-- Test 3: 5 minutes conscious breathing during routine activity
-- Research focus: Does awareness remain stable across different activities?
+**The Awareness Stability Test:**
+- Try 10 minutes of sitting quietly and watching thoughts
+- Try 10 minutes of walking while staying present
+- Try 5 minutes of conscious breathing during a routine activity
+- Question: Does awareness feel the same in all three, or different?
 
-### Field Testing (Throughout the day)
-**Single-Activity Focus Experiment**
-- Choose one routine activity (eating, walking, washing dishes)
-- Perform this activity with full conscious attention every time you do it
-- Research question: What's the difference between automatic and conscious engagement?
+**Pick One Daily Activity:**
+- Choose something routine (eating breakfast, brushing teeth, walking to the car)
+- Every time you do this activity, try to stay fully present
+- Notice: What's the difference between doing it automatically vs. consciously?
 
-### Final Data Analysis (5 minutes)
-**30-Day Research Summary**
-- Review the past 30 days: What patterns have you documented?
-- Which triggers consistently produce automatic responses?
-- When did the "observer" phenomenon appear most clearly?
-- What questions have emerged that you want the investigation to answer?
+**30-Day Reflection:**
+- Looking back over the month, what patterns did you notice?
+- Which situations consistently triggered automatic responses?
+- When was it easiest to find that observer perspective?
+- What questions do you want to explore next?
 
 ## Emergency Research Protocols
 
