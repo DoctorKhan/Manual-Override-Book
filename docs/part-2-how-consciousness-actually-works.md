@@ -1,4 +1,4 @@
-# Part 3: How Consciousness Actually Works
+# Part 2: How Consciousness Actually Works
 
 Having established the foundational practices in Part I, we now explore the deeper mechanisms that govern how consciousness operates. Understanding these systems isn't just theoretical—it’s practical preparation for the advanced applications in Part III. You can't break free from reality loops or integrate multi-dimensional awareness without understanding how consciousness, mind, body, and physical reality interact.
 

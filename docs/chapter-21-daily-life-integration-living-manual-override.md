@@ -1,4 +1,4 @@
-# Chapter 20: Daily Life Integration: Living Manual Override
+# Chapter 21: Daily Life Integration: Living Manual Override
 
 Developing manual override capacity in meditation or quiet reflection is one thing. Maintaining it during work stress, relationship conflicts, and daily pressures is another. This chapter provides practical guidance for integrating conscious choice into all areas of your life.
 

@@ -1,4 +1,4 @@
-# Chapter 27: The Paradox of Surrender
+# Chapter 28: The Paradox of Surrender
 
 The experience of being "in the zone" or in a "flow state"—where action happens effortlessly and the thinking mind steps aside—is often romanticized as a connection to a higher intelligence. We imagine ourselves channeling wisdom from beyond, whether as an artist, an athlete, or a mystic.
 

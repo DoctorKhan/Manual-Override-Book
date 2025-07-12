@@ -1,4 +1,4 @@
-# Chapter 23: The Anatomy of a Choice Point
+# Chapter 24: The Anatomy of a Choice Point
 
 ## The Missing Link Revealed
 

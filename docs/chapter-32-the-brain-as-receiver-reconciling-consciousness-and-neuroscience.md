@@ -1,4 +1,4 @@
-# Chapter 31: The Brain as Receiver: Reconciling Consciousness and Neuroscience
+# Chapter 32: The Brain as Receiver: Reconciling Consciousness and Neuroscience
 
 How does the multi-plane model of reality presented in this book align with the findings of modern neuroscience? The dominant scientific view posits that the brain *creates* consciousness—that our thoughts, awareness, and sense of self are byproducts of neural firing. This, however, is a philosophical assumption, not a proven fact. Neuroscience has only ever demonstrated a *correlation* between brain activity and conscious experience, not causation.
 

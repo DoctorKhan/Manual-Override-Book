@@ -63,6 +63,7 @@ Before diving into the stages, consider this puzzle: **What makes someone charis
 - **Trying to change patterns before you can see them clearly** - Recognition comes first
 
 ### Signs You're Ready for Stage 2:
+
 - 🎯 Pattern recognition becomes more natural and less effortful
 - 🎯 You start noticing automation in others without judgment
 - 🎯 You have moments where you catch yourself mid-pattern and can shift
@@ -105,10 +106,11 @@ Before diving into the stages, consider this puzzle: **What makes someone charis
 - The system creating more intense triggers to pull you back into identification
 
 **Signs You're Ready for Stage 3:**
-- Observer access becomes reliable and doesn't require intense effort
-- You can maintain equanimity during moderate stress
-- You start seeing choice points that were previously invisible
-- You're curious about consciously directing your responses
+
+- 🎯 Observer access becomes reliable and doesn't require intense effort
+- 🎯 You can maintain equanimity during moderate stress
+- 🎯 You start seeing choice points that were previously invisible
+- 🎯 You're curious about consciously directing your responses
 
 ## Stage 3: Choice Point Training (Weeks 13-24)
 **Core Skill:** Consciously directing responses from the Observer position
@@ -149,10 +151,10 @@ Before diving into the stages, consider this puzzle: **What makes someone charis
 
 ### Signs You're Ready for Stage 4:
 
-✅ Conscious choice becomes more natural and less effortful
-✅ You can maintain choice capacity even under moderate stress
-✅ You start influencing situations through your presence rather than just your actions
-✅ You're curious about living from conscious choice as your default mode
+- 🎯 Conscious choice becomes more natural and less effortful
+- 🎯 You can maintain choice capacity even under moderate stress
+- 🎯 You start influencing situations through your presence rather than just your actions
+- 🎯 You're curious about living from conscious choice as your default mode
 
 ## Stage 4: Integration Mastery (Months 7-12+)
 **Core Skill:** Living from conscious choice as your primary operating system
@@ -195,10 +197,10 @@ Before diving into the stages, consider this puzzle: **What makes someone charis
 
 Stage 4 isn't an endpoint but the beginning of lifelong mastery. Advanced practitioners continue developing:
 
-- Greater energetic capacity for sustained conscious choice
-- More subtle perception of choice points and influence opportunities
-- Deeper integration of consciousness into creative and service work
-- Mastery of working with collective unconscious patterns
+- 🎯  Greater energetic capacity for sustained conscious choice
+- 🎯 More subtle perception of choice points and influence opportunities
+- 🎯 Deeper integration of consciousness into creative and service work
+- 🎯 Mastery of working with collective unconscious patterns
 
 ## Using This Framework
 

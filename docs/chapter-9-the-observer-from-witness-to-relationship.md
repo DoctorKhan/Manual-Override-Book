@@ -1,4 +1,4 @@
-# Chapter 8: The Observer: From Witness to Relationship
+# Chapter 9: The Observer: From Witness to Relationship
 
 The practice of witnessing thoughts and emotions from a detached perspective is a cornerstone of many spiritual traditions. It feels like a key to freedom—the discovery of a stable awareness behind the chaos of experience. Yet, this position can also be a lonely one, creating a sense of separation from the very life we wish to engage with.
 

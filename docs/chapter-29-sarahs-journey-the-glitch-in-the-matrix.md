@@ -1,4 +1,4 @@
-# Chapter 28: Sarah's Journey: The Glitch in the Matrix
+# Chapter 29: Sarah's Journey: The Glitch in the Matrix
 
 *Three months into her consciousness journey...*
 

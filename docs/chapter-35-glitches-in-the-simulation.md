@@ -1,4 +1,4 @@
-# Chapter 34: Glitches in the Simulation
+# Chapter 35: Glitches in the Simulation
 
 ## Reading the Game's Hidden Code
 

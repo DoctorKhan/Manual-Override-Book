@@ -1,4 +1,4 @@
-# Chapter 11: The Body as a Process
+# Chapter 12: The Body as a Process
 
 The body is not a static archive of past traumas or a mystical oracle of hidden wisdom. Both views, while popular, create a conceptual trap. They frame the body as a *thing* to be managed, fixed, or deciphered. A more direct, practical, and useful approach is to experience the body as it is: a dynamic, moment-to-moment **process**.
 

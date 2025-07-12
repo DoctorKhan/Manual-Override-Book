@@ -1,4 +1,4 @@
-# Chapter 32: A Unique Synthesis
+# Chapter 33: A Unique Synthesis
 
 ## How This Approach Differs
 

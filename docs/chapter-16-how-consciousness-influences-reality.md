@@ -1,4 +1,4 @@
-# Chapter 15: How Consciousness Influences Reality
+# Chapter 16: How Consciousness Influences Reality
 
 The key insight for manual override is understanding how consciousness can influence physical reality. Rather than getting lost in complex physics, we need to focus on the practical mechanism: consciousness operates through what we can call "energy charges" that create real effects in the physical world.
 

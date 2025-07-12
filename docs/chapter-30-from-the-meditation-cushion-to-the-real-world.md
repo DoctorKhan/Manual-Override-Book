@@ -1,4 +1,4 @@
-# Chapter 29: From the Meditation Cushion to the Real World
+# Chapter 30: From the Meditation Cushion to the Real World
 
 The true test of this work is not in moments of quiet contemplation, but in the messy, high-stakes game of everyday life. The principles of Manual Override are not theoretical; they are practical tools for navigating the complexities of work, relationships, and society. This chapter translates these concepts into direct action.
 

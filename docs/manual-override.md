@@ -1,7 +1,7 @@
 # Manual Override
 ## A Practical Guide to Conscious Living
 
-**Compiled**: 2025-07-12 14:35:20
+**Compiled**: 2025-07-12 15:06:00
 
 ---
 
@@ -98,9 +98,7 @@ The goal isn't to convince you of a particular worldview, but to give you tools 
 
 Sarah printed out the article. She read it again, circling key phrases. "Operating on autopilot." "Processes outside conscious awareness." "Crisis of consciousness."
 
-Her initial reaction was denial. *Not me.* But the evidence from her own life – the arguments, the scrolling, the feeling of being carried along – was too strong.
-
-Then came fear. If she wasn't in control, who or what was? The thought was deeply unsettling.
+Her initial reaction was denial. *Not me.* But the evidence from her own life – the arguments, the scrolling, the feeling of being carried along – was too strong. The thought was deeply unsettling.
 
 Finally, a flicker of something else. Curiosity. The article mentioned the possibility of a "manual override." How? Was it something you were born with, or something you could develop?
 

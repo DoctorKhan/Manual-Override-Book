@@ -1,4 +1,4 @@
-# Chapter 37: Appendix C: The Physics of Consciousness Levels
+# Chapter 38: Appendix C: The Physics of Consciousness Levels
 
 *This appendix provides the technical details, mathematical formulations, and testable predictions for the consciousness energy level model presented in Chapter 75.*
 
