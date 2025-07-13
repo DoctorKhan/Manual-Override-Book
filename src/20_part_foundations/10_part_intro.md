@@ -1,12 +1,12 @@
-# Part 1: The Evidence
+### Part 1: The Evidence
 
-## Something Is Systematically Wrong
+##### Something Is Systematically Wrong
 
 Across the globe, millions of people are experiencing the same unsettling realization: they're living on autopilot, following scripts they never consciously chose, making the same mistakes repeatedly despite their best intentions.
 
 This isn't a collection of individual personal problems. It's evidence of something systematic—a pattern so pervasive we've mistaken it for normal human experience.
 
-## The Investigation
+##### The Investigation
 
 This section presents the evidence without interpretation. We'll document the patterns, examine the research, and catalog the anomalies that suggest human consciousness is not operating the way we think it is.
 
@@ -20,7 +20,7 @@ We won't tell you what to think about this evidence. We'll simply show you what'
 - What is the "observer" that sometimes steps back from automatic behavior?
 - Why is genuine change so difficult, even with strong motivation?
 
-## The Method
+### The Method
 
 We'll approach this like detectives examining a crime scene. The evidence exists in your own daily experience—you just need to know where to look and how to interpret what you find.
 

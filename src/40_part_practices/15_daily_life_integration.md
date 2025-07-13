@@ -1,8 +1,8 @@
-# Chapter 20: Daily Life Integration: Living Manual Override
+### Chapter 20: Daily Life Integration: Living Manual Override
 
 Developing manual override capacity in meditation or quiet reflection is one thing. Maintaining it during work stress, relationship conflicts, and daily pressures is another. This chapter provides practical guidance for integrating conscious choice into all areas of your life.
 
-## The Integration Challenge
+#### The Integration Challenge
 
 **Why Integration Is Difficult:**
 - Daily life provides constant triggers that activate automatic programming
@@ -13,7 +13,7 @@ Developing manual override capacity in meditation or quiet reflection is one thi
 **The Key Insight:**
 Integration isn't about being perfectly conscious all the time. It's about gradually expanding the domains where conscious choice is your default, while having reliable ways to return to consciousness when you slip into automation.
 
-## Work and Career Integration
+#### Work and Career Integration
 
 **Common Work Triggers:**
 - Deadline pressure activating stress responses
@@ -41,7 +41,7 @@ Integration isn't about being perfectly conscious all the time. It's about gradu
 - **Growth Opportunities:** Choose challenges that develop your manual override skills
 - **Service Integration:** Find ways to serve others' development through your work
 
-## Relationship Dynamics
+#### Relationship Dynamics
 
 **How Relationships Challenge Manual Override:**
 - Intimate relationships activate our deepest programming
@@ -69,7 +69,7 @@ Integration isn't about being perfectly conscious all the time. It's about gradu
 - **Activity Choices:** Suggest activities that support consciousness rather than unconsciousness (nature walks vs. complaint sessions)
 - **Natural Selection:** Allow friendships to evolve naturally as you change - some will deepen, others may fade
 
-## Parenting from Consciousness
+#### Parenting from Consciousness
 
 **The Challenge:**
 Children are expert trigger-activators. They can instantly activate your deepest programming around control, approval, safety, and identity.
@@ -86,7 +86,7 @@ Children are expert trigger-activators. They can instantly activate your deepest
 - **Academic/Social Struggles:** Support their process rather than trying to fix or control outcomes
 - **Comparison with Other Kids:** Focus on your child's unique development rather than external standards
 
-## Money and Financial Consciousness
+#### Money and Financial Consciousness
 
 **How Money Triggers Unconscious Patterns:**
 - Scarcity programming from childhood
@@ -100,7 +100,7 @@ Children are expert trigger-activators. They can instantly activate your deepest
 - **Generosity Practice:** Give from abundance consciousness rather than scarcity fear
 - **Financial Planning:** Make money decisions from long-term consciousness rather than short-term emotion
 
-## Health and Body Integration
+#### Health and Body Integration
 
 **Physical Practices for Consciousness:**
 - **Eating Awareness:** Practice conscious eating - taste, texture, hunger/fullness cues
@@ -108,7 +108,7 @@ Children are expert trigger-activators. They can instantly activate your deepest
 - **Sleep Hygiene:** Create bedtime routines that support consciousness rather than unconscious scrolling
 - **Substance Awareness:** Notice how different substances (caffeine, alcohol, sugar) affect your consciousness capacity
 
-## Common Integration Pitfalls
+#### Common Integration Pitfalls
 
 **The Perfectionism Trap:**
 Expecting to be conscious all the time creates pressure that actually reduces consciousness capacity. Aim for progress, not perfection.
@@ -125,7 +125,7 @@ Trying to apply manual override to everything at once leads to choice fatigue. P
 **The Regression Panic:**
 When you slip back into old patterns (which is normal), panicking about it creates more unconsciousness. Treat regression as information, not failure.
 
-## Building Sustainable Integration
+#### Building Sustainable Integration
 
 **Energy Management:**
 - **Consciousness Capacity:** Recognize that conscious choice requires energy and plan accordingly

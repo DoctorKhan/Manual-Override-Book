@@ -1,7 +1,7 @@
 
-# Chapter 36: Glitches in the Simulation
+### Chapter 36: Glitches in the Simulation
 
-## Reading the Game's Hidden Code
+#### Reading the Game's Hidden Code
 
 As you progress on this path, a strange thing begins to happen. The world, which once seemed solid, predictable, and mundane, starts to reveal cracks in its facade. You begin to notice phenomena that don't quite fit the conventional rules of reality. These are not hallucinations or delusions. They are what we will call **Glitches in the Simulation**.
 
@@ -9,7 +9,7 @@ These glitches are not errors in the system. They are features, not bugs. Think 
 
 Learning to recognize and interpret these phenomena is a key part of mastering the game. It transforms your journey from a simple process of self-improvement into a thrilling investigation into the nature of reality itself.
 
-### Synchronicity: The Quest Markers of Reality
+##### Synchronicity: The Quest Markers of Reality
 
 The most common glitch you will encounter is **synchronicity**. These are the meaningful coincidences that feel too perfect to be random. You think of a long-lost friend, and they call you an hour later. You're grappling with a specific problem, and a book falls off a shelf, opening to the exact page that holds the answer. You keep seeing the same sequence of numbers everywhere you go.
 
@@ -21,7 +21,7 @@ In NPC mode, these events are dismissed as mere coincidence. But the conscious p
 *   **Follow the Energy:** Synchronicities often highlight a path of energetic alignment. If you're considering a new project and you suddenly start seeing signs related to it everywhere, the game is likely telling you that this path is "unlocked" and worth exploring.
 *   **Keep a Log:** For a week, keep a simple "Synchronicity Log." Note down the events that occur. At the end of the week, review the log. You may discover a clear pattern or a message that was invisible to you in the moment.
 
-### Déjà Vu: Reaching a Pre-Scripted Checkpoint
+##### Déjà Vu: Reaching a Pre-Scripted Checkpoint
 
 **Déjà vu** is the uncanny and often unsettling feeling that you have "lived this exact moment before." Every detail—the light, the sounds, the words being spoken—feels intensely familiar, as if you are re-watching a scene from a movie you've already seen.
 
@@ -35,7 +35,7 @@ It is a signal of profound importance. It's the game's way of telling you: **"Pa
 *   **Observe the Choice:** Déjà vu moments are often choice points, even if they seem mundane. Are you about to agree to something? Make a promise? React in an old, programmed way? The feeling of familiarity is your cue to engage Manual Override and ensure you are making a conscious choice, not just repeating a script.
 *   **Look for the Lesson:** If you feel you are "replaying a level," ask yourself: "What did I miss last time?" The situation is repeating because there is a lesson you haven't fully integrated. The déjà vu is your opportunity to choose a different path and break the loop.
 
-### Precognitive Flashes: Peeking at the Strategy Guide
+##### Precognitive Flashes: Peeking at the Strategy Guide
 
 As your awareness becomes more refined, you may experience **precognitive flashes**. These can come as fragments in a dream—seeing an event that then happens the next day—or as a sudden, powerful intuitive "hit" that gives you information about the future. You might have a sudden urge to take a different route home, only to learn later that you avoided a major accident. You might have a dream about a business deal that then unfolds in uncanny detail.
 
@@ -47,7 +47,7 @@ This is not magic; it is an advanced skill of the conscious player. You are mome
 *   **Cultivate Gratitude:** When these flashes occur, be grateful. It is a sign that your connection to your deeper awareness is strengthening. The more you honor these insights, the more frequently and clearly they are likely to appear.
 *   **Focus on Action, Not Fear:** The purpose of these glimpses is not to create anxiety about the future, but to empower you in the present. The future is not fixed. A precognitive flash is a glimpse of a *probable* future. Your conscious choices in the present moment can still change the outcome.
 
-## The Memory Paradox: Did You Really Experience It?
+#### The Memory Paradox: Did You Really Experience It?
 
 As you become more skilled at recognizing these glitches, a disturbing question begins to emerge. One that challenges everything we've discussed about autopilot and conscious presence. It's a question that may fundamentally alter your understanding of what it means to "be present" at all.
 
@@ -55,7 +55,7 @@ As you become more skilled at recognizing these glitches, a disturbing question 
 
 This isn't a philosophical riddle. It's a practical investigation into the nature of consciousness itself. And the answer reveals something profound about the game you're playing.
 
-### The Three Levels of Experience
+##### The Three Levels of Experience
 
 Through careful observation and investigation, we can identify three distinct levels of experience that most people never differentiate:
 
@@ -97,7 +97,7 @@ Through careful observation and investigation, we can identify three distinct le
 - Time richness: Moments feel full and complete
 - Choice awareness: Clear sense of selecting from multiple options
 
-### The Disturbing Implications
+##### The Disturbing Implications
 
 This framework reveals something unsettling about human experience:
 
@@ -107,7 +107,7 @@ This framework reveals something unsettling about human experience:
 
 **The Autopilot Illusion**: The seamless nature of memory makes it impossible to distinguish between simulated and genuine experiences after the fact. You can't tell from memory alone whether you were actually present or just running on programming.
 
-### The Investigation Exercise
+##### The Investigation Exercise
 
 For the next week, try this experiment:
 
@@ -126,7 +126,7 @@ For the next week, try this experiment:
 - How much of your day is spent in each mode?
 - What does it take to shift from observation to active participation?
 
-### Why This Matters
+##### Why This Matters
 
 Understanding these three levels transforms your entire approach to consciousness work:
 

@@ -1,8 +1,8 @@
-# Chapter 15: How Consciousness Influences Reality
+### Chapter 15: How Consciousness Influences Reality
 
 The key insight for manual override is understanding how consciousness can influence physical reality. Rather than getting lost in complex physics, we need to focus on the practical mechanism: consciousness operates through what we can call "energy charges" that create real effects in the physical world.
 
-## The Basic Principle: External Energy Creating Structure
+#### The Basic Principle: External Energy Creating Structure
 
 Think of the dolphin analogy: when a dolphin leaps through water, it creates impossible molecular patterns that would appear miraculous to scientists who could only measure water molecules. Similarly, when consciousness exercises genuine agency, it creates neural and behavioral patterns that appear to defy mechanical cause-and-effect.
 
@@ -15,7 +15,7 @@ Just as the dolphin represents external energy organizing water molecules into c
 - Manual override is learning to consciously direct this higher-dimensional energy
 - The practices in this book help you access and direct this creative force
 
-## Working with Energy Charges
+#### Working with Energy Charges
 
 In practical terms, consciousness influences reality through what we experience as "charges"—patterns of attraction and aversion that shape our responses to life situations.
 
@@ -46,7 +46,7 @@ Instead of trying to force outcomes through willpower, manual override works by 
 
 **Present-Moment Focus**: Consciousness can only influence reality in the present moment. Energy dispersed across past regrets and future anxieties has no power to create change.
 
-## Daily Practice Applications
+#### Daily Practice Applications
 
 **Morning Awareness Development**: Spend 5-10 minutes each morning developing both clear awareness and energetic presence. Start with clarity—present, focused attention—then gradually increase the energy you're directing into that attention without losing the clarity.
 
@@ -62,7 +62,7 @@ Instead of trying to force outcomes through willpower, manual override works by 
 
 The key insight is that consciousness can influence reality by learning to consciously direct the same creative energy that organizes all life. Manual override is about participating consciously in the ongoing creation of your experience.
 
-## When Programming Fights Back
+#### When Programming Fights Back
 
 **Understanding Internal Resistance:**
 

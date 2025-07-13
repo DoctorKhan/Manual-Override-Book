@@ -1,4 +1,4 @@
-# Chapter 1: The Four Stages of Manual Override Development
+### Chapter 1: The Four Stages of Manual Override Development
 
 Manual override isn't achieved overnight. It's a progressive development that unfolds through four distinct stages, each with specific skills to master and measurable outcomes to track.
 
@@ -6,7 +6,7 @@ Manual override isn't achieved overnight. It's a progressive development that un
 
 Understanding these stages helps you know where you are in the process and what to focus on next.
 
-## The Mystery of Charisma
+#### The Mystery of Charisma
 
 Before diving into the stages, consider this puzzle: **What makes someone charismatic?**
 
@@ -28,7 +28,7 @@ Before diving into the stages, consider this puzzle: **What makes someone charis
 
 ---
 
-## Stage 1: Pattern Recognition (Weeks 1-4)
+#### Stage 1: Pattern Recognition (Weeks 1-4)
 **Core Skill:** Identifying unconscious automation in real-time
 
 **What You're Learning:**
@@ -37,7 +37,7 @@ Before diving into the stages, consider this puzzle: **What makes someone charis
 - Noticing the gap between stimulus and response
 - Distinguishing between conscious choice and automatic reaction
 
-### Daily Practices:
+##### Daily Practices:
 
 **Automation Tracking:**
 - Set 3-5 random phone alarms daily
@@ -51,25 +51,25 @@ Before diving into the stages, consider this puzzle: **What makes someone charis
 - Practice the "pause" when you notice a trigger
 - Take one conscious breath before responding
 
-### Measurable Outcomes:
+##### Measurable Outcomes:
 - ✅ You can identify at least 5 of your personal trigger patterns
 - ✅ You catch yourself in automatic mode at least 10 times per day
 - ✅ You successfully pause before reacting at least 3 times per day
 - ✅ You can distinguish between "I chose this" and "this just happened"
 
-### Common Challenges:
+##### Common Challenges:
 - **Forgetting to pay attention** - This is normal; the system resists observation
 - **Judging yourself for being automatic** - Observation without judgment is the goal
 - **Trying to change patterns before you can see them clearly** - Recognition comes first
 
-### Signs You're Ready for Stage 2:
+##### Signs You're Ready for Stage 2:
 
 - 🎯 Pattern recognition becomes more natural and less effortful
 - 🎯 You start noticing automation in others without judgment
 - 🎯 You have moments where you catch yourself mid-pattern and can shift
 - 🎯 You're curious about what's watching the patterns
 
-## Stage 2: Observer Development (Weeks 5-12)
+#### Stage 2: Observer Development (Weeks 5-12)
 **Core Skill:** Strengthening the witness consciousness that can step back from patterns
 
 **What You're Learning:**
@@ -78,7 +78,7 @@ Before diving into the stages, consider this puzzle: **What makes someone charis
 - Building the capacity to hold charges without immediately reacting
 - Understanding the difference between being in a state and observing a state
 
-### Daily Practices:
+##### Daily Practices:
 
 **Observer Meditation:**
 - 10-15 minutes daily of watching thoughts/emotions without engaging
@@ -92,7 +92,7 @@ Before diving into the stages, consider this puzzle: **What makes someone charis
 **Equanimity Training:**
 - Deliberately expose yourself to minor irritations and practice observing without reacting
 
-### Measurable Outcomes:
+##### Measurable Outcomes:
 - ✅ You can maintain observer perspective for 5+ minutes during meditation
 - ✅ You can hold a triggered state for 30+ seconds without automatic reaction
 - ✅ You use observer language ("I notice...") at least 10 times per day
@@ -112,7 +112,7 @@ Before diving into the stages, consider this puzzle: **What makes someone charis
 - 🎯 You start seeing choice points that were previously invisible
 - 🎯 You're curious about consciously directing your responses
 
-## Stage 3: Choice Point Training (Weeks 13-24)
+#### Stage 3: Choice Point Training (Weeks 13-24)
 **Core Skill:** Consciously directing responses from the Observer position
 
 **What You're Learning:**
@@ -121,7 +121,7 @@ Before diving into the stages, consider this puzzle: **What makes someone charis
 - Building the energetic capacity to sustain conscious choice
 - Learning to work with resistance when the system fights back
 
-### Daily Practices:
+##### Daily Practices:
 
 **Conscious Response Training:**
 - In low-stakes situations, deliberately choose responses different from your automatic patterns
@@ -135,7 +135,7 @@ Before diving into the stages, consider this puzzle: **What makes someone charis
 **Resistance Work:**
 - When you notice internal resistance to conscious choice, observe it with curiosity rather than fighting it
 
-### Measurable Outcomes:
+##### Measurable Outcomes:
 
 ✅ You can consciously choose your response in 70% of triggered situations
 ✅ You have developed 3+ alternative responses for your major trigger patterns
@@ -149,14 +149,14 @@ Before diving into the stages, consider this puzzle: **What makes someone charis
 - Perfectionism about always making the "right" choice
 - Relationships changing as you become less predictable
 
-### Signs You're Ready for Stage 4:
+##### Signs You're Ready for Stage 4:
 
 - 🎯 Conscious choice becomes more natural and less effortful
 - 🎯 You can maintain choice capacity even under moderate stress
 - 🎯 You start influencing situations through your presence rather than just your actions
 - 🎯 You're curious about living from conscious choice as your default mode
 
-## Stage 4: Integration Mastery (Months 7-12+)
+#### Stage 4: Integration Mastery (Months 7-12+)
 **Core Skill:** Living from conscious choice as your primary operating system
 
 **What You're Learning:**
@@ -165,7 +165,7 @@ Before diving into the stages, consider this puzzle: **What makes someone charis
 - Developing the capacity to influence reality through conscious presence
 - Becoming a beneficial influence in others' development without preaching
 
-### Daily Practices:
+##### Daily Practices:
 
 **Integrated Living:**
 - Bring conscious choice to routine activities (eating, walking, working)
@@ -179,7 +179,7 @@ Before diving into the stages, consider this puzzle: **What makes someone charis
 **Creative Expression:**
 - Use conscious choice to create something meaningful in the world
 
-### Measurable Outcomes:
+##### Measurable Outcomes:
 
 ✅ Conscious choice is your default mode - automation is the exception
 ✅ You can maintain choice capacity even under high stress
@@ -193,7 +193,7 @@ Before diving into the stages, consider this puzzle: **What makes someone charis
 - Integration challenges - maintaining consciousness in all life areas
 - The responsibility that comes with increased influence
 
-### Ongoing Development:
+##### Ongoing Development:
 
 Stage 4 isn't an endpoint but the beginning of lifelong mastery. Advanced practitioners continue developing:
 
@@ -202,7 +202,7 @@ Stage 4 isn't an endpoint but the beginning of lifelong mastery. Advanced practi
 - 🎯 Deeper integration of consciousness into creative and service work
 - 🎯 Mastery of working with collective unconscious patterns
 
-## Using This Framework
+#### Using This Framework
 
 **Track Your Progress:**
 - Assess yourself honestly against the measurable outcomes

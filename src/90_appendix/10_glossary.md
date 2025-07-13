@@ -1,6 +1,6 @@
 # Glossary of Key Terms
 
-## Core Concepts
+#### Core Concepts
 
 **The Unconstructed**
 
@@ -30,7 +30,7 @@ Not a fixed entity, but a relational process. It is the function of awareness th
 
 A model for understanding the psyche as a collection of sub-personalities or "parts." In this book, **Charges** are often functionally equivalent to parts—they are energetic patterns with their own beliefs, feelings, and history. The Cosmic Rhythm (Identify, Relate, Integrate) is a method for working with these parts.
 
-## Advanced Concepts
+#### Advanced Concepts
 
 **Planes of Existence**
 
@@ -44,7 +44,7 @@ A model for understanding spiritual development as a collaborative process. Soul
 
 Not passive resignation, but a conscious, active process. The deepest surrender is not to a flow state, but to the unconstructed itself. At the highest level, it involves the NPC (character) surrendering to being skillfully played by the soul (the player).
 
-## Practical Terms
+#### Practical Terms
 
 **Integration**
 

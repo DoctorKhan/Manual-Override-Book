@@ -1,10 +1,10 @@
-# Chapter 24: The Art of Conscious Resistance
+### Chapter 24: The Art of Conscious Resistance
 
 As your awareness threatens the autopilot's dominance, your own programming will begin to fight back. This is not failure; it is a sign of success. The system is deploying its defense mechanisms: sudden fatigue, spikes of anxiety, overwhelming boredom, or floods of distracting thoughts.
 
 These are not personal failings but impersonal programs designed to protect the status quo. Fighting them with force is a losing battle that only exhausts your energy. The key is to reframe the entire encounter: do not fight resistance, investigate it. This chapter outlines the strategies for skillfully working with your programming when it resists.
 
-### Strategy 1: Reframe Resistance as a Signal
+##### Strategy 1: Reframe Resistance as a Signal
 
 Your first move is to change your relationship to resistance. When it appears, do not treat it as an obstacle. Treat it as a flare, illuminating the precise location of a buried program.
 
@@ -13,7 +13,7 @@ Your first move is to change your relationship to resistance. When it appears, d
 
 When resistance arises, your new first thought should be, "Thank you for showing me where the work is." This simple shift moves you from a position of victimhood to one of a curious detective.
 
-### Strategy 2: Downshift the Practice (The "Micro-Dose" Method)
+##### Strategy 2: Downshift the Practice (The "Micro-Dose" Method)
 
 The autopilot's defenses are often triggered by intensity. A 20-minute meditation can feel like a direct assault, causing the system to flood you with anxiety or fatigue. The solution is not to force your way through, but to operate beneath the system's radar.
 
@@ -23,7 +23,7 @@ The autopilot's defenses are often triggered by intensity. A 20-minute meditatio
 
 This is the art of the "micro-dose." You apply a dose of awareness so small that it doesn't trigger the full-blown defense mechanism. By doing this consistently, you gradually build your capacity and desensitize the program. The goal is to make progress so subtle that the autopilot doesn't notice until it's too late.
 
-### Strategy 3: Make the Resistance the Object of Your Practice
+##### Strategy 3: Make the Resistance the Object of Your Practice
 
 Your programming expects to be fought, ignored, or suppressed. Do the one thing it doesn't expect: give it your full, undivided, compassionate attention.
 
@@ -37,7 +37,7 @@ When anxiety spikes, don't flee from it. Turn towards it.
 
 By making the resistance the object of your curiosity, you stop fueling it with your struggle. You are no longer fighting it; you are observing it. And no program can survive being calmly and consistently observed. It dissolves under the light of neutral awareness.
 
-### Strategy 4: Titrate Your Exposure (The Pendulation Technique)
+##### Strategy 4: Titrate Your Exposure (The Pendulation Technique)
 
 For very strong charges and resistance, direct, sustained attention can be too much. In these cases, use pendulation. This involves gently swinging your attention back and forth between the difficult sensation and a place of safety or neutrality.
 

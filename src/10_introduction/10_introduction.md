@@ -51,7 +51,7 @@ The article felt less like a scientific report and more like a call to action. A
 
 The investigation began not in a lab, but in a grocery store parking lot, with a woman staring at a phone that had just stolen twenty minutes of her life.
 
-## Chapter 2: Becoming a Field Investigator
+#### Chapter 2: Becoming a Field Investigator
 
 Sarah printed out the article. She read it again, circling key phrases. "Operating on autopilot." "Processes outside conscious awareness." "Crisis of consciousness."
 

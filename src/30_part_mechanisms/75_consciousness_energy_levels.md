@@ -1,8 +1,8 @@
-# Chapter 16: The Infinite Cascade: How Free Will Emerges
+### Chapter 16: The Infinite Cascade: How Free Will Emerges
 
 *After debunking the pseudo-scientific claims about quantum consciousness, we can explore what a genuine physics-based model of consciousness might actually look like. The answer reveals something beautiful: free will emerges through an infinite cascade of levels, each receiving guidance from the level above.*
 
-## The Hydrogen Atom: Nature's Template for Freedom
+#### The Hydrogen Atom: Nature's Template for Freedom
 
 Picture the simplest atom in the universe—hydrogen. One electron, one proton, yet it reveals something profound about the nature of freedom itself.
 
@@ -10,7 +10,7 @@ The electron can only exist at specific energy levels, like rungs on an invisibl
 
 This convergence pattern isn't just physics trivia. It's the template for understanding how consciousness itself works.
 
-## The Infinite Cascade
+#### The Infinite Cascade
 
 ```
                     ∞ ═══════════ TRUE FREE WILL
@@ -50,7 +50,7 @@ Here's the profound insight: **Each level appears to have free will because it r
 
 **The Beautiful Truth**: Free will isn't an illusion—it's real at every level. But it's also not ultimate at any finite level. True free will only exists at the infinite convergence point, cascading down through all the levels below.
 
-## Living the Cascade
+#### Living the Cascade
 
 **Level 1: The Automatic Zone**
 This is where most people spend most of their time. Someone cuts you off in traffic, you get angry. You see a donut, you want it. You hear criticism, you defend. The responses feel inevitable because at this level, they basically are—pure programming running its course.
@@ -67,7 +67,7 @@ Each level brings subtler awareness, easier choice, more natural responses. But 
 **Level ∞: The Source**
 At the infinite limit, influence becomes instantaneous. This is true free will—not the struggle of decision-making, but what advanced practitioners call "effortless action" or "choiceless choice." You respond perfectly to each moment because you're operating from the source of all choice itself.
 
-## Why This Matters
+#### Why This Matters
 
 **The Illusion of Control**
 Most people think free will means being able to control everything through willpower. But the cascade model reveals something different: true freedom comes from learning to receive guidance from higher levels of your own consciousness.
@@ -85,7 +85,7 @@ Instead of trying to control outcomes, you learn to:
 **The Promise**
 As you develop access to higher levels, choice becomes easier and more natural. Eventually, you might touch that convergence point where influence becomes instantaneous—where you respond perfectly to each moment not through struggle, but through alignment with the infinite source of choice itself.
 
-## The Deeper Mystery
+#### The Deeper Mystery
 
 This cascade model solves the ancient puzzle of free will versus determinism. Both are true, depending on which level you're examining.
 

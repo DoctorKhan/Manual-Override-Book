@@ -1,6 +1,6 @@
-# Chapter 37: Conclusion: The Case Closed
+### Chapter 37: Conclusion: The Case Closed
 
-## The Mystery Solved
+#### The Mystery Solved
 
 When we began this investigation, we started with a simple but disturbing observation: people seemed to be living on autopilot, making the same mistakes repeatedly, following patterns they never consciously chose.
 
@@ -30,7 +30,7 @@ Perhaps most profound is the recognition that genuine choice—manual override�
 
 This explains why abiogenesis remains unsolvable and why genuine free will seems to defy physical laws. We're not just biological machines—we're consciousness learning to operate through matter, creating the miracle of life itself.
 
-## What This Means for Your Life
+#### What This Means for Your Life
 
 This isn't just theoretical knowledge. It's a practical roadmap for reclaiming conscious control of your existence.
 
@@ -43,7 +43,7 @@ This isn't just theoretical knowledge. It's a practical roadmap for reclaiming c
 - How to distinguish genuine presence from ego's simulation of it
 - The energetic principles that make sustained consciousness possible
 
-## The Larger Implications
+#### The Larger Implications
 
 But the implications extend far beyond personal development. If enough people develop manual override capacity, it could fundamentally alter human civilization itself.
 
@@ -54,7 +54,7 @@ But the implications extend far beyond personal development. If enough people de
 - **Education** focused on developing consciousness rather than just information transfer
 - **Technology** designed to enhance awareness rather than capture attention
 
-## Your Role in the Investigation
+#### Your Role in the Investigation
 
 The mystery is solved, but the work is just beginning. Every person who develops manual override capacity becomes part of the solution to humanity's consciousness crisis.
 
@@ -64,7 +64,7 @@ The mystery is solved, but the work is just beginning. Every person who develops
 3. **Share the discoveries** - Help others recognize the automation and develop genuine agency
 4. **Live the solution** - Demonstrate what conscious living looks like in practice
 
-## The Ultimate Truth
+#### The Ultimate Truth
 
 Perhaps the most profound discovery of our investigation is this: the automation isn't a bug in human consciousness—it's a feature. It's the training ground that allows souls to develop the capacity for genuine choice.
 

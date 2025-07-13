@@ -1,6 +1,6 @@
-# Part 3: Application
+## Part 3: Application
 
-## The Case Closed, The Work Begins
+### The Case Closed, The Work Begins
 
 We've solved the mystery. The evidence is clear:
 

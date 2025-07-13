@@ -12,7 +12,7 @@
 - You can develop genuine agency without accepting any particular model of soul development
 - Focus on what you can observe directly in your own experience
 
-## The Soul Development Progression
+#### The Soul Development Progression
 
 Understanding NPC consciousness becomes clearer when we recognize it as part of a larger developmental progression. Souls don't begin with human incarnation—they work their way up through increasingly complex forms:
 
@@ -43,7 +43,7 @@ The human experience represents sophisticated gameplay where:
 - **Mastery requirements are higher**: Success requires learning to hold multiple archetypal patterns simultaneously
 - **Graduation potential exists**: Mastering human-level charges qualifies the soul for direct operation in the soul plane
 
-### Soul Creation and Population Dynamics
+##### Soul Creation and Population Dynamics
 
 A natural question arises: If souls progress from simpler to more complex life forms, where do all the souls come from to populate the trillions of bacteria, billions of animals, and billions of humans?
 

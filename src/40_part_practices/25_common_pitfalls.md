@@ -1,8 +1,8 @@
-# Chapter 21: Common Pitfalls and How to Avoid Them
+### Chapter 21: Common Pitfalls and How to Avoid Them
 
 Every person developing manual override capacity encounters predictable obstacles. These aren't personal failures—they're built into the process. Understanding these pitfalls in advance helps you navigate them skillfully rather than being derailed by them.
 
-## The Spiritual Ego Trap
+#### The Spiritual Ego Trap
 
 **What It Looks Like:**
 - Feeling superior to people who are "still unconscious"
@@ -25,7 +25,7 @@ The ego is incredibly clever. When it can't prevent consciousness development, i
 - You use spiritual language to justify avoiding difficult conversations or responsibilities
 - You believe you're more advanced than you actually are
 
-## The Perfectionism Trap
+#### The Perfectionism Trap
 
 **What It Looks Like:**
 - Expecting to be conscious all the time
@@ -45,7 +45,7 @@ The same perfectionist programming that drives other areas of life gets applied 
 **Reframe:**
 Instead of "I should be conscious all the time," try "I'm gradually expanding the areas where conscious choice is my default."
 
-## The Spiritual Bypassing Trap
+#### The Spiritual Bypassing Trap
 
 **What It Looks Like:**
 - Using meditation or presence practices to avoid dealing with practical problems
@@ -65,7 +65,7 @@ Consciousness practices can feel so much better than dealing with messy human pr
 **Test:**
 Ask yourself: "Is my spiritual practice helping me engage more skillfully with life, or helping me avoid life's challenges?"
 
-## The Isolation Trap
+#### The Isolation Trap
 
 **What It Looks Like:**
 - Withdrawing from relationships because others are "unconscious"
@@ -85,7 +85,7 @@ As you become more conscious, unconscious environments can feel jarring. It's te
 **Remember:**
 True consciousness includes the ability to remain centered while engaging with unconsciousness. Isolation often indicates spiritual immaturity, not advancement.
 
-## The Overwhelm Trap
+#### The Overwhelm Trap
 
 **What It Looks Like:**
 - Trying to apply manual override to every area of life simultaneously
@@ -105,7 +105,7 @@ Enthusiasm for consciousness development can lead to taking on too much too quic
 **Guideline:**
 If consciousness development is making your life more stressful rather than more peaceful, you're probably trying to do too much too quickly.
 
-## The Regression Panic Trap
+#### The Regression Panic Trap
 
 **What It Looks Like:**
 - Panicking when you slip back into old patterns
@@ -125,7 +125,7 @@ We expect consciousness development to be linear, but it's actually cyclical. Re
 **Reframe:**
 Instead of "I'm back where I started," try "I'm noticing unconscious patterns more quickly and returning to consciousness more easily."
 
-## The Comparison Trap
+#### The Comparison Trap
 
 **What It Looks Like:**
 - Comparing your consciousness development to others
@@ -145,7 +145,7 @@ The same competitive programming that operates in other areas gets applied to sp
 **Remember:**
 Consciousness development isn't a race. There's no finish line and no prizes for getting there first.
 
-## The Technique Addiction Trap
+#### The Technique Addiction Trap
 
 **What It Looks Like:**
 - Constantly seeking new practices and techniques
@@ -165,7 +165,7 @@ The mind loves complexity and novelty. It's easier to learn new techniques than 
 **Test:**
 Ask yourself: "Am I using this new technique to avoid doing the basic work I already know I need to do?"
 
-## The Savior Complex Trap
+#### The Savior Complex Trap
 
 **What It Looks Like:**
 - Feeling responsible for awakening others
@@ -185,7 +185,7 @@ As you experience the benefits of consciousness development, you naturally want 
 **Remember:**
 The best way to help others develop consciousness is to develop your own consciousness so thoroughly that your presence becomes an invitation to awakening.
 
-## Navigating Pitfalls Skillfully
+#### Navigating Pitfalls Skillfully
 
 **General Principles:**
 
