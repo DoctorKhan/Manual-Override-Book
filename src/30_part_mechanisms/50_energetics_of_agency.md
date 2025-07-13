@@ -1,4 +1,4 @@
-# The Energetics of Agency
+# Chapter 13: The Energetics of Agency
 
 We have established that consciousness operates on a spectrum from automatic, programmed responses ("NPC consciousness") to moments of genuine, soul-level choice. But why is this agency so inconsistent? Why do our best intentions often collapse into familiar patterns, and why does willpower feel like a battery that depletes?
 

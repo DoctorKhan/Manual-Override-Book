@@ -1,4 +1,4 @@
-# Common Pitfalls and How to Avoid Them
+# Chapter 21: Common Pitfalls and How to Avoid Them
 
 Every person developing manual override capacity encounters predictable obstacles. These aren't personal failures—they're built into the process. Understanding these pitfalls in advance helps you navigate them skillfully rather than being derailed by them.
 

@@ -1,4 +1,4 @@
-# The Path of Most Votes
+# Chapter 17: The Path of Most Votes
 
 The classical world is governed by the Principle of Least Action, a deterministic law stating that an object will always follow the path that minimizes a quantity called "Action." The reason this elegant law holds lies one level down, in the strange and probabilistic world of quantum mechanics.
 

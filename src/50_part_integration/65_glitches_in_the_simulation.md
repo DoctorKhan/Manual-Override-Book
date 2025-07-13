@@ -1,5 +1,5 @@
 
-# Chapter 18: Glitches in the Simulation
+# Chapter 36: Glitches in the Simulation
 
 ## Reading the Game's Hidden Code
 

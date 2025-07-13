@@ -1,4 +1,4 @@
-# Sarah's Journey: The First Glitch
+# Chapter 6: Sarah's Journey: The First Glitch
 
 *Three weeks after discovering the Manual Override framework...*
 

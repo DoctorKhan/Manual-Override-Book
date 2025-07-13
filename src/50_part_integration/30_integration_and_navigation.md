@@ -1,4 +1,4 @@
-# Integration and Navigation: Operating from Multiple Planes
+# Chapter 32: Integration and Navigation: Operating from Multiple Planes
 
 The goal of this work is not to escape this reality, but to operate within it from a higher level of awareness. The advanced practitioner learns to function effectively in the everyday world while simultaneously drawing on resources and intelligence from beyond its limitations. You become a conscious navigator of multiple reality layers, not a prisoner trapped within one.
 

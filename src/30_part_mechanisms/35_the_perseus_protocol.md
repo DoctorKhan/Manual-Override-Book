@@ -1,4 +1,4 @@
-# Chapter 7.5: The Perseus Protocol - Advanced Consciousness Navigation
+# Chapter 10: The Perseus Protocol - Advanced Consciousness Navigation
 
 *The Perseus Protocol represents a sophisticated approach to consciousness work that allows you to see and transform programming without being overwhelmed by the process.*
 

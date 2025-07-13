@@ -1,4 +1,4 @@
-# Breaking Free: Escaping Reality Programming Loops
+# Chapter 27: Breaking Free: Escaping Reality Programming Loops
 
 Mental states like depression, anxiety, and rumination can be understood not just as psychological phenomena, but as lower-plane reality loops that trap consciousness. Within these loops, standard mindfulness practices often fail because the programming of the loop itself distorts every attempt at presence, twisting it into further evidence of the loop's reality.
 

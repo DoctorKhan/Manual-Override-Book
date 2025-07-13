@@ -1,4 +1,4 @@
-# The Infinite Cascade: How Free Will Emerges
+# Chapter 16: The Infinite Cascade: How Free Will Emerges
 
 *After debunking the pseudo-scientific claims about quantum consciousness, we can explore what a genuine physics-based model of consciousness might actually look like. The answer reveals something beautiful: free will emerges through an infinite cascade of levels, each receiving guidance from the level above.*
 

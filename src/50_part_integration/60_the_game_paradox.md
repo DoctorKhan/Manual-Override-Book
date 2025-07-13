@@ -1,4 +1,4 @@
-# The Game Paradox: Why This Isn't a Trap
+# Chapter 35: The Game Paradox: Why This Isn't a Trap
 
 Throughout this book, we've explored consciousness through the metaphor of a sophisticated game—one where we play as characters while gradually remembering we are the players. But this raises a fundamental question that many readers will ask: if we're trapped in this weird video game of existence, how is that not a prison?
 

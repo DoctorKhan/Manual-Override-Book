@@ -1,4 +1,4 @@
-# The Four Stages of Manual Override Development
+# Chapter 1: The Four Stages of Manual Override Development
 
 Manual override isn't achieved overnight. It's a progressive development that unfolds through four distinct stages, each with specific skills to master and measurable outcomes to track.
 

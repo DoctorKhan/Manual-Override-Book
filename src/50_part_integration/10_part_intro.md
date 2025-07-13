@@ -1,4 +1,4 @@
-# Part V: Integration
+# Part 4: Integration
 
 *"The real work begins when you leave the meditation cushion."*
 

@@ -1,4 +1,4 @@
-# The Art of Conscious Resistance
+# Chapter 24: The Art of Conscious Resistance
 
 As your awareness threatens the autopilot's dominance, your own programming will begin to fight back. This is not failure; it is a sign of success. The system is deploying its defense mechanisms: sudden fatigue, spikes of anxiety, overwhelming boredom, or floods of distracting thoughts.
 

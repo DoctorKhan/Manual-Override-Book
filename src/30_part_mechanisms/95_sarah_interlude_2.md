@@ -1,4 +1,4 @@
-# Sarah's Journey: The Quantum Moment
+# Chapter 19: Sarah's Journey: The Quantum Moment
 
 *Six weeks into her consciousness experiments...*
 

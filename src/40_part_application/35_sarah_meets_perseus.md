@@ -1,4 +1,4 @@
-# Sarah Interlude: The Mirror Shield
+# Chapter 25: Sarah Interlude: The Mirror Shield
 
 *Sarah discovers that sometimes the most powerful way to see truth is not to look at it directly.*
 
