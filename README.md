@@ -8,11 +8,29 @@ A groundbreaking exploration of individual consciousness, free will, and persona
 
 This repository contains the source files and compiled output for "Manual Override", part of the Universal Book Compiler series.
 
-## Structure
+**Key Frameworks:**
+- **The Cosmic Rhythm**: The natural three-phase cycle of consciousness (Exploring → Awakening → Returning)
+- **The Four Freedoms**: Advanced navigation tools (Anatta, Ahimsa, Akatta, Wu Wei)
+- **The Multiplanar Hypothesis**: Understanding consciousness across multiple dimensions
+- **Temperature Metrics**: Nirvana as a cooling measurement, not a destination
+- **NPC/Player Framework**: Shifting from unconscious character to conscious player
 
-- `src/` - Source markdown files
-- `output/` - Compiled book outputs
-- `book_config.yaml` - Book configuration
+## Structure
+```
+src/                          - Source markdown files organized by stages
+├── 10_stage_pattern_recognition/  - Charisma phenomenon, metrics, automation evidence
+├── 20_stage_cosmic_rhythm/         - The operating system of consciousness
+├── 30_stage_four_freedoms/         - Navigation tools for conscious choice
+├── 40_stage_multiplanar_integration/ - Ultimate context and advanced techniques
+└── 90_appendices/                  - Glossary, references, quick start guide
+
+output/                       - Compiled book outputs
+├── final/                    - Final compiled versions
+└── web_build/               - MkDocs website build
+
+book_config.yaml             - Book configuration
+NARRATIVE_STRUCTURE_GUIDE.md - Detailed narrative framework
+```
 
 ## Building
 
