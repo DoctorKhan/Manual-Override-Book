@@ -1,4 +1,4 @@
-# Chapter: Advanced Player Techniques - IFS Integration
+# Chapter 16: Chapter: Advanced Player Techniques - IFS Integration
 
 ## Talking to the Characters
 

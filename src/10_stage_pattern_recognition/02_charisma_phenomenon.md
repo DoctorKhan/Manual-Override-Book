@@ -6,11 +6,17 @@ Charisma isn’t just a personality trait. It’s evidence of a different *state
 
 ## The Temperature Connection
 
-But here's what's really fascinating: we already have the language for this phenomenon. When someone has charisma, we say they're "cool" or "chill." This isn't coincidental—it's pointing to something fundamental about the temperature of consciousness.
+Sarah activated Marcus's research interface, curious about this temperature insight.
 
-Charismatic people operate at a lower temperature on the reactivity scale. They're not "hot" with defensiveness, anxiety, or the need to prove themselves. They're "cool"—present, responsive, and undefended. This cooling is what creates the magnetic quality we call charisma.
+**Meta**: "Here's what's really fascinating, Sarah - we already have the language for this phenomenon. When someone has charisma, we say they're 'cool' or 'chill.' This isn't coincidental."
 
-Think about it: when someone is "hot-headed," "fired up," or "burning with anger," they repel others. But when someone is "cool as a cucumber," "chill," or has a "cool presence," people are naturally drawn to them.
+**Dr. Neural**: "From a neuroscience perspective, charismatic people show lower activation in threat-detection circuits. Their nervous systems are literally running cooler."
+
+**Sage**: "The wisdom traditions have always known this. A heated mind creates suffering for self and others. A cool mind creates peace and attraction."
+
+**Practical Pat**: "Think about it practically - when someone is 'hot-headed,' 'fired up,' or 'burning with anger,' they repel others. But when someone is 'cool as a cucumber,' 'chill,' or has a 'cool presence,' people are naturally drawn to them."
+
+**Meta**: "It's pointing to something fundamental about the temperature of consciousness. Charismatic people operate at a lower temperature on the reactivity scale - present, responsive, and undefended rather than hot with defensiveness and anxiety."
 
 ---
 
