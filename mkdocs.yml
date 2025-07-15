@@ -3,61 +3,11 @@ site_description: A groundbreaking exploration of individual consciousness, free
   and personal liberation from unconscious programming.
 site_author: Rez Khan
 site_url: https://universalbookcompiler.com/10_Manual_Override/
-site_dir: output/web_build
+site_dir: ../site_build
 docs_dir: docs
 nav:
 - index.md
 - Manual Override: manual-override.md
-- 'Part 1: The Evidence':
-  - part-1-the-evidence.md
-  - chapter-1-the-four-stages-of-manual-override-development.md
-  - chapter-2-automation-evidence.md
-  - chapter-3-consciousness-anomalies.md
-  - chapter-4-cosmic-rhythm.md
-  - chapter-5-foundational-practices.md
-  - chapter-6-sarahs-journey-the-first-glitch.md
-  - chapter-7-the-personal-game-awareness-vs-programming.md
-- 'Part 2: How Consciousness Actually Works':
-  - part-2-how-consciousness-actually-works.md
-  - chapter-8-the-observer-from-witness-to-relationship.md
-  - chapter-9-the-malleable-mind.md
-  - chapter-10-the-perseus-protocol-advanced-consciousness-navigation.md
-  - chapter-11-the-body-as-a-process.md
-  - chapter-12-riding-the-bicycle-why-you-keep-your-programming.md
-  - chapter-13-the-energetics-of-agency.md
-  - chapter-14-the-manifestation-trap.md
-  - chapter-15-how-consciousness-influences-reality.md
-  - chapter-16-the-infinite-cascade-how-free-will-emerges.md
-  - chapter-17-the-path-of-most-votes.md
-  - chapter-18-the-presence-paradox.md
-  - chapter-19-sarahs-journey-the-quantum-moment.md
-  - chapter-20-daily-life-integration-living-manual-override.md
-  - chapter-21-common-pitfalls-and-how-to-avoid-them.md
-  - chapter-22-building-sustainable-practice-routines.md
-  - chapter-23-the-anatomy-of-a-choice-point.md
-- 'Part 3: Application':
-  - part-3-application.md
-  - chapter-24-the-art-of-conscious-resistance.md
-  - chapter-25-sarah-interlude-the-mirror-shield.md
-  - chapter-26-marcus-interlude-the-charisma-code.md
-  - chapter-27-breaking-free-escaping-reality-programming-loops.md
-  - chapter-28-the-paradox-of-surrender.md
-  - chapter-29-sarahs-journey-the-glitch-in-the-matrix.md
-  - chapter-30-from-the-meditation-cushion-to-the-real-world.md
-- 'Part 4: Integration':
-  - part-4-integration.md
-  - chapter-31-the-four-freedoms-advanced-navigation-system.md
-  - chapter-32-integration-and-navigation-operating-from-multiple-planes.md
-  - chapter-33-the-brain-as-receiver-reconciling-consciousness-and-neuroscience.md
-  - chapter-34-a-unique-synthesis.md
-  - chapter-35-the-game-paradox-why-this-isnt-a-trap.md
-  - chapter-36-glitches-in-the-simulation.md
-  - chapter-37-conclusion-the-case-closed.md
-  - chapter-38-workplace-consciousness.md
-  - chapter-39-quick-start-guide.md
-  - chapter-40-appendix-c-the-physics-of-consciousness-levels.md
-  - chapter-41-glossary-of-key-terms.md
-  - chapter-42-appendix-a-a-speculative-metaphysical-model.md
 - Downloads: downloads/index.md
 theme:
   name: material
