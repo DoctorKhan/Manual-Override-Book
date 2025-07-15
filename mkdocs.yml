@@ -3,7 +3,7 @@ site_description: A groundbreaking exploration of individual consciousness, free
   and personal liberation from unconscious programming.
 site_author: Rez Khan
 site_url: https://universalbookcompiler.com/10_Manual_Override/
-site_dir: ../site_build
+site_dir: output/web_build
 docs_dir: docs
 nav:
 - index.md
