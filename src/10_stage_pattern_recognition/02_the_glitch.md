@@ -1,12 +1,18 @@
-## The Glitch
+# Chapter 1: The Glitch
 
 The moment it happened, Sarah didn't recognize it for what it was. Not a failure, not a personal flaw, but a glitch. A shimmering, unsettling crack in the ordinary fabric of her life.
 
-She was sitting in her car in the grocery store parking lot, staring at her phone. Twenty minutes had vanished. Just… gone. One moment she'd been searching for a recipe, the next she was deep in a rabbit hole of celebrity gossip, a faint, greasy film of comparison anxiety coating her mood. How had she gotten there? She hadn't consciously *decided* to spend twenty minutes scrolling mindlessly. It had just… happened.
+She was sitting in her car in the grocery store parking lot, staring at her phone. Twenty minutes had vanished. Just… gone. One moment she'd been searching for a recipe, the next she was deep in a rabbit hole of celebrity gossip, a faint, greasy film of comparison anxiety coating her mood.
 
-This wasn't a one-off. Lately, life felt like a series of automated sequences. The route she took to work each day – the same one, even when traffic was terrible. The food she chose – often out of habit, not hunger. The words she spoke to her partner during their last argument – disturbingly familiar, as if they were replaying a scene from an old movie.
+*How had she gotten there?*
 
-How many of those moments had actually been *her* choices? The question felt like a cold hand tightening around her chest.
+She hadn't consciously *decided* to spend twenty minutes scrolling mindlessly. It had just… happened.
+
+This wasn't a one-off. Lately, life felt like a series of automated sequences. The route she took to work each day—the same one, even when traffic was terrible. The food she chose—often out of habit, not hunger. The words she spoke to her partner during their last argument—disturbingly familiar, as if they were replaying a scene from an old movie.
+
+*How many of those moments had actually been her choices?*
+
+The question felt like a cold hand tightening around her chest.
 
 Around the same time, she stumbled upon an article online. It wasn't about celebrity gossip. It was about neuroscience, about a Dr. Elena Rodriguez who was publishing startling research on human decision-making. Sarah, despite her recent penchant for digital distraction, found herself drawn in.
 
