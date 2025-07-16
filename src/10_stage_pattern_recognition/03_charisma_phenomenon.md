@@ -1,4 +1,4 @@
-# Chapter 2: The Magnetic Exception
+# Chapter 3: The Magnetic Exception
 
 Sarah's discovery of Dr. Rodriguez's research left her with more questions than answers. If most of her decisions weren't actually *hers*, then what was making them? And more importantly—were there people who had somehow broken free from this automation?
 

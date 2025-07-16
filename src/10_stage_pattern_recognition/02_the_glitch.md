@@ -1,4 +1,4 @@
-# Chapter 1: The Glitch
+# Chapter 2: The Glitch
 
 The moment it happened, Sarah didn't recognize it for what it was. Not a failure, not a personal flaw, but a glitch. A shimmering, unsettling crack in the ordinary fabric of her life.
 

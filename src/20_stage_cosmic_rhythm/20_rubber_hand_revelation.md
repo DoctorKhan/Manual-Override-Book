@@ -2,7 +2,7 @@ Of course. Here is the revised chapter, integrating the more direct, body-first 
 
 ***
 
-# Chapter 10: The Rubber Hand Revelation
+# Chapter 11: The Rubber Hand Revelation
 ### Understanding the Mechanism of Identification
 
 Before we delve into the science, consider the story of a colleague, Maya. She was the office go-to for navigating complex paperwork. Whether it was a friend's tax forms or a mentee's job application, Maya could calmly sort through the chaos, offering encouragement and clear advice. Yet, when faced with her own paperwork, she would freeze. Procrastination would set in, followed by a familiar knot of anxiety in her chest.
