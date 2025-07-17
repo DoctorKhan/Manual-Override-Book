@@ -1,4 +1,4 @@
-# Chapter 7: Chapter: Metrics, Not Goals - The Cooling Principle
+# Chapter 5: Chapter: Metrics, Not Goals - The Cooling Principle
 
 ## The Misunderstood Nature of Spiritual States
 

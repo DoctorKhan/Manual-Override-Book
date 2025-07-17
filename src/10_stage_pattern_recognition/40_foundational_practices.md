@@ -1,4 +1,4 @@
-# Chapter 8: Foundational Practices - Reality-Breaking Technologies
+# Chapter 6: Foundational Practices - Reality-Breaking Technologies
 
 Sarah had read enough theory. She needed practical tools—ways to actually work with the automation she'd discovered in her own life. Marcus's research team had compiled what they called "reality-breaking technologies"—practices refined over thousands of years but often misunderstood in modern contexts.
 
