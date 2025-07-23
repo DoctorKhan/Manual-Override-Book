@@ -4,9 +4,9 @@
 
 ## Overview
 
-The Four Freedoms provide four different "dials" you can adjust based on what each moment requires. Think of consciousness navigation like adjusting settings on a sophisticated instrument. You switch from one to another as needed, or blend them together like a skilled musician playing a complex piece.
+The Four Freedoms provide four different qualities you can gently adjust based on what each moment requires. Think of consciousness navigation like balancing a pencil on your finger—when the system is close to balance, only the slightest touch is needed. Any force will knock it over. You switch from one to another as needed, or blend them together like a skilled musician playing a complex piece.
 
-The beauty of this system is its dynamic nature. You don't choose one freedom and stick with it—you adjust the "wheel" based on what each moment requires.
+The beauty of this system is its dynamic nature. You don't choose one freedom and stick with it—you make gentle adjustments based on what each moment requires. Like balancing a pencil, the closer you get to equilibrium, the less force is needed.
 
 ## The Four Freedoms
 
@@ -173,7 +173,7 @@ Choose one freedom to focus on each day:
 ## Advanced Integration
 
 ### The Dynamic Wheel
-Eventually, you learn to adjust multiple freedoms simultaneously, like a skilled pilot managing multiple instruments. The goal isn't to eliminate all identification, conflict, doing, or effort—it's to have conscious choice about when and how much of each quality to engage.
+Eventually, you learn to adjust multiple freedoms simultaneously, like balancing multiple pencils at once—each requiring only the gentlest touch to maintain equilibrium. The goal isn't to eliminate all identification, conflict, doing, or effort—it's to have conscious choice about when and how much of each quality to engage.
 
 ### Signs of Mastery
 - You can shift between freedoms fluidly without effort
