@@ -1,62 +1,33 @@
 # Glossary of Key Terms
 
-#### Core Concepts
+## Core Concepts
 
-**The Unconstructed**
+**Manual Override:** The act of consciously choosing your response in a situation where an automatic, programmed reaction would normally take over. It is the core skill of conscious living, moving from being a passenger in your life to being the pilot.
 
-The baseline state of awareness that exists before we project stories, meanings, and identities onto it. It is the silence beneath the noise, the foundation from which all constructions emerge. Encountering the unconstructed is not an existential threat, but a signal that an old story has run its course.
+**NPC (Non-Player Character):** A metaphor for the automated, programmed self. It represents the collection of habits, beliefs, and reactive patterns that operate without conscious choice, running on predictable scripts. This is a description of a process, not a judgment of a person.
 
-**NPC (Non-Player Character) Consciousness**
+**Charge:** A stored pattern of emotional and physical energy in the body-mind, linked to a past experience. When triggered, a charge activates an automatic program (an NPC response). A positive charge creates a compulsion or craving; a negative charge creates an aversion or defense.
 
-The automated, programmed thoughts, feelings, and behaviors that run much of human life. It operates on a probabilistic path through the **mental landscape**, reacting to triggers without genuine, conscious choice. This is a description of a mechanical pattern, not a judgment of a person.
+**The Observer:** The capacity of consciousness to step back and witness thoughts, feelings, and sensations without identifying with them. It is not a separate "thing," but the function that creates the space necessary for Manual Override.
 
-**Charge**
+**The Cosmic Rhythm:** The natural, three-phase cycle of conscious experience:
+- **Phase 1 (Total Immersion):** Getting lost in the "game" of life, identifying completely with your role and reactions.
+- **Phase 2 (Awakening):** The "Observer" emerging, realizing you are not your thoughts or feelings.
+- **Phase 3 (The Player's Mindset):** Consciously choosing to re-engage with life, playing your role with skill and presence without losing the perspective that it is a role.
 
-An energetic pattern in the body-mind that triggers an automatic response. Charges are formed from past experiences and conditioning. In the "mental landscape" model, charges are points of energetic significance that either attract (positive charge) or repel (negative charge) your attention. They can be understood as un-integrated **Parts**.
+**The Reality Whirlpool:** A self-sustaining feedback loop where a thought creates a feeling, and the feeling reinforces the thought, locking you into a subjective reality (e.g., an "anxiety whirlpool" or an "anger whirlpool"). Manual Override involves breaking this loop.
 
-**Manual Override**
+## Advanced Concepts
 
-The process by which soul-level consciousness takes direct control, bypassing the NPC's automated responses. This is achieved not by fighting the programming, but by consciously integrating charges through focused, non-identified presence.
+**The Four Freedoms:** An advanced navigation system for consciousness. They are four qualities of awareness you can apply to challenging situations:
+- **Anatta (Non-Identification):** Realizing you are not the thought, emotion, or role being threatened.
+- **Ahimsa (Non-Harm):** Responding to conflict with calm, parental wisdom instead of fight-or-flight.
+- **Akatta (Non-Doership):** Doing your part skillfully without taking on the burden of controlling all outcomes.
+- **Wu Wei (Effortless Action):** Flowing with what's emerging naturally instead of forcing a specific result.
 
-**Mental Landscape**
+**The Consciousness Interface:** The model proposing that the brain does not create consciousness, but acts as a sophisticated receiver or "interface" that tunes into a broader field of consciousness. Manual Override is the skill of learning to operate this interface consciously.
 
-A model for understanding the mind as a dynamic space filled with positive and negative "charges." Ordinary, wandering awareness is passively pulled and pushed between these charges. Agency is the skill of consciously navigating this landscape.
-
-**The Observer**
-
-Not a fixed entity, but a relational process. It is the function of awareness that creates a space between stimulus and response, allowing for conscious choice. The "Observer Trap" is mistaking this function for your ultimate identity.
-
-**Parts (Internal Family Systems)**
-
-A model for understanding the psyche as a collection of sub-personalities or "parts." In this book, **Charges** are often functionally equivalent to parts—they are energetic patterns with their own beliefs, feelings, and history. The Cosmic Rhythm (Identify, Relate, Integrate) is a method for working with these parts.
-
-#### Advanced Concepts
-
-**Planes of Existence**
-
-Different, simultaneously existing layers of reality (e.g., physical, energetic, intuitive). The brain acts as a receiver, typically tuning into only the physical plane. Consciousness development involves learning to access and navigate information from multiple planes.
-
-**Graduated Soul Mentorship System**
-
-A model for understanding spiritual development as a collaborative process. Souls who have mastered the human incarnation cycle "graduate" and become part of a guidance system, providing non-intrusive, educational support to those still on the journey.
-
-**Surrender**
-
-Not passive resignation, but a conscious, active process. The deepest surrender is not to a flow state, but to the unconstructed itself. At the highest level, it involves the NPC (character) surrendering to being skillfully played by the soul (the player).
-
-#### Practical Terms
-
-**Integration**
-
-The process of weaving the insights and capacities gained in practice into the fabric of everyday life. It involves the dissolution of the boundary between "spiritual practice" and "real life," and the harmonization of internal **Parts** into a cohesive Self.
-
-**Holding a Charge**
-
-The practice of keeping your attention on an active charge (a strong emotion, a desire, an aversion) without either acting on it or suppressing it. This is a core mechanism for integrating the charge and liberating the energy it contains.
-
-**Vector**
-
-A goal reconceived as a direction on a compass rather than a fixed destination. Setting a vector (e.g., toward "creative fulfillment") provides clear direction while allowing for flexibility in how the journey unfolds, avoiding the rigidity of the Manifestation Trap.
+**The Manifestation Trap:** The common spiritual distortion where consciousness techniques are used by the ego to try and control reality and acquire things, rather than to develop wisdom and presence. It is a sophisticated form of spiritual materialism that reinforces the ego instead of liberating you from it.
 
 ---
 
