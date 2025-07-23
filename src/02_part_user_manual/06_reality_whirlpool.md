@@ -131,35 +131,35 @@ For intense whirlpools that feel overwhelming, Marcus provided emergency techniq
 
 ## Constructing Optimal Whirlpools
 
-Sarah realized that if she could deconstruct problematic whirlpools, she could also consciously construct helpful ones.
+Breaking free from negative whirlpools is a crucial defensive skill. But mastery involves offense: the ability to consciously construct the mental and emotional states best suited for a given task. If you understand the mechanics, you can build a whirlpool on purpose.
 
-### Constructing Alert Calm (Optimal Learning State)
+### Constructing "Alert Calm" (For Learning & Complex Problem-Solving)
 
-**Target State**: Relaxed but focused, open but discerning
+**Target State:** Relaxed but focused, open to new information but discerning.
 
-**Thought Vector**: Present-moment focus, curious about learning, confident in ability to handle challenges
-**Feeling Vector**: Relaxed energy, open heart, grounded stability
+**Thought Vector:** Direct your thoughts toward curiosity, non-judgment, and the intention to understand. "What can I learn here?" "Let me see this clearly."
 
-**Construction Method**:
-1. Set intention for learning and growth
-2. Take three deep breaths to settle the nervous system
-3. Bring attention to the present moment
-4. Generate curiosity about the task at hand
-5. Feel your feet on the ground for stability
+**Feeling Vector:** Cultivate a feeling of calm, grounded stability in the body. Feel your feet on the floor and breathe into your center.
 
-### Constructing Creative Flow
+**Construction Method:**
+1. Set a clear intention: "My goal is to learn and understand."
+2. Take three deep breaths to settle your nervous system (shifts feeling vector).
+3. Generate a genuine question about the topic (shifts thought vector to curiosity).
+4. Maintain both vectors until the state of alert calm feels self-sustaining.
 
-**Target State**: Innovative, uninhibited, generative
+### Constructing "Creative Flow" (For Brainstorming & Artistic Work)
 
-**Thought Vector**: Playful exploration, non-judgmental experimentation, trust in the creative process
-**Feeling Vector**: Light, expansive energy, joy in discovery
+**Target State:** Playful, innovative, uninhibited, and non-judgmental.
 
-**Construction Method**:
-1. Release attachment to specific outcomes
-2. Engage in playful warm-up activities
-3. Focus on the joy of creation rather than the result
-4. Allow ideas to flow without immediate evaluation
-5. Trust that the right ideas will emerge
+**Thought Vector:** Direct your thoughts away from criticism and outcomes. Focus on "What if...?" "Let's try..." "There are no bad ideas right now."
+
+**Feeling Vector:** Cultivate a feeling of lightness, expansiveness, and joy in the process itself.
+
+**Construction Method:**
+1. Explicitly release attachment to a specific outcome.
+2. Engage in a playful warm-up activity to shift your emotional state.
+3. Focus on the joy of creation itself, not the quality of the result.
+4. Allow ideas to flow without any immediate evaluation, trusting that the good ones will stand out later.
 
 ## Building Your Whirlpool Practice
 

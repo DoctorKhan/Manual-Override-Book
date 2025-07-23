@@ -10,43 +10,55 @@ Marcus's next message would provide exactly that.
 
 Sarah felt a thrill of anticipation. This was what she'd been waiting for—the actual tools for taking conscious control of her own life.
 
-## Working with Thoughts, Feelings, and Sensations
+## The Three Streams of Experience
 
-**Meta** explained: "Consciousness receives information through three primary channels: thoughts, feelings, and sensations. Most people get swept away by the content. The practice is learning to observe the process."
+Consciousness receives information through three primary channels: thoughts, feelings, and sensations. Most people get swept away by the *content* of these streams. The foundational practices are about learning to observe the *process* of the streams without getting carried away.
 
-### The Three Streams of Experience
+### Stream 1: The Stream of Thought
 
-#### Stream 1: Thoughts
+**The Common Pattern:** Thoughts arise automatically. We believe them without question and follow them down rabbit holes. We think we *are* our thoughts.
 
-**The Pattern**: Thoughts arise automatically, often in familiar loops and stories. Most people identify with their thoughts ("I am thinking this") rather than observing them ("thinking is happening").
+**The Practice (Thought Observation):**
+1. Notice a thought arising.
+2. Instead of engaging, see it as a temporary event in your awareness, like a cloud passing in the sky.
+3. Mentally label it "thinking" and return your attention to an anchor like your breath.
 
-**The Practice**:
-- **Notice the arising**: "A thought is appearing"
-- **Observe without engaging**: Don't argue with, analyze, or follow the thought
-- **Watch the dissolving**: Thoughts naturally fade when not fed attention
-- **Return to presence**: Use breath or body awareness as an anchor
+**Tool for This Stream:** Basic Mindfulness Meditation.
 
-**Situational Adaptations**:
+**Situational Adaptations:**
 - **Anxious thoughts**: Label them "anxiety thinking" and return to breath
 - **Angry thoughts**: Notice the heat in the body, breathe into the sensation
 - **Obsessive thoughts**: Set a timer for 2 minutes of observation, then redirect
 - **Planning thoughts**: Acknowledge "planning is happening," then choose whether to engage
 
-#### Stream 2: Feelings/Emotions
+### Stream 2: The Stream of Feeling/Emotion
 
-**The Pattern**: Emotions arise as energy in the body, often triggering automatic thoughts and behaviors. Most people either suppress emotions or get overwhelmed by them.
+**The Common Pattern:** An emotion arises as energy in the body. We either suppress it, or it hijacks our thoughts and actions, creating a Reality Whirlpool.
 
-**The Practice**:
-- **Locate in the body**: "Where do I feel this emotion physically?"
-- **Breathe into the sensation**: Don't try to change it, just be present with it
-- **Observe the energy**: Notice how emotions move, shift, and transform
-- **Allow the natural cycle**: Emotions have a beginning, middle, and end when not interfered with
+**The Practice (Somatic Presence):**
+1. When an emotion arises, locate it as a raw physical sensation in your body (e.g., "tightness in my chest," "heat in my face").
+2. Breathe into the sensation, allowing it to be there without needing to fix it or give it a story.
+3. Stay present with the physical energy until it naturally shifts.
 
-**Situational Adaptations**:
+**Tool for This Stream:** Body Scanning, RAIN Method.
+
+**Situational Adaptations:**
 - **Anger**: Feel the heat and energy, breathe deeply, wait for the peak to pass
 - **Sadness**: Allow the heaviness, breathe into the chest, let tears come if needed
 - **Fear**: Notice the contraction, breathe into the belly, ground through the feet
 - **Joy**: Feel the expansion, breathe into the heart, let it radiate naturally
+
+### Stream 3: The Stream of Physical Sensation
+
+**The Common Pattern:** We live disconnected from our bodies, ignoring subtle signals of tension, stress, or exhaustion until they become loud problems.
+
+**The Practice (Embodiment):**
+1. Systematically bring your awareness to different parts of your body, noticing any and all sensations without judgment.
+2. Use the feeling of your feet on the ground or your body in a chair as an anchor to the present moment.
+
+**Tool for This Stream:** Body Scan Meditation, Grounding Practices (like 5-4-3-2-1).
+
+All the practices that follow are simply different ways to work skillfully with these three fundamental streams of experience.
 
 #### Stream 3: Physical Sensations
 
