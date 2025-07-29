@@ -44,17 +44,22 @@ Understanding this foundational state changes how you relate to the rest of the 
 
 This cosmic rhythm unfolds in a repeating pattern that governs all conscious experience. It can be understood as the fundamental process of growth, and it also provides a powerful framework for working with the different "parts" of ourselves.
 
-### Phase 1: Exploring (Playing the Character)
+### Phase 1: Exploring (Playing the Character) - The State of "Becoming"
 
 "Think of consciousness like a player in a video game," Marcus wrote. "In Phase 1, the player becomes so absorbed in playing the character that they forget they're the player. They shift their coordinates into the character's perspective and experience the character's timeline as their own."
 
 Marcus explained that consciousness, in its pure state, ventures into experience and becomes completely identified with it. "You think you ARE the character—'I AM angry' instead of 'the character is experiencing anger.' All your memories, sense of self, and future concerns get mapped to the character's timeline."
+
+"This corresponds to what Nisargadatta called the state of 'Becoming,'" Marcus continued. "You are constantly becoming something—becoming angry, becoming successful, becoming worried, becoming happy. You are identified with the changing, the temporary, the constructed."
 
 "This is like the rubber hand experiment," he continued. "The more you focus on the rubber hand, the more it feels like 'you.' Similarly, the more consciousness samples an experience, the more it identifies with it."
 
 Sarah recognized this immediately. Her 30 days of research had shown her exactly this—being completely identified with her reactions, her thoughts, her circumstances. She had been playing the character so intensely she forgot she was the player.
 
 Marcus explained why this phase was functional: "You need to care about the character's experience to learn and grow from it. It's like needing to be invested in a game to play it seriously. The forgetting ensures you engage fully rather than remaining detached."
+
+**Nisargadatta on Becoming:**
+"You are always becoming something. 'I am becoming a doctor, I am becoming old, I am becoming wise.' But what you are becoming is not what you are. You are the awareness in which all becoming appears."
 
 **Why This Phase is Necessary:**
 - It allows for genuine experience and learning
@@ -63,12 +68,22 @@ Marcus explained why this phase was functional: "You need to care about the char
 - It provides the contrast necessary for eventual awakening
 
 **Signs You're in This Phase:**
+- Complete identification with thoughts, emotions, and circumstances
+- Taking everything personally
+- Feeling like you ARE your problems, successes, or failures
+- No space between stimulus and response
+- Living entirely from the character's perspective
 
-### Phase 2: Awakening (Remembering You're the Player)
+### Phase 2: Awakening (Remembering You're the Player) - The State of "Being"
 
 "Through practice, grace, or suffering," Marcus wrote, "a crack appears in the construct. You suddenly remember: 'I'm not the character—I'm the Player who got absorbed in playing the character.' This is like stepping back from the video game screen and remembering you're sitting in real time."
 
+"This corresponds to what Nisargadatta called the state of 'Being' or 'I Am,'" Marcus explained. "You stop becoming things and start recognizing that you ARE—pure being, pure awareness. You are not becoming angry; you are the being in which anger appears."
+
 This was exactly what Sarah had been experiencing! Those moments of catching herself in automatic patterns, of stepping back and watching her reactions. She wasn't crazy—this was the natural Player awakening.
+
+**Nisargadatta on Being:**
+"The 'I Am' is the first ignorance, but it is also the key to freedom. When you stop identifying with what you are becoming and rest in the pure 'I Am,' you have found the doorway to your true nature."
 
 ---
 
@@ -83,15 +98,18 @@ But the rhythm isn't just a three-part cycle of active play; it's grounded in a 
 
 #### Phase 0: The Recharge State (The Player Unplugged)
 
-This is the foundation of the entire rhythm. It corresponds to the state of **deep, dreamless sleep** and points directly to Nisargadatta's **"Not-Being" (The Absolute)**.
+This is the foundation of the entire rhythm. It corresponds to the state of **deep, dreamless sleep** and points directly to Nisargadatta's **"Parabrahman" (The Absolute)** - the state beyond even "I Am."
 
 Why is this phase necessary? Because the nightly dissolution of self is not just a biological reset—it is the source of psychological integration, healing, and creative renewal. In deep sleep, the mind and identity dissolve, and the Player reconnects with the infinite, unmanifest potential of the Absolute. This is what allows us to return to waking life with new energy, insight, and resilience.
 
 You'll see this theme recur throughout the book: true balance and mastery require not just engagement and awakening, but also a willingness to let go and return to Source. Phase 0 is the hidden engine behind all growth and transformation.
 
+**Nisargadatta's Teaching on the Absolute:**
+"In deep sleep you are not, yet you are. You are not as a person, but you are as pure being. This is the Absolute - beyond 'I Am,' beyond consciousness itself. It is your true nature, though you cannot experience it because there is no 'you' there to experience."
+
 * **The Metaphor:** The Player has put down the controller. The screen is off. The game is not being played. The Player has withdrawn their attention from the "Character" and the "Game" entirely.
-* **The Experience:** This is the state of deep sleep. There is no sense of "I," no world, no time, and no experience. It is a temporary dissolution of the "I Am" or the "Player" consciousness.
-* **The Function (Recharge):** Why is this recharge so powerful? Because the Player isn't just "off"; they have merged back into their source. The limited energy of the "Character" is suspended, and the Player reconnects with the infinite, unmanifest potential of the Absolute ("Not-Being"). They are not generating new experiences, but resting in the ground of all Being.
+* **The Experience:** This is the state of deep sleep. There is no sense of "I," no world, no time, and no experience. It is a temporary dissolution of the "I Am" or the "Player" consciousness into the Absolute.
+* **The Function (Recharge):** Why is this recharge so powerful? Because the Player isn't just "off"; they have merged back into their source. The limited energy of the "Character" is suspended, and the Player reconnects with the infinite, unmanifest potential of the Absolute ("Parabrahman"). They are not generating new experiences, but resting in the ground of all Being.
 * **The Emergence:** The moment of waking is **the Player picking up the controller again**. The pure "I Am" (Nisargadatta's "Being") emerges fresh from the Absolute, loaded with potential energy for a new cycle of play.
 
 #### How Phase 0 Enriches the Other Phases
@@ -165,31 +183,36 @@ Sarah felt a wave of relief reading this. The space that appeared between her an
 - You experience moments of detachment from your usual concerns
 - You develop interest in understanding how your mind works
 
-### Phase 3: Returning (Integration and Freedom)
+### Phase 3: Returning (Integration and Freedom) - The State of "Unborn"
 
 "As the Observer strengthens," Marcus wrote, "it can choose to either fully merge back with the unconstructed, non-dual awareness, or it can consciously withdraw the energy of creation from a part or program. This is the phase of integration."
+
+"This corresponds to what Nisargadatta called the 'Unborn' state," Marcus explained. "You recognize that what you truly are was never born and can never die. You are not even the 'I Am'—you are the awareness in which 'I Am' appears and disappears."
 
 He explained this didn't mean destroying the part, but releasing the absolute belief in its story and integrating its energy back into the whole. "The story is seen as a story, the identity as a role. The energy that was locked into maintaining the part's defensive posture is now freed."
 
 Sarah found this fascinating. It suggested that the automatic patterns weren't enemies to be defeated, but parts of herself that could be understood and integrated.
 
+**Nisargadatta on the Unborn:**
+"You are not born, you do not die. Birth and death are in consciousness, but you are beyond consciousness. You are the Unborn, the Deathless, the source from which consciousness itself arises."
+
 Marcus described two pathways:
 
-**The Merging Path:**
+**The Merging Path (Complete Transcendence):**
 - Complete dissolution of the observer-observed duality
-- Direct recognition of pure awareness
+- Direct recognition of the Unborn awareness
 - Temporary or permanent transcendence of personal identity
-- Experience of unity consciousness
+- Experience of the Absolute beyond even "I Am"
 
 **The Integration Path (The Player's Mindset):**
-- Conscious disidentification from roles and stories
-- Seeing through the illusion while still engaging with it
+- Conscious disidentification from roles and stories while still playing them
+- Seeing through the illusion while still engaging with it skillfully
 - Maintaining functional identity while knowing it's constructed
-- Operating from choice rather than compulsion
+- Operating from the Unborn awareness while appearing to be a person
 
 Marcus called this the "Player's Mindset"—the art of engaged lucidity. "Think of a master actor in a play," he wrote. "They are completely immersed in their character, feeling the emotions, and delivering their lines with total conviction. Yet they never forget they are an actor on a stage, which allows them to hit their marks, remember their lines, and not have a mental breakdown when the character dies."
 
-**The Player's Mindset:** "I know this is a game, and I will play it with all my heart."
+**The Player's Mindset:** "I know this is a game, and I will play it with all my heart, knowing that what I truly am is beyond the game entirely."
 
 **Signs You're in This Phase:**
 - You can engage with life fully while knowing it's "just a game"
@@ -294,5 +317,18 @@ But Marcus wasn't finished. His final paragraph made her pulse quicken:
 Sarah stared at the screen. Reality-breaking technologies? This was about to get very interesting.
 
 The cosmic rhythm was the key to understanding consciousness itself. But now she needed to learn how to work with it practically—how to develop the tools that would allow her to navigate the rhythm consciously instead of being unconsciously swept along by it.
+
+## The Compass and the Cosmic Rhythm
+
+Marcus concluded with a profound connection: "The cosmic rhythm and the compass teaching work together as one integrated system. The North direction of the compass—Anatta—is actually the pathway through all three states of consciousness."
+
+"When you're lost in Phase 1 (Becoming), you orient North to remember you're not what you're becoming. When you're in Phase 2 (Being), you use the full compass to navigate skillfully. When you reach Phase 3 (Unborn), you rest in the center where all directions meet—the place beyond even 'I Am.'"
+
+**The Integration:**
+- **Phase 1 (Becoming)**: Use North (Anatta) to break identification
+- **Phase 2 (Being)**: Use all four directions as needed for skillful navigation
+- **Phase 3 (Unborn)**: Rest in the center point where all freedoms naturally arise
+
+"This is why the compass teaching is so powerful," Marcus explained. "It's not just a technique—it's a map of consciousness itself. The four directions represent the fundamental qualities of awakened awareness, and the center represents the Unborn source from which all wisdom flows."
 
 The investigation was about to become intensely practical.

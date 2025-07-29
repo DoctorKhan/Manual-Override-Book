@@ -1,6 +1,6 @@
 # Chapter 9: The Four Stages of Mastery
 
-Sarah had absorbed the cosmic rhythm, mastered the whirlpool model, learned the foundational practices, and understood the Four Freedoms. But she still felt uncertain about her progress. How could she tell if she was actually developing? What was the roadmap from where she was now to genuine mastery?
+Sarah had absorbed the cosmic rhythm, mastered the whirlpool model, learned the foundational practices, and understood the compass teaching with its Four Freedoms. But she still felt uncertain about her progress. How could she tell if she was actually developing? What was the roadmap from where she was now to genuine mastery?
 
 Marcus's final message in this section would provide exactly what she needed—a clear developmental framework that would show her not just where she was going, but how to get there systematically.
 
@@ -217,8 +217,8 @@ Sarah realized that the Four Stages provided the perfect framework for integrati
 
 **Stage 1** + **Cosmic Rhythm** = Understanding which phase you're in and why
 **Stage 2** + **Whirlpool Model** = Developing skill with the three doors to freedom
-**Stage 3** + **Four Freedoms** = Choosing the right quality of consciousness for each situation
-**Stage 4** + **Foundational Practices** = Living from integrated mastery as your natural state
+**Stage 3** + **Compass Teaching** = Using the Four Freedoms to navigate any situation with wisdom
+**Stage 4** + **Foundational Practices** = Living from the center point as your natural state
 
 The stages weren't just a developmental model—they were a complete roadmap for transforming from unconscious automation to conscious mastery.
 

@@ -299,6 +299,8 @@ Sarah felt a sense of completion reading this. She now had a complete toolkit: u
 
 But Marcus had one more surprise. His final message made her heart race:
 
-"You now have the foundational practices. But there's something more—advanced navigation tools that can accelerate your development exponentially. What you're about to discover are the Four Freedoms: ancient principles that can transform how you navigate the cosmic rhythm itself."
+"You now have the foundational practices. But there's something more—advanced navigation tools that can accelerate your development exponentially. What you're about to discover is the compass teaching: an ancient navigation system that has guided consciousness explorers for thousands of years."
+
+"The Four Freedoms aren't just techniques—they're the cardinal directions of consciousness itself. Like a compass that always points toward true north, this teaching will help you find your way no matter how lost or confused you become."
 
 The investigation was about to reach a new level of sophistication.
