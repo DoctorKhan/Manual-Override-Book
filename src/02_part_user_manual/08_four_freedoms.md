@@ -23,7 +23,7 @@ Marcus explained that consciousness navigation was like using a compass in unkno
 - **North: Anatta** (Non-Self/Non-Identification) - *The Direction of Clarity*
 - **West: Ahimsa** (Non-Violence/Non-Harm) - *The Direction of Peace*
 - **South: Wu Wei** (Non-Action/Effortless Flow) - *The Direction of Surrender*
-- **East: Anaxia** (Non-Valuation/Non-Judgment) - *The Direction of Acceptance*
+- **East: Epochē** (Non-Valuation/Non-Judgment) - *The Direction of Acceptance*
 
 "The beauty of this system is its dynamic nature," Marcus continued. "You don't choose one direction and stick with it—you make gentle adjustments based on what each moment requires. Like using a compass, you stay oriented around the center while adjusting your heading as needed. The goal is always to find the middle way—not too far in any direction, but balanced at the center where all four freedoms meet."
 
@@ -168,7 +168,7 @@ When you notice forcing, clinging, or trying to escape discomfort:
 
 **The Southern Freedom**: Liberation from exhausting effort and attachment
 
-## East: Anaxia (Non-Valuation/Non-Judgment) - The Direction of Acceptance
+## East: Epochē (Non-Valuation/Non-Judgment) - The Direction of Acceptance
 
 **When to Orient East**: When you notice yourself assigning value labels ("good/bad," "success/failure") to outcomes, or feeling burdened by the need to fix, judge, or control everything. When you're judging yourself or others harshly.
 
@@ -180,9 +180,9 @@ When you notice forcing, clinging, or trying to escape discomfort:
 
 "The East direction teaches us the paradox of action," Marcus explained. "The more you try to control or judge everything, the less effective you become. But when you recognize that you're part of a larger intelligence, and you stop assigning value labels to every event, your actions become more powerful because they're aligned with the natural flow of events."
 
-**Anaxia** is a constructed term meaning "the state of not assigning extrinsic value or worth." It is not indifference or apathy, but a deep acceptance and inner composure that allows you to act wisely without being thrown off by judgments or outcomes.
+**Epochē** is a constructed term meaning "the state of not assigning extrinsic value or worth." It is not indifference or apathy, but a deep acceptance and inner composure that allows you to act wisely without being thrown off by judgments or outcomes.
 
-"Anaxia doesn't mean becoming passive or irresponsible. It means recognizing that you're one instrument in a vast orchestra. When you play your part skillfully without trying to conduct the entire symphony or judge every note, the music becomes beautiful."
+"Epochē doesn't mean becoming passive or irresponsible. It means recognizing that you're one instrument in a vast orchestra. When you play your part skillfully without trying to conduct the entire symphony or judge every note, the music becomes beautiful."
 
 ### The Spectrum of Eastern Practice
 
