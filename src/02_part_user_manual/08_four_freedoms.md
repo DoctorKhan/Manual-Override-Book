@@ -23,7 +23,7 @@ Marcus explained that consciousness navigation was like using a compass in unkno
 - **North: Anatta** (Non-Self/Non-Identification) - *The Direction of Clarity*
 - **West: Ahimsa** (Non-Violence/Non-Harm) - *The Direction of Peace*
 - **South: Wu Wei** (Non-Action/Effortless Flow) - *The Direction of Surrender*
-- **East: Akatta** (Non-Judgment/Non-Doership) - *The Direction of Acceptance*
+- **East: Anaxia** (Non-Valuation/Non-Judgment) - *The Direction of Acceptance*
 
 "The beauty of this system is its dynamic nature," Marcus continued. "You don't choose one direction and stick with it—you make gentle adjustments based on what each moment requires. Like using a compass, you stay oriented around the center while adjusting your heading as needed. The goal is always to find the middle way—not too far in any direction, but balanced at the center where all four freedoms meet."
 
@@ -168,54 +168,56 @@ When you notice forcing, clinging, or trying to escape discomfort:
 
 **The Southern Freedom**: Liberation from exhausting effort and attachment
 
-## East: Akatta (Non-Judgment/Non-Doership) - The Direction of Acceptance
+## East: Anaxia (Non-Valuation/Non-Judgment) - The Direction of Acceptance
 
-**When to Orient East**: When you notice yourself taking on too much responsibility for outcomes beyond your control, or feeling burdened by the need to fix everything. When you're judging yourself or others harshly.
+**When to Orient East**: When you notice yourself assigning value labels ("good/bad," "success/failure") to outcomes, or feeling burdened by the need to fix, judge, or control everything. When you're judging yourself or others harshly.
 
-**The Compass Question**: "What is actually mine to do here, and what belongs to the larger intelligence?"
+**The Compass Question**: "Am I adding a layer of value or judgment to this experience, or can I let it be as it is?"
 
-**The Core Recognition**: You can do your part skillfully without being responsible for all outcomes. You are not the sole doer in any situation. Life is a collaborative dance between your conscious choices and forces far beyond your control.
+**The Core Recognition**: You can perceive events and act skillfully without assigning extrinsic value or worth. Life is a collaborative dance between your conscious choices and forces far beyond your control, and you are free from the compulsion to label everything.
 
-### The Eastern Path: The Art of Skillful Non-Doership
+### The Eastern Path: The Art of Non-Valuation
 
-"The East direction teaches us the paradox of action," Marcus explained. "The more you try to control everything, the less effective you become. But when you recognize that you're part of a larger intelligence, your actions become more powerful because they're aligned with the natural flow of events."
+"The East direction teaches us the paradox of action," Marcus explained. "The more you try to control or judge everything, the less effective you become. But when you recognize that you're part of a larger intelligence, and you stop assigning value labels to every event, your actions become more powerful because they're aligned with the natural flow of events."
 
-"Akatta doesn't mean becoming passive or irresponsible. It means recognizing that you're one instrument in a vast orchestra. When you play your part skillfully without trying to conduct the entire symphony, the music becomes beautiful."
+**Anaxia** is a constructed term meaning "the state of not assigning extrinsic value or worth." It is not indifference or apathy, but a deep acceptance and inner composure that allows you to act wisely without being thrown off by judgments or outcomes.
+
+"Anaxia doesn't mean becoming passive or irresponsible. It means recognizing that you're one instrument in a vast orchestra. When you play your part skillfully without trying to conduct the entire symphony or judge every note, the music becomes beautiful."
 
 ### The Spectrum of Eastern Practice
 
-**Too Far East (Excessive Detachment)**: Becoming irresponsible, avoiding your authentic contribution, using 'non-doership' as an excuse for laziness
-**Balanced East (Skillful Action)**: Doing your part excellently while releasing attachment to outcomes, contributing without controlling
-**Too Far West (Excessive Control)**: Taking responsibility for everything, trying to fix everyone, exhausting yourself with over-effort
+**Too Far East (Excessive Detachment)**: Becoming irresponsible, avoiding your authentic contribution, using 'non-doership' or 'non-valuation' as an excuse for laziness  
+**Balanced East (Skillful Non-Judgment)**: Doing your part excellently while releasing attachment to outcomes, contributing without controlling, acting from inner composure and without value-labels  
+**Too Far West (Excessive Judgment/Control)**: Taking responsibility for everything, trying to fix everyone, assigning "good" or "bad" to every event, exhausting yourself with over-effort
 
 ### Practical Applications
 
 **Overwhelming Responsibility**:
 - **Old response**: "I have to solve everyone's problems!"
-- **East orientation**: "I can offer my best contribution and trust the larger process."
+- **East orientation**: "I can offer my best contribution and trust the larger process, without labeling my effort as 'good' or 'bad.'"
 
 **Perfectionism**:
 - **Old response**: "Everything must be perfect or I've failed!"
-- **East orientation**: "I can do my part well and release attachment to the outcome."
+- **East orientation**: "I can do my part well and release attachment to the outcome or its value label."
 
 **Controlling Others**:
 - **Old response**: "I need to make them understand/change/behave differently!"
-- **East orientation**: "I can share my perspective and allow them their own journey."
+- **East orientation**: "I can share my perspective and allow them their own journey, without judging their path."
 
 **Self-Judgment**:
 - **Old response**: "I should be better/different/more advanced!"
-- **East orientation**: "I can accept where I am while continuing to grow naturally."
+- **East orientation**: "I can accept where I am without assigning a value label, while continuing to grow naturally."
 
 ### The Eastern Practice
 
 When you notice over-responsibility, control, or harsh judgment:
-1. **Pause** and notice where you're carrying too much
-2. **Check your compass**: "Am I trying to control what's not mine to control?"
-3. **Orient East**: Ask "What is actually mine to do here?"
-4. **Release** what belongs to others or to the larger process
-5. **Act** from your authentic contribution without attachment to outcomes
+1. **Pause** and notice where you're assigning value or carrying too much
+2. **Check your compass**: "Am I adding a layer of judgment or value to this?"
+3. **Orient East**: Ask "Can I let this be as it is, without labeling?"
+4. **Release** what belongs to others or to the larger process, and drop the value-labels
+5. **Act** from your authentic contribution without attachment to outcomes or judgments
 
-**The Eastern Freedom**: Liberation from the burden of controlling outcomes and the weight of harsh judgment
+**The Eastern Freedom**: Liberation from the burden of controlling outcomes and the compulsion to judge or assign value to every experience
 
 ## The Compass in Action: Finding Your Center
 
