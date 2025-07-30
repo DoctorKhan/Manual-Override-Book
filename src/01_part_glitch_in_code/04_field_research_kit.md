@@ -22,6 +22,10 @@ You are not just reading about this mystery—you are part of the investigation.
 
 **Remember**: The goal is evidence gathering, not self-improvement. You're a scientist studying your own consciousness.
 
+> **Lead Investigator's Note: The Integration Protocol**
+>
+> Think of this 30-day investigation as your first practice in a new kind of spirituality—one that bridges direct experience with rigorous verification. You are simultaneously the scientist and the laboratory. The 'data' you collect—your patterns, triggers, and Observer moments—represents your direct, subjective experience, the wisdom that comes from within. The 'method' you use—systematic observation, logging, and testing hypotheses—represents the rigor of scientific inquiry. This is the fundamental practice for a mature approach to consciousness: applying scientific clarity to the mystery of your own being. You are learning to trust what you experience, and then verify it.
+
 ## Choose Your Research Focus
 
 Different situations call for different types of data collection. Choose the research track that matches your current circumstances:
