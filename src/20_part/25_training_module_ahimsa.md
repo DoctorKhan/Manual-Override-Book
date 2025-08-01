@@ -1,4 +1,4 @@
-# Training Module: Ahimsa - The Art of Non-Harm
+# Chapter 22: Training Module: Ahimsa - The Art of Non-Harm
 
 *Sarah sat in her car after another explosive argument with her mother, her hands still shaking from the adrenaline. She had used the Observer to watch the whole thing unfold—saw her mother push the same emotional button, saw herself react with the same defensive anger, saw the familiar dance of hurt and retaliation play out exactly as it had a hundred times before.*
 
