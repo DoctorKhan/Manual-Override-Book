@@ -22,6 +22,8 @@ Marcus explained the fundamental reframe that would change how Sarah understood 
 
 Sarah felt a profound shift in understanding. She wasn't her brain—she was consciousness using her brain as an interface device.
 
+**The Programming Question**: This raises a crucial question: If your brain is a receiver, what's creating the static? What's blocking the signal? The answer lies in understanding that your receiver has been programmed—by biology, culture, trauma, and conditioning—to filter out certain frequencies and amplify others. Manual Override is about learning to adjust those filters consciously.
+
 ## Evidence for the Receiver Model
 
 Marcus provided compelling evidence that supported this reframe:
