@@ -20,6 +20,36 @@ But sometimes, something breaks through—a moment of presence, a sense of clari
 
 **This book is about learning to access that other way more consistently.**
 
+## How to Use This Series: A Reader's Guide
+
+You are about to embark on a four-part journey into the nature of reality, consciousness, and human potential. Each book builds upon the last, guiding you from a clear diagnosis of our current world to the practical tools for personal liberation and a profound understanding of our cosmic purpose. For the most complete experience, we highly recommend reading them in the following order:
+
+---
+
+**Book 1: *The Social Game* (The Diagnosis)**
+This book provides an unflinching, evidence-based analysis of the external systems that shape our world. You will learn to see the invisible rules of the 'social game'—the political, economic, and technological forces that manufacture division and control.
+
+**Book 2: *Manual Override* (The Toolkit)**
+Having diagnosed the external game, we turn inward. This book is a practical user's manual for your own mind. You will learn the psychological tools to de-program your automatic reactions, reclaim your conscious choice, and achieve internal sovereignty.
+
+**Book 3: *The Human Experiment* (The Origin Story)**
+With the external landscape mapped and the internal toolkit in hand, you will be ready for the deepest part of the investigation: our origin story. This book explores the hidden history of humanity, revealing that we are part of a grand experiment.
+
+**Book 4: *The Cosmic Game* (The Ultimate Purpose)**
+Having understood our origins, we arrive at the final question: What is the meaning of it all? This capstone book reframes the entire human journey as a sacred game for the evolution of the soul.
+
+---
+
+**You are currently reading *Manual Override*.**
+
+## This Book's Purpose: The Toolkit
+
+In *The Social Game*, we diagnosed the external systems of control. We now turn to the internal landscape—your own mind and the automatic patterns that run it.
+
+This is the toolkit. This book is relentlessly practical, designed to provide the skills for what we call 'Manual Override'—the reclamation of conscious choice. You will learn to recognize your NPC (automatic self) patterns, strengthen your Observer (conscious self), and develop the specific techniques for choosing your responses rather than being controlled by them.
+
+By the end of this manual, you will have internal sovereignty—the ability to see your own programming and consciously choose to override it when necessary.
+
 ---
 
 # Quick Start Guide: Your 30-Day Investigation
