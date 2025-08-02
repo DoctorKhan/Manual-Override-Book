@@ -1,4 +1,4 @@
-# Chapter 9: The Four Stages of Mastery
+# Chapter 10: The Four Stages of Mastery
 
 Sarah had absorbed the cosmic rhythm, mastered the whirlpool model, learned the foundational practices, and understood the compass teaching with its Four Freedoms. But she still felt uncertain about her progress. How could she tell if she was actually developing? What was the roadmap from where she was now to genuine mastery?
 

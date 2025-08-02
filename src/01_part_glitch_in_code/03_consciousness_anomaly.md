@@ -1,4 +1,4 @@
-# Chapter 3: The Consciousness Anomaly
+# Chapter 4: The Consciousness Anomaly
 
 Sarah's investigation into automation had left her with disturbing questions, but it also revealed something hopeful: the observer phenomenon. Those moments when she could step back and watch her own thoughts and behaviors as if from outside herself.
 

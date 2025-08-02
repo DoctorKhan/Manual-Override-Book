@@ -1,4 +1,4 @@
-# Chapter 4: Your Field Research Kit
+# Chapter 5: Your Field Research Kit
 
 Sarah stared at the evidence she'd gathered about automation and the consciousness anomaly. The patterns were undeniable, but she felt overwhelmed by the implications. How much of her life was actually under her conscious control?
 

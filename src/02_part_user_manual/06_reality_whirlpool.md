@@ -1,4 +1,4 @@
-# Chapter 6: The Reality Whirlpool
+# Chapter 7: The Reality Whirlpool
 
 Sarah understood the cosmic rhythm intellectually, but she still felt trapped by her automatic patterns. How, exactly, did these patterns work? And more importantly, how could she break free from them in real-time?
 

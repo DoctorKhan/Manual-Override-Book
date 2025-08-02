@@ -1,4 +1,4 @@
-# Chapter 8: The Compass Teaching - The Four Freedoms
+# Chapter 9: The Compass Teaching - The Four Freedoms
 
 Sarah had been practicing the foundational techniques for several weeks. She could recognize whirlpools, apply the three doors, and maintain observer awareness for longer periods. But she was beginning to face a new challenge: different situations seemed to require different approaches.
 

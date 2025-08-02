@@ -1,4 +1,4 @@
-# Chapter 11: The Consciousness Interface
+# Chapter 12: The Consciousness Interface
 
 Sarah understood the game paradox—that conscious existence was both meaningful engagement and spacious freedom. But she still had a fundamental question: How exactly did consciousness interface with physical reality? What was the actual mechanism by which awareness operated through the brain and body?
 

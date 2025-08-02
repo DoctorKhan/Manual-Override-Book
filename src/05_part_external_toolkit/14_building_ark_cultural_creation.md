@@ -1,4 +1,4 @@
-# Chapter 19: The Playful Revolution - Reclaiming the Technology of Joy
+# Chapter 20: The Playful Revolution - Reclaiming the Technology of Joy
 
 *"We are not going to be able to operate our Spaceship Earth successfully nor for much longer unless we see it as a whole spaceship and our fate as common. It has to be everybody or nobody."* - Buckminster Fuller
 

@@ -1,4 +1,4 @@
-# Chapter 7: Foundational Practices
+# Chapter 8: Foundational Practices
 
 Sarah had the theory—the cosmic rhythm, the whirlpool model, the three doors to freedom. But she needed something more: systematic practices that would build her capacity to navigate these states consistently.
 

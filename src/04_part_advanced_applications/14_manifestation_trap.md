@@ -1,4 +1,4 @@
-# Chapter 13: Manifestation Trap
+# Chapter 14: Manifestation Trap
 
 A common distortion of agency is the belief that one can "manifest" a desired reality through sheer force of will or positive thinking. This concept, often seen in spiritual communities, represents not a higher form of power but the ego's attempt to assert control and avoid the vulnerability of genuine presence.
 
