@@ -52,7 +52,7 @@ By the end of this manual, you will have internal sovereignty—the ability to s
 
 ---
 
-# Quick Start Guide: Your 30-Day Investigation
+# Chapter 1: Quick Start Guide: Your 30-Day Investigation
 
 The journey to "Manual Override" begins not with answers, but with evidence. The most powerful evidence will come from your own direct experience. This guide is designed to get you started immediately as a co-investigator in the mystery of your own consciousness.
 
