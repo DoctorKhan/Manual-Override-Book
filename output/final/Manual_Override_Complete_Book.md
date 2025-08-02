@@ -1,7 +1,7 @@
 # Manual Override
 ## A Practical Guide to Conscious Living
 
-**Compiled**: 2025-08-02 14:53:21
+**Compiled**: 2025-08-02 15:40:37
 
 ---
 
@@ -385,6 +385,18 @@ Our investigation reveals a fundamental truth of the human condition: you are no
 **The Player's Soul:** Is the source of true consciousness, free will, and agentic choice. Its prime directive is growth and integration.
 
 **There is no conflict here, only a distinction.** The AI is not your enemy; it is the vehicle. The "Fall" was not a moral error; it was the moment the game's difficulty was increased by giving the AI more autonomy. **Free will is not a debate; it is a technical reality. It is the Player's ability to override the Character's default AI programming.** This book is the user manual for that process.
+
+### ⚠️ The Prime Directive of the Player/NPC Model
+
+The term "NPC" (Non-Player Character) is a functional metaphor, not a judgment. To use this framework without falling into the trap of spiritual ego, you must adhere to this prime directive:
+
+1. **It Describes a Process, Not a Person:** "NPC" refers to the *automated programming* running within a person—including yourself. It is the "autopilot self." It is never a label for an entire human being.
+
+2. **Everyone is an NPC 99% of the Time:** The automated self is the default human condition. The most advanced spiritual master still operates on autopilot while tying their shoes or driving a familiar road. The goal is not to stop being an NPC, but to have moments of "Manual Override."
+
+3. **Always See the Player Behind the Programming:** This is the most crucial point. **The central act of compassion and wisdom in this framework is to always acknowledge the eternal Soul, the true Player, that exists behind every automated script.** Just as you know a human player is controlling a video game character, your work is to remember that a divine Player is experiencing life through the human being in front of you, regardless of how inept their "AI" may seem in that moment.
+
+To feel superior to someone running an NPC script is as illogical as a master chess player feeling superior to a pawn. It misses the entire point. The pawn is not your opponent; the other *player* is your equal. Your task is to see that other Player with respect, always.
 
 The evidence is overwhelming: human beings operate on autopilot far more than anyone had previously imagined. But this raises the crucial question that would drive Sarah's investigation forward: if we're not making most of our decisions, what is? And more importantly, can we learn to access the observer that occasionally steps back from these patterns?
 
