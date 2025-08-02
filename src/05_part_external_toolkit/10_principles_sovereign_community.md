@@ -1,4 +1,4 @@
-# Chapter 16: The Principles of Sovereign Community
+# Chapter 17: The Principles of Sovereign Community
 
 *"The most potent weapon in the hands of the oppressor is the mind of the oppressed. The second most potent weapon is the isolation of the oppressed from each other."* - Adapted from Steve Biko
 
