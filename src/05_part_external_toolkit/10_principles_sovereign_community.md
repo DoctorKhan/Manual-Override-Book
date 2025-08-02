@@ -1,4 +1,4 @@
-# Chapter 17: The Principles of Sovereign Community
+### Chapter 17: The Principles of Sovereign Community
 
 *"The most potent weapon in the hands of the oppressor is the mind of the oppressed. The second most potent weapon is the isolation of the oppressed from each other."* - Adapted from Steve Biko
 
@@ -12,7 +12,7 @@ The Social Game maintains power through predictable mechanisms that you now unde
 
 The counter-strategy is equally systematic:
 
-### Recognize Manufactured Divisions
+##### Recognize Manufactured Divisions
 
 **The Practice**: When you find yourself in conflict with people who share your actual economic interests, pause and ask: "Who benefits from this division?"
 
@@ -24,7 +24,7 @@ The counter-strategy is equally systematic:
 
 **The Deeper Work**: Develop the ability to see past surface-level differences to identify shared interests. Most conflicts between ordinary people serve elite interests by preventing unified resistance to systemic problems.
 
-### Prioritize Horizontal Bonds
+##### Prioritize Horizontal Bonds
 
 **The Principle**: Invest your time, energy, and resources in relationships with neighbors, extended family, and local community rather than vertical relationships with distant institutions.
 
@@ -36,7 +36,7 @@ The counter-strategy is equally systematic:
 
 **Why This Matters**: Horizontal bonds create resilience and reduce dependency on systems designed to extract value from you. When you know your neighbors and they know you, you have alternatives when institutional systems fail or become exploitative.
 
-### Create Economic Interdependence
+##### Create Economic Interdependence
 
 **The Goal**: Develop local networks for mutual aid, skill-sharing, and economic cooperation that reduce dependence on corporate systems.
 
@@ -52,7 +52,7 @@ The counter-strategy is equally systematic:
 
 **Community Gardens and Food Networks**: Develop local food production and distribution that reduces dependence on industrial agriculture and corporate food systems.
 
-### Preserve Institutional Memory
+##### Preserve Institutional Memory
 
 **The Challenge**: Each generation must rediscover how to live in community because the knowledge has been systematically erased from mainstream culture.
 
@@ -64,7 +64,7 @@ The counter-strategy is equally systematic:
 - **Community Story Preservation**: Maintain the narratives and traditions that create shared identity and meaning within your local area
 - **Elder Councils**: Create regular opportunities for experienced community members to share wisdom with younger generations
 
-### Build Local Power
+##### Build Local Power
 
 **The Principle**: Create community institutions—gardens, tool libraries, mutual aid networks, local currencies—that provide alternatives to corporate dependency.
 
@@ -80,7 +80,7 @@ The counter-strategy is equally systematic:
 
 **Educational Alternatives**: Learning communities that transmit practical skills and cultural wisdom outside of institutional control.
 
-### Practice Collective Decision-Making
+##### Practice Collective Decision-Making
 
 **The Skill**: Develop abilities in group process, consensus-building, and sustained cooperation that are essential for effective community organization.
 
@@ -96,7 +96,7 @@ The counter-strategy is equally systematic:
 
 Sovereign communities operate on fundamentally different principles than the competitive, extractive systems of the Social Game:
 
-### Abundance Thinking vs. Scarcity Programming
+##### Abundance Thinking vs. Scarcity Programming
 
 **Scarcity Programming**: The belief that there isn't enough to go around, so people must compete for limited resources. This creates the psychological conditions for divide-and-conquer manipulation.
 
@@ -104,7 +104,7 @@ Sovereign communities operate on fundamentally different principles than the com
 
 **Practical Application**: When organizing community projects, start from the assumption that the community has the resources and skills needed to solve its problems. Focus on connecting existing assets rather than seeking external funding or expertise.
 
-### Gift Economy vs. Market Exchange
+##### Gift Economy vs. Market Exchange
 
 **Market Exchange**: Transactions based on equivalent value exchange, creating relationships of calculated reciprocity.
 
@@ -112,7 +112,7 @@ Sovereign communities operate on fundamentally different principles than the com
 
 **Practical Application**: Within your community networks, practice giving freely when you have abundance and receiving gracefully when you have need, trusting that the overall flow will balance over time.
 
-### Regenerative vs. Extractive Relationships
+##### Regenerative vs. Extractive Relationships
 
 **Extractive Relationships**: Interactions that benefit one party at the expense of another, depleting the overall system.
 
@@ -122,7 +122,7 @@ Sovereign communities operate on fundamentally different principles than the com
 
 ## Common Challenges and Solutions
 
-### "I Don't Have Time"
+##### "I Don't Have Time"
 
 **The Reality**: Building community requires significant time investment, especially in the beginning phases.
 
@@ -130,7 +130,7 @@ Sovereign communities operate on fundamentally different principles than the com
 
 **Practical Start**: Begin with one hour per week dedicated to community connection. This might be attending a local meeting, helping a neighbor, or organizing a skill-sharing session.
 
-### "I Don't Know Where to Start"
+##### "I Don't Know Where to Start"
 
 **The Reality**: Most people lack experience with community organizing and don't know how to begin.
 
@@ -142,7 +142,7 @@ Sovereign communities operate on fundamentally different principles than the com
 - Turn individual problems into community problem-solving sessions
 - Turn individual celebrations into community festivals
 
-### "People Aren't Interested"
+##### "People Aren't Interested"
 
 **The Reality**: Many people are isolated and have lost the skills for community participation.
 
@@ -154,7 +154,7 @@ Sovereign communities operate on fundamentally different principles than the com
 - Celebrate small successes and build momentum gradually
 - Connect with people who are already community-minded rather than trying to convert everyone
 
-### "It Feels Overwhelming"
+##### "It Feels Overwhelming"
 
 **The Reality**: The scale of systemic problems can make individual community efforts feel insignificant.
 

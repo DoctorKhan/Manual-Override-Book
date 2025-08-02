@@ -1,4 +1,4 @@
-# Chapter 18: Rebuilding the Flow of Wisdom - True Hierarchy and Learning Communities
+### Chapter 18: Rebuilding the Flow of Wisdom - True Hierarchy and Learning Communities
 
 *"In a time of universal deceit, telling the truth is a revolutionary act. In a time of false expertise, genuine learning is a revolutionary act."* - Adapted from George Orwell
 
@@ -8,7 +8,7 @@ This chapter provides the tools for rebuilding true hierarchy—natural learning
 
 ## Understanding True vs. False Hierarchy
 
-### True Hierarchy: The Natural Flow of Wisdom
+##### True Hierarchy: The Natural Flow of Wisdom
 
 **Definition**: A social structure where authority flows naturally to those with demonstrated knowledge, skill, and the ability to serve others' learning and growth.
 
@@ -25,7 +25,7 @@ This chapter provides the tools for rebuilding true hierarchy—natural learning
 - A skilled mediator helping community members learn conflict resolution through real-world application
 - An elder sharing life wisdom through storytelling and mentorship relationships
 
-### False Hierarchy: The Manipulation of Authority
+##### False Hierarchy: The Manipulation of Authority
 
 **Definition**: A social structure where authority is based on credentials, appointments, or political maneuvering rather than demonstrated competence and service.
 
@@ -44,7 +44,7 @@ This chapter provides the tools for rebuilding true hierarchy—natural learning
 
 ## The Practical Framework for True Hierarchy
 
-### Step 1: Identify Genuine Expertise
+##### Step 1: Identify Genuine Expertise
 
 **The Real-World Test**: When facing a problem, you want someone who has consistently solved similar problems, not someone who can talk about solving them.
 
@@ -62,7 +62,7 @@ This chapter provides the tools for rebuilding true hierarchy—natural learning
 - Experts who discourage questions or independent verification
 - Authority figures who benefit financially from maintaining your dependence
 
-### Step 2: Create Learning Relationships
+##### Step 2: Create Learning Relationships
 
 **The Mentorship Model**: Seek out people who have skills you want to develop and offer value in exchange for learning opportunities.
 
@@ -76,7 +76,7 @@ This chapter provides the tools for rebuilding true hierarchy—natural learning
 
 **Project-Based Learning**: Organize community projects that require learning new skills, with experienced people guiding less experienced ones through real-world application.
 
-### Step 3: Develop Your Own Teaching Capacity
+##### Step 3: Develop Your Own Teaching Capacity
 
 **The Teaching Imperative**: As you develop competence in any area, you have a responsibility to share that knowledge with others. This is how true hierarchy maintains itself and grows.
 
@@ -96,7 +96,7 @@ This chapter provides the tools for rebuilding true hierarchy—natural learning
 
 ## Building Learning Communities
 
-### The Community Learning Model
+##### The Community Learning Model
 
 **Principle**: Instead of isolated individual learning or institutional education, create community-based learning systems that serve local needs while building relationships and collective capacity.
 
@@ -112,7 +112,7 @@ This chapter provides the tools for rebuilding true hierarchy—natural learning
 
 **Documentation**: Record and preserve the knowledge being shared so it can benefit future community members.
 
-### Practical Implementation Strategies
+##### Practical Implementation Strategies
 
 **Monthly Skill Shares**: Regular gatherings where community members teach each other practical abilities. Each session focuses on one skill with hands-on learning and take-home resources.
 
@@ -124,7 +124,7 @@ This chapter provides the tools for rebuilding true hierarchy—natural learning
 
 **Community Libraries**: Physical and digital repositories of practical knowledge, tools, and resources that support ongoing learning and skill development.
 
-### Creating Safe Learning Environments
+##### Creating Safe Learning Environments
 
 **Psychological Safety**: People learn best when they feel safe to make mistakes, ask questions, and experiment without judgment.
 
@@ -137,7 +137,7 @@ This chapter provides the tools for rebuilding true hierarchy—natural learning
 
 ## Specific Learning Community Models
 
-### The Traditional Crafts Circle
+##### The Traditional Crafts Circle
 
 **Focus**: Learning practical skills that reduce dependence on corporate services and build community self-sufficiency.
 
@@ -147,7 +147,7 @@ This chapter provides the tools for rebuilding true hierarchy—natural learning
 
 **Benefits**: Develops practical abilities, builds community relationships, preserves traditional knowledge, reduces economic dependency.
 
-### The Wisdom Keepers Council
+##### The Wisdom Keepers Council
 
 **Focus**: Learning from elders who remember how communities functioned before atomization and corporate mediation.
 
@@ -157,7 +157,7 @@ This chapter provides the tools for rebuilding true hierarchy—natural learning
 
 **Benefits**: Preserves cultural knowledge, builds relationships across generations, provides alternatives to institutional services.
 
-### The Future Skills Laboratory
+##### The Future Skills Laboratory
 
 **Focus**: Learning emerging skills needed for community resilience in a changing world.
 
@@ -167,7 +167,7 @@ This chapter provides the tools for rebuilding true hierarchy—natural learning
 
 **Benefits**: Prepares community for future challenges, builds innovative capacity, creates connections with broader networks.
 
-### The Healing Arts Collective
+##### The Healing Arts Collective
 
 **Focus**: Learning traditional and alternative approaches to health and wellness that reduce dependence on corporate medical systems.
 
@@ -179,7 +179,7 @@ This chapter provides the tools for rebuilding true hierarchy—natural learning
 
 ## Overcoming Common Obstacles
 
-### "I Don't Know Enough to Teach"
+##### "I Don't Know Enough to Teach"
 
 **The Reality**: You don't need to be an expert to share knowledge. You just need to know more than the person you're teaching and be honest about your limitations.
 
@@ -187,7 +187,7 @@ This chapter provides the tools for rebuilding true hierarchy—natural learning
 
 **Practical Approach**: Organize learning partnerships where you teach something you know in exchange for learning something you don't know.
 
-### "People Don't Want to Learn"
+##### "People Don't Want to Learn"
 
 **The Reality**: People are often overwhelmed by information and skeptical of learning opportunities that don't provide immediate practical value.
 
@@ -195,7 +195,7 @@ This chapter provides the tools for rebuilding true hierarchy—natural learning
 
 **Effective Strategies**: Start with popular topics (cooking, gardening, home repair), make sessions social events with food and conversation, and demonstrate immediate practical applications.
 
-### "There Are No Experts in My Community"
+##### "There Are No Experts in My Community"
 
 **The Reality**: Every community has more expertise than it realizes, but it's often invisible because people don't recognize their own knowledge or share it with others.
 

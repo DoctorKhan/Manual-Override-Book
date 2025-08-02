@@ -1,6 +1,6 @@
 # Glossary of Key Terms
 
-## Core Concepts
+#### Core Concepts
 
 **Manual Override:** The act of consciously choosing your response in a situation where an automatic, programmed reaction would normally take over. It is the core skill of conscious living, moving from being a passenger in your life to being the pilot.
 
@@ -17,7 +17,7 @@
 
 **The Reality Whirlpool:** A self-sustaining feedback loop where a thought creates a feeling, and the feeling reinforces the thought, locking you into a subjective reality (e.g., an "anxiety whirlpool" or an "anger whirlpool"). Manual Override involves breaking this loop.
 
-## Advanced Concepts
+#### Advanced Concepts
 
 **The Four Freedoms:** An advanced navigation system for consciousness. They are four qualities of awareness you can apply to challenging situations:
 - **Anatta (Non-Identification):** Realizing you are not the thought, emotion, or role being threatened.

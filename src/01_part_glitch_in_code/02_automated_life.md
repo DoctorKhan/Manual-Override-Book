@@ -1,4 +1,4 @@
-# Chapter 2: The Automated Life
+### Chapter 2: The Automated Life
 
 Sarah couldn't stop thinking about Dr. Rodriguez's research. 797 out of 847 decisions made by something other than conscious awareness. The number haunted her.
 
@@ -10,7 +10,7 @@ The results were more disturbing than she'd expected.
 
 By day three of her experiment, Sarah had filled pages with observations. The patterns were undeniable, and they fell into clear categories that painted a picture of human behavior far more automated than she'd ever imagined.
 
-### Category 1: The Repetition Patterns
+##### Category 1: The Repetition Patterns
 
 **The Same Mistakes, Over and Over**
 
@@ -26,7 +26,7 @@ Most disturbing was recognizing her own patterns. The way she always checked her
 - Neuroimaging reveals that habitual behaviors activate different brain regions than conscious choices
 - The "planning fallacy" shows people consistently make the same estimation errors despite repeated experience
 
-### Category 2: The Trigger-Response Mechanism
+##### Category 2: The Trigger-Response Mechanism
 
 Sarah began mapping her own responses to specific stimuli. The precision was disturbing.
 
@@ -40,7 +40,7 @@ Sarah began mapping her own responses to specific stimuli. The precision was dis
 
 This wasn't just similarity—it was near-identical responses, as if she was running the same program with minimal variation. The question became: if these responses were so automatic, what was actually generating them?
 
-### Category 3: The Awareness Gaps
+##### Category 3: The Awareness Gaps
 
 Perhaps the most compelling evidence was what Sarah didn't remember about her own behavior.
 
@@ -50,7 +50,7 @@ Most unsettling: she checked her phone dozens of times per day without any consc
 
 These weren't isolated incidents of distraction. They represented systematic gaps in conscious awareness during routine activities. It was as if something else was operating the controls while her conscious awareness was... elsewhere.
 
-### Category 4: The Choice Illusion
+##### Category 4: The Choice Illusion
 
 The most disturbing evidence came from examining what Sarah called her "choices." Many decisions that felt conscious and deliberate were actually the result of factors she wasn't aware of.
 
@@ -74,7 +74,7 @@ The most disturbing evidence came from examining what Sarah called her "choices.
 
 How many of her "choices" were actually chosen?
 
-### Category 5: The Reflex Deception
+##### Category 5: The Reflex Deception
 
 Sarah discovered research that shattered her remaining illusions about conscious choice:
 
@@ -86,7 +86,7 @@ Sarah discovered research that shattered her remaining illusions about conscious
 
 The implication was staggering: her sense of being the conscious author of her actions was largely a post-hoc story her brain told her. She experienced automatic responses as conscious decisions, then created rational explanations for choices she never actually made.
 
-### Category 6: The Resistance to Change
+##### Category 6: The Resistance to Change
 
 If people were truly in conscious control of their behavior, self-improvement would be straightforward: identify what you want to change, decide to change it, and implement the change. But Sarah's own experience told a different story:
 

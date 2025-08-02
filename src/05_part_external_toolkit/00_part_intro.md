@@ -1,4 +1,4 @@
-# Part 1: The External Toolkit - Building Sovereign Systems
+## Part 1: The External Toolkit - Building Sovereign Systems
 
 *"Having learned the tools for achieving internal sovereignty, we now turn to the external world. A de-programmed individual living in a programmed society is still a prisoner of the system. True liberation requires building sovereign communities and relationships that can function as alternatives to the Social Game. The following chapters provide the practical toolkit for this external work."*
 
@@ -12,10 +12,10 @@ But individual awakening in isolation is ultimately insufficient. Even a fully d
 
 True freedom requires a coordinated response to both levels of the Social Game:
 
-### Level 1: Internal Sovereignty (Part 1 of this manual)
+##### Level 1: Internal Sovereignty (Part 1 of this manual)
 You must achieve cognitive independence—the ability to observe your own mental programming, interrupt automatic reactions, and choose conscious responses based on your authentic values rather than installed conditioning.
 
-### Level 2: External Sovereignty (This section)
+##### Level 2: External Sovereignty (This section)
 You must participate in creating parallel systems—economic, social, and cultural alternatives that serve human flourishing rather than elite control.
 
 ## What You'll Learn in Part 2

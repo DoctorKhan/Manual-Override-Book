@@ -1,4 +1,4 @@
-# Chapter 11: The Game Paradox
+### Chapter 11: The Game Paradox
 
 Sarah had mastered the tools, understood the development stages, and was beginning to live from conscious choice more consistently. But a deeper question was emerging—one that would determine whether this work felt liberating or imprisoning.
 

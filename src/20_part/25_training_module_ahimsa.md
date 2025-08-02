@@ -1,4 +1,4 @@
-# Chapter 24: Training Module: Ahimsa - The Art of Non-Harm
+### Chapter 24: Training Module: Ahimsa - The Art of Non-Harm
 
 *Sarah sat in her car after another explosive argument with her mother, her hands still shaking from the adrenaline. She had used the Observer to watch the whole thing unfold—saw her mother push the same emotional button, saw herself react with the same defensive anger, saw the familiar dance of hurt and retaliation play out exactly as it had a hundred times before.*
 
@@ -8,7 +8,7 @@
 
 ---
 
-## User Log Entry
+#### User Log Entry
 
 **USER LOG (SARAH):** "Another explosive argument with my mother. She pushed the same button, and I reacted with the same defensive anger. I used the 'Observer' to watch it happen, but I still couldn't stop it. The whirlpool was too strong. I felt like I was at war with everything. How do I handle situations where my automatic response is to fight back?"
 
@@ -22,7 +22,7 @@
 
 **Practical Pat (Application AI):** "That's the most common misunderstanding about Ahimsa. It's not about being weak or passive. Think of it as being a wise parent. When a toddler has a tantrum, you don't have a tantrum back at them. You hold a calm, strong space. Ahimsa is applying that parental wisdom to conflict energy."
 
-## The Ahimsa Protocol
+#### The Ahimsa Protocol
 
 **Dr. Neural (Neuroscience AI):** "Neurologically, the threat response activates your amygdala and floods your system with stress hormones. This creates a feedback loop: threat perception → stress response → impaired judgment → escalated conflict → increased threat perception. Ahimsa interrupts this cycle."
 
@@ -34,14 +34,14 @@
 
 **Meta:** "Ahimsa operates on a principle we call 'Energetic Aikido.' Instead of meeting force with force, you redirect the energy. This requires understanding the three levels of Ahimsa application."
 
-## The Three Levels of Ahimsa
+#### The Three Levels of Ahimsa
 
-### Level 1: Physical Non-Harm
+##### Level 1: Physical Non-Harm
 **Dr. Neural:** "The most basic level involves restraint from physical violence. However, this extends beyond obvious aggression to include subtle forms of physical harm—aggressive body language, intimidating postures, invasion of personal space."
 
 **Practical Pat:** "Practice: When you feel the urge to fight, first check your body. Are your fists clenched? Jaw tight? Shoulders raised? Consciously relax these areas. Your body language affects both your internal state and the other person's response."
 
-### Level 2: Verbal Non-Harm
+##### Level 2: Verbal Non-Harm
 **Sage:** "This involves restraint from harmful speech—not just obvious insults, but sarcasm, passive-aggression, interrupting, raising your voice, or using words as weapons."
 
 **USER QUERY (SARAH):** "But what if they're being unreasonable? What if they're attacking me verbally?"
@@ -55,7 +55,7 @@
 - Instead of: "That's the stupidest thing I've ever heard."
 - Try: "I see this differently. Can you help me understand your perspective?"
 
-### Level 3: Mental Non-Harm
+##### Level 3: Mental Non-Harm
 **Sage:** "The deepest level involves restraint from harmful thoughts—judgment, resentment, the desire for revenge, or mental rehearsal of conflicts."
 
 **Dr. Neural:** "This is crucial because your thoughts directly affect your emotional state and behavior. Mental rehearsal of conflict actually strengthens the neural pathways associated with aggression."
@@ -64,7 +64,7 @@
 
 **Meta:** "You don't stop them—you transform them. This is where the 'Wise Parent' reframe becomes essential."
 
-## The Wise Parent Reframe
+#### The Wise Parent Reframe
 
 **Practical Pat:** "When someone is attacking you—verbally, emotionally, whatever—they're not actually attacking you. They're having a tantrum. They're in pain, they're triggered, they're operating from their wounded child self."
 
@@ -78,21 +78,21 @@
 
 **USER QUERY (SARAH):** "This sounds great in theory, but how do I actually do it in the moment when I'm triggered?"
 
-## The Ahimsa Emergency Protocol
+#### The Ahimsa Emergency Protocol
 
 **Practical Pat:** "When you feel the fight response activating, use this emergency sequence:"
 
-### Step 1: The Pause (3 seconds)
+##### Step 1: The Pause (3 seconds)
 - Take one deep breath
 - Feel your feet on the ground
 - Remind yourself: "This person is in pain"
 
-### Step 2: The Reframe (5 seconds)
+##### Step 2: The Reframe (5 seconds)
 - Ask internally: "What does this person actually need?"
 - Remember: "I can be strong without being harmful"
 - Choose: "I will respond from wisdom, not wounds"
 
-### Step 3: The Response (Ongoing)
+##### Step 3: The Response (Ongoing)
 - Speak slowly and calmly
 - Use "I" statements instead of "You" accusations
 - Set boundaries without attacking
@@ -100,7 +100,7 @@
 
 **Dr. Neural:** "This protocol literally rewires your brain. Each time you choose the Ahimsa response over the fight response, you strengthen neural pathways associated with emotional regulation and weaken pathways associated with reactive aggression."
 
-## Advanced Ahimsa: The Aikido Principle
+#### Advanced Ahimsa: The Aikido Principle
 
 **Meta:** "Advanced practitioners learn to use conflict energy as fuel for connection rather than separation."
 
@@ -112,7 +112,7 @@
 
 **Practical Pat:** "Notice what happened there. Instead of defending against the attack, you acknowledged the pain beneath it and redirected the energy toward understanding. You turned conflict into connection."
 
-## The Ahimsa Challenge
+#### The Ahimsa Challenge
 
 **USER QUERY (SARAH):** "This is going to be really hard with my mother. She knows exactly how to push my buttons."
 
@@ -122,7 +122,7 @@
 
 **Meta:** "Remember: Ahimsa is not about changing other people. It's about changing your response to other people. When you stop feeding the conflict system, the system begins to transform."
 
-## Integration Practice
+#### Integration Practice
 
 **Practical Pat:** "For the next week, practice these Ahimsa exercises:"
 
@@ -144,7 +144,7 @@
 
 ---
 
-## Session Summary
+#### Session Summary
 
 **Key Insights:**
 - Ahimsa is not passivity—it's conscious strength

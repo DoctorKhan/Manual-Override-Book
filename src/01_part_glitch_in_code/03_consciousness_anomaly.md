@@ -1,4 +1,4 @@
-# Chapter 4: The Consciousness Anomaly
+### Chapter 4: The Consciousness Anomaly
 
 Sarah's investigation into automation had left her with disturbing questions, but it also revealed something hopeful: the observer phenomenon. Those moments when she could step back and watch her own thoughts and behaviors as if from outside herself.
 
@@ -32,7 +32,7 @@ As Sarah dove deeper into this mystery, she activated Marcus's research interfac
 
 Marcus shared examples, framing them not just as famous figures, but as case studies in conscious presence—examples of consciousness operating at a cooler temperature.
 
-### John F. Kennedy: The Debate Phenomenon
+##### John F. Kennedy: The Debate Phenomenon
 
 *October 1960. The first televised presidential debate. Two candidates, similar policies, vastly different presence.*
 
@@ -46,7 +46,7 @@ Marcus shared examples, framing them not just as famous figures, but as case stu
 
 **The Result:** Radio listeners thought Nixon won on content. Television viewers overwhelmingly chose Kennedy. The difference? **Visible consciousness**—and the cooling effect of operating at a lower temperature on the reactivity scale.
 
-### Maya Angelou: The Interview Effect
+##### Maya Angelou: The Interview Effect
 
 *Watch any interview with Maya Angelou. Notice something remarkable: she pauses before answering questions.*
 
@@ -56,7 +56,7 @@ Marcus shared examples, framing them not just as famous figures, but as case stu
 
 **The Impact:** Interviewers would slow down, become more thoughtful themselves. Her presence **elevated** the consciousness of everyone around her. The pause created space for wisdom rather than just information exchange.
 
-### Nelson Mandela: The Transformation Field
+##### Nelson Mandela: The Transformation Field
 
 *How did he emerge from 27 years in prison without bitterness?*
 
@@ -70,7 +70,7 @@ Sarah realized that these charismatic people all shared something: they seemed t
 
 This led her to investigate what Marcus called "The Consciousness Anomalies"—documented evidence that there was something in human consciousness that could step back and observe thoughts, emotions, and behaviors from outside the normal stream of experience.
 
-### Evidence Category 1: The Witness Consciousness
+##### Evidence Category 1: The Witness Consciousness
 
 Most people could recall experiences like these:
 
@@ -81,7 +81,7 @@ Most people could recall experiences like these:
 
 **The Disturbing Implication**: If you can observe your thoughts, emotions, and behaviors, what is doing the observing? And if this observer exists, why isn't it active more often?
 
-### Evidence Category 2: Flow States and Peak Performance
+##### Evidence Category 2: Flow States and Peak Performance
 
 Athletes, artists, and performers described experiences where their usual sense of self disappeared and something else seemed to take over:
 
@@ -96,7 +96,7 @@ His hands moved to intercept passes before his mind registered the opportunity. 
 
 **The Question**: What is the source of this enhanced capability that emerges when the usual mental chatter stops? What guides actions when the thinking mind is quiet?
 
-### Evidence Category 3: The Meditation Research
+##### Evidence Category 3: The Meditation Research
 
 Neuroscience research had documented measurable changes in brain activity during states of self-observation:
 
@@ -107,7 +107,7 @@ Neuroscience research had documented measurable changes in brain activity during
 
 **The Mystery**: These studies confirmed that something measurable happened when people entered observer states. But they didn't explain what was doing the observing or why this capacity wasn't naturally active.
 
-### Evidence Category 4: Extreme States
+##### Evidence Category 4: Extreme States
 
 The observer phenomenon appeared in various extreme conditions:
 

@@ -1,4 +1,4 @@
-# Chapter 1: The Wake-Up Call
+### Chapter 1: The Wake-Up Call
 
 Sarah stared at her phone. 11:47 PM. Again.
 
@@ -76,7 +76,7 @@ Your investigation will test three core ideas:
 
 Follow this simple weekly protocol. Don't worry about doing it perfectly. The goal is consistent observation, not perfect execution.
 
-### Week 1: The Pattern Detective
+##### Week 1: The Pattern Detective
 
 **Your Mission:** To discover your most common automatic patterns.
 
@@ -86,7 +86,7 @@ Follow this simple weekly protocol. Don't worry about doing it perfectly. The go
 
 *Example: Trigger: Colleague criticized my report. → Response: Felt a hot flush in my chest, defended myself immediately.*
 
-### Week 2: The Observer Experiment
+##### Week 2: The Observer Experiment
 
 **Your Mission:** To find the "Observer"—the part of you that can watch your thoughts and feelings.
 
@@ -94,7 +94,7 @@ Follow this simple weekly protocol. Don't worry about doing it perfectly. The go
 
 **The Daily Question:** A few times a day, especially when you feel an emotion, ask: "What is aware of this feeling?" Notice if a sense of space appears.
 
-### Week 3: The Choice Point Experiment
+##### Week 3: The Choice Point Experiment
 
 **Your Mission:** To create a moment of pause between a trigger and your reaction.
 
@@ -104,7 +104,7 @@ Follow this simple weekly protocol. Don't worry about doing it perfectly. The go
 
 **The Choice Question:** Ask yourself: "How do I want to respond?" You might still choose the automatic reaction, but the goal is to make it a choice, not a reflex.
 
-### Week 4: The Integration Test
+##### Week 4: The Integration Test
 
 **Your Mission:** To see if you can bring conscious awareness into a routine activity.
 

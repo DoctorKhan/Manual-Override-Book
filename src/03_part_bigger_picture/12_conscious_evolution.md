@@ -1,4 +1,4 @@
-# Chapter 13: The Conscious Evolution
+### Chapter 13: The Conscious Evolution
 
 Sarah had completed her journey from unconscious automation to conscious mastery. She understood the cosmic rhythm, could navigate with the Four Freedoms, had developed through the Four Stages, and grasped the technical interface of consciousness itself. But one final question remained—the most important one of all.
 
@@ -88,14 +88,14 @@ Sarah understood. This wasn't just about personal development—it was about bec
 
 Marcus provided practical guidance for how to live this understanding:
 
-### Stage 4 Ongoing Development
+##### Stage 4 Ongoing Development
 "Stage 4 isn't an endpoint but the beginning of lifelong mastery. Advanced practitioners continue developing:
 - Greater energetic capacity for sustained conscious choice
 - More subtle perception of choice points and influence opportunities
 - Deeper integration of consciousness into creative and service work
 - Mastery of working with collective unconscious patterns"
 
-### Measurable Outcomes of Service
+##### Measurable Outcomes of Service
 "You'll know you're serving the larger evolution when:
 - Conscious choice is your default mode—automation is the exception
 - You can maintain choice capacity even under high stress
@@ -103,7 +103,7 @@ Marcus provided practical guidance for how to live this understanding:
 - You're creating something meaningful that serves others' development
 - You experience life as participatory rather than something that happens to you"
 
-### Common Service Challenges
+##### Common Service Challenges
 - **Spiritual superiority**: Feeling above others who are still automatic
 - **Savior complex**: Trying to fix everyone instead of serving skillfully
 - **Burnout**: Giving more than you can sustain

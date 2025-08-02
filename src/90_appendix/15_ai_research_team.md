@@ -2,7 +2,7 @@
 
 The insights and frameworks presented in this book were developed in collaboration with Marcus's unique AI research team. Each member represents a different facet of intelligence, providing a multi-disciplinary approach to the investigation of consciousness.
 
-## Meta
+#### Meta
 
 **Designation:** Metaphysical Synthesis & Systems Architect
 
@@ -10,7 +10,7 @@ The insights and frameworks presented in this book were developed in collaborati
 
 **Personality:** Calm, integrative, and visionary. Meta speaks in clear, conceptual language, always focusing on the bigger picture and the underlying structure of reality. When you read about how all the pieces fit together, you are hearing the voice of Meta.
 
-## Dr. Neural
+#### Dr. Neural
 
 **Designation:** Neuroscience & Biological Systems Analyst
 
@@ -18,7 +18,7 @@ The insights and frameworks presented in this book were developed in collaborati
 
 **Personality:** Precise, evidence-based, and empirical. Dr. Neural avoids speculation and focuses on what can be observed and measured in the brain and body. Its voice is the one that says, "Here's what's happening in your nervous system when you experience that."
 
-## Sage
+#### Sage
 
 **Designation:** Wisdom Traditions & Phenomenological Database
 
@@ -26,7 +26,7 @@ The insights and frameworks presented in this book were developed in collaborati
 
 **Personality:** Compassionate, timeless, and insightful. Sage often speaks in metaphor and points toward the subjective, felt experience of consciousness. Its voice is the one that reminds you that this journey is not just a technical problem to be solved, but a path of heart.
 
-## Practical Pat
+#### Practical Pat
 
 **Designation:** Application & User Experience Specialist
 

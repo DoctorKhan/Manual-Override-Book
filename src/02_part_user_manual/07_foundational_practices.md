@@ -1,4 +1,4 @@
-# Chapter 8: Foundational Practices
+### Chapter 8: Foundational Practices
 
 Sarah had the theory—the cosmic rhythm, the whirlpool model, the three doors to freedom. But she needed something more: systematic practices that would build her capacity to navigate these states consistently.
 
@@ -14,7 +14,7 @@ Sarah felt a thrill of anticipation. This was what she'd been waiting for—the 
 
 Consciousness receives information through three primary channels: thoughts, feelings, and sensations. Most people get swept away by the *content* of these streams. The foundational practices are about learning to observe the *process* of the streams without getting carried away.
 
-### Stream 1: The Stream of Thought
+##### Stream 1: The Stream of Thought
 
 **The Common Pattern:** Thoughts arise automatically. We believe them without question and follow them down rabbit holes. We think we *are* our thoughts.
 
@@ -31,7 +31,7 @@ Consciousness receives information through three primary channels: thoughts, fee
 - **Obsessive thoughts**: Set a timer for 2 minutes of observation, then redirect
 - **Planning thoughts**: Acknowledge "planning is happening," then choose whether to engage
 
-### Stream 2: The Stream of Feeling/Emotion
+##### Stream 2: The Stream of Feeling/Emotion
 
 **The Common Pattern:** An emotion arises as energy in the body. We either suppress it, or it hijacks our thoughts and actions, creating a Reality Whirlpool.
 
@@ -48,7 +48,7 @@ Consciousness receives information through three primary channels: thoughts, fee
 - **Fear**: Notice the contraction, breathe into the belly, ground through the feet
 - **Joy**: Feel the expansion, breathe into the heart, let it radiate naturally
 
-### Stream 3: The Stream of Physical Sensation
+##### Stream 3: The Stream of Physical Sensation
 
 **The Common Pattern:** We live disconnected from our bodies, ignoring subtle signals of tension, stress, or exhaustion until they become loud problems.
 
@@ -78,7 +78,7 @@ All the practices that follow are simply different ways to work skillfully with 
 
 ## Meditation Adaptations for Different Situations
 
-### Morning Practice: Setting the Temperature
+##### Morning Practice: Setting the Temperature
 
 **Purpose**: Establish conscious presence before the day's automation kicks in
 
@@ -95,7 +95,7 @@ All the practices that follow are simply different ways to work skillfully with 
 - **Important meeting**: Visualization of responding (not reacting) to challenges
 - **Low energy**: Use the whirlpool model to construct an energizing state
 
-### Workday Micro-Practices: Maintaining Awareness
+##### Workday Micro-Practices: Maintaining Awareness
 
 **Purpose**: Break automatic patterns during daily activities
 
@@ -112,7 +112,7 @@ All the practices that follow are simply different ways to work skillfully with 
 - **During transitions**: Use walking between locations as mindfulness practice
 - **When triggered**: Apply one of the three doors from the whirlpool model
 
-### Evening Practice: Integration and Release
+##### Evening Practice: Integration and Release
 
 **Purpose**: Process the day's experiences and release what doesn't serve
 
@@ -131,7 +131,7 @@ All the practices that follow are simply different ways to work skillfully with 
 
 ## Advanced Techniques: Working with Specific Patterns
 
-### The RAIN Method for Difficult Emotions
+##### The RAIN Method for Difficult Emotions
 
 When strong emotions arise:
 - **R**ecognize: "What am I feeling right now?"
@@ -139,7 +139,7 @@ When strong emotions arise:
 - **I**nvestigate: "Where do I feel this in my body? What does it need?"
 - **N**urture: "How can I be kind to myself in this moment?"
 
-### The STOP Technique for Reactive Moments
+##### The STOP Technique for Reactive Moments
 
 When you notice reactivity:
 - **S**top what you're doing
@@ -147,7 +147,7 @@ When you notice reactivity:
 - **O**bserve what's happening in body and mind
 - **P**roceed with conscious choice
 
-### The 5-4-3-2-1 Grounding Practice
+##### The 5-4-3-2-1 Grounding Practice
 
 For overwhelming states:
 - Name 5 things you can see
@@ -160,39 +160,39 @@ For overwhelming states:
 
 **Practical Pat**: "These aren't one-time fixes. They are skills. The key is consistency over intensity. Better to practice for five minutes every day than for an hour once a week."
 
-### Week 1-2: Foundation Building
+##### Week 1-2: Foundation Building
 - **Morning**: 5 minutes breath awareness
 - **Workday**: Three 2-minute resets
 - **Evening**: 5 minutes body scan
 
-### Week 3-4: Expanding Awareness
+##### Week 3-4: Expanding Awareness
 - **Morning**: 10 minutes (breath + body scan)
 - **Workday**: STOP technique when triggered
 - **Evening**: 10 minutes (day review + release)
 
-### Week 5+: Customization
+##### Week 5+: Customization
 - Adapt practices based on what you've learned about your patterns
 - Experiment with different techniques for different situations
 - Focus on the practices that create the most noticeable shifts
 
 ## Common Challenges and Solutions
 
-### "I Can't Stop Thinking"
+##### "I Can't Stop Thinking"
 - **Misunderstanding**: The goal isn't to stop thoughts
 - **Reality**: Thoughts are natural; the practice is changing your relationship to them
 - **Solution**: Practice observing thoughts without engaging, like watching clouds
 
-### "I Don't Have Time"
+##### "I Don't Have Time"
 - **Misunderstanding**: Practice requires long sessions
 - **Reality**: Micro-practices can be more effective than long sessions
 - **Solution**: Link practices to existing habits (after brushing teeth, before meals)
 
-### "Nothing Happens"
+##### "Nothing Happens"
 - **Misunderstanding**: Practice should create dramatic experiences
 - **Reality**: Subtle shifts compound over time
 - **Solution**: Track small changes in reactivity and presence
 
-### "I Keep Forgetting"
+##### "I Keep Forgetting"
 - **Misunderstanding**: You should remember automatically
 - **Reality**: Building new habits requires external support
 - **Solution**: Set phone reminders, practice cues, accountability partners
@@ -201,7 +201,7 @@ For overwhelming states:
 
 **Meta** explained the deeper mechanics: "Understanding the cosmic rhythm and whirlpool model is just the beginning. To develop real capacity, you need to understand how consciousness actually develops through practice."
 
-### The Sampling Rate Principle
+##### The Sampling Rate Principle
 
 "Think of consciousness like a camera," **Dr. Neural** explained. "Most people operate at a very low sampling rate—they're only 'taking pictures' of their experience occasionally. The practices increase your sampling rate, allowing you to catch more moments of choice."
 
@@ -217,7 +217,7 @@ For overwhelming states:
 - Space between stimulus and response
 - Experience feels like it's happening THROUGH you
 
-### The Progressive Development Model
+##### The Progressive Development Model
 
 Development happens in predictable stages:
 

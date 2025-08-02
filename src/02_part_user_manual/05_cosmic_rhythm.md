@@ -1,4 +1,4 @@
-# Chapter 6: The Cosmic Rhythm
+### Chapter 6: The Cosmic Rhythm
 
 After completing her 30-day investigation, Sarah had gathered compelling evidence of automation in her own life. But she still didn't understand the deeper pattern. Why did the observer appear and disappear? Why did conscious choice feel so fragile and temporary?
 
@@ -24,7 +24,7 @@ He described how this same pattern governed all conscious experience—but with 
 
 The rhythm of consciousness is not just a three-part cycle of active play; it is grounded in a fourth state of profound rest, which makes the entire game possible. To truly understand the rhythm—and to find lasting balance—we need to recognize the essential role of this foundational state: Phase 0.
 
-### Phase 0: The Recharge State (The Player Unplugged)
+##### Phase 0: The Recharge State (The Player Unplugged)
 
 **What it is:** This corresponds to the state of **deep, dreamless sleep**. In the language of the sages, it is the temporary return to the Absolute, to a state of "Not-Being" where the "I Am" consciousness dissolves.
 
@@ -32,7 +32,7 @@ The rhythm of consciousness is not just a three-part cycle of active play; it is
 
 **The Impact:** This removes the fear of annihilation that can subtly haunt spiritual practice. If you have a direct, nightly experience of dissolving and re-emerging unharmed, the "death" of the ego during awakening becomes far less threatening. It is a practice you have successfully completed every night of your life.
 
-### How Phase 0 Enriches the Other Phases
+##### How Phase 0 Enriches the Other Phases
 
 Understanding this foundational state changes how you relate to the rest of the cycle:
 
@@ -44,7 +44,7 @@ Understanding this foundational state changes how you relate to the rest of the 
 
 This cosmic rhythm unfolds in a repeating pattern that governs all conscious experience. It can be understood as the fundamental process of growth, and it also provides a powerful framework for working with the different "parts" of ourselves.
 
-### Phase 1: Exploring (Playing the Character) - The State of "Becoming"
+##### Phase 1: Exploring (Playing the Character) - The State of "Becoming"
 
 "Think of consciousness like a player in a video game," Marcus wrote. "In Phase 1, the player becomes so absorbed in playing the character that they forget they're the player. They shift their coordinates into the character's perspective and experience the character's timeline as their own."
 
@@ -74,7 +74,7 @@ Marcus explained why this phase was functional: "You need to care about the char
 - No space between stimulus and response
 - Living entirely from the character's perspective
 
-### Phase 2: Awakening (Remembering You're the Player) - The State of "Being"
+##### Phase 2: Awakening (Remembering You're the Player) - The State of "Being"
 
 "Through practice, grace, or suffering," Marcus wrote, "a crack appears in the construct. You suddenly remember: 'I'm not the character—I'm the Player who got absorbed in playing the character.' This is like stepping back from the video game screen and remembering you're sitting in real time."
 
@@ -92,7 +92,7 @@ This was exactly what Sarah had been experiencing! Those moments of catching her
 Up to now, we've explored the three active phases of the cosmic rhythm. But if you've ever noticed how sleep restores your energy, creativity, and emotional balance, you already know there's a deeper foundation beneath all conscious experience. To truly understand the rhythm—and to find lasting balance—we need to recognize the essential role of profound rest: Phase 0.
 
 ---
-### Integrating the Cosmic Rhythm: Introducing Phase 0
+##### Integrating the Cosmic Rhythm: Introducing Phase 0
 
 But the rhythm isn't just a three-part cycle of active play; it's grounded in a fourth state of profound rest, which makes the entire game possible.
 
@@ -183,7 +183,7 @@ Sarah felt a wave of relief reading this. The space that appeared between her an
 - You experience moments of detachment from your usual concerns
 - You develop interest in understanding how your mind works
 
-### Phase 3: Returning (Integration and Freedom) - The State of "Unborn"
+##### Phase 3: Returning (Integration and Freedom) - The State of "Unborn"
 
 "As the Observer strengthens," Marcus wrote, "it can choose to either fully merge back with the unconstructed, non-dual awareness, or it can consciously withdraw the energy of creation from a part or program. This is the phase of integration."
 
