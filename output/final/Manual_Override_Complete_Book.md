@@ -1,7 +1,7 @@
 # Manual Override
 ## A Practical Guide to Conscious Living
 
-**Compiled**: 2025-08-03 12:36:45
+**Compiled**: 2025-08-03 21:44:15
 
 ---
 
@@ -2938,6 +2938,7 @@ This isn't metaphorical—it's the actual structure of how consciousness process
 
 ##### Programmable Hardware
 "The brain's neuroplasticity demonstrates a programmable system:
+
 - 'Neurons that fire together, wire together'—this is literally describing how software gets installed
 - Meditation creates lasting structural brain changes, proving consciousness practices can reprogram the hardware
 - Repeated patterns become automatic responses—exactly how you'd design a learning algorithm
@@ -3783,6 +3784,7 @@ This chapter provides practical strategies for navigating this reality while mai
 Observe who actually solves problems versus who holds a title. Learn from the former, navigate the latter.
 
 **Weekly Practice**:
+
 - Identify the real problem-solvers in your workplace (often not the managers)
 - Notice who people go to for actual help versus who they report to officially
 - Learn from those with genuine competence while diplomatically managing those with positional authority
@@ -3893,12 +3895,14 @@ When faced with ethical conflicts:
 **The Ultimate Reframe**: The workplace becomes a dojo for developing consciousness under pressure. Every challenge becomes an opportunity to practice presence, compassion, and skillful action.
 
 **Daily Practice Questions**:
+
 - How did I maintain my center under pressure today?
 - What did I learn about human nature and systems?
 - Where did I compromise my values, and what can I learn from that?
 - How did I use my position to serve something larger than myself?
 
 **Weekly Integration**:
+
 - Review your energy patterns and adjust your strategies
 - Assess your skill development and learning objectives
 - Connect with your Flotilla about workplace challenges and insights
