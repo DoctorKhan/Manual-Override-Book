@@ -1,7 +1,7 @@
 # Manual Override
 ## A Practical Guide to Conscious Living
 
-**Compiled**: 2025-08-05 16:00:10
+**Compiled**: 2025-08-05 16:56:11
 
 ---
 
@@ -1240,9 +1240,11 @@ Sarah found this reassuring. She might be in Phase 3 regarding her relationship 
 
 ## Working with Internal Parts
 
-Marcus then connected the cosmic rhythm to practical psychology, explaining how it paralleled approaches like Internal Family Systems (IFS), or "parts work."
+Marcus then connected the cosmic rhythm to practical psychology, explaining how it paralleled approaches like "parts work"—therapeutic methods that recognize our internal world as a collection of different aspects or "parts."
 
 "Our internal world is not a monolith but a collection of different 'parts,' each with its own beliefs, feelings, and strategies. The charges and programs we've discussed can be understood as these parts."
+
+"This deeper parts work builds on the compass navigation you'll learn later. The compass helps you 'clean the spot'—neutralize the immediate charge and regain your center. But once you've created that stable foundation, you can then do more careful therapeutic work with whatever was triggered."
 
 He outlined a three-step process that followed the cosmic rhythm:
 
@@ -1253,6 +1255,8 @@ He outlined a three-step process that followed the cosmic rhythm:
 3. **Integrate the Part**: After the part feels seen and understood, it can relax. Its valuable qualities are returned to the whole system, and it no longer needs to run its old protective program.
 
 "This three-step process—Identify, Relate, Integrate—is a practical application of the cosmic rhythm to your inner world. It is a direct path to resolving internal conflicts and reclaiming your agency."
+
+"The key is sequence: First, use the compass to stabilize and center yourself. Then, from that stable foundation, you can safely engage in the deeper work of relating to and integrating your internal parts. Trying to do parts work while you're still triggered often just reinforces the patterns you're trying to heal."
 
 Sarah felt excited. This gave her a concrete way to work with her automatic patterns. Instead of fighting them, she could understand them as parts of herself that needed attention and integration.
 
@@ -2156,7 +2160,9 @@ When you notice over-responsibility, control, or harsh judgment:
 
 "The goal is not to go too far in any direction, but to find the middle way—the balanced center where all four freedoms meet. This is where true mastery lives."
 
-When the compass is in balance, a calm, coherent energy can pass through its center. This energy acts as a recalibration signal, effectively "cleaning" that spot of the mental landscape. The charge of the trigger is neutralized, the emotional whirlpool subsides, and the internal static clears. This is why finding your center is not a passive act of observation, but an active process of restoring your consciousness to its clear, sovereign state.
+When the compass is in balance, a calm, coherent energy can pass through its center. This energy acts as a recalibration signal, effectively "cleaning" that spot of the mental landscape. Stay with it, allowing the energy to flow through. When the charge of the trigger is neutralized, the emotional whirlpool subsides, and the internal static clears. This is why finding your center is not a passive act of observation, but an active process of restoring your consciousness to its clear, sovereign state.
+
+**Important Note**: This "cleaning" process is the essential first step that creates space for deeper work. Once the immediate charge is neutralized and you've regained your center, you can then do more careful therapeutic work with whatever was triggered. This might include parts work, progressive completion of unfinished emotional business, or other integration practices. The compass navigation creates the stable foundation from which this deeper healing can safely occur.
 
 ##### Example Scenario: Workplace Conflict
 

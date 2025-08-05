@@ -261,6 +261,8 @@ When you notice over-responsibility, control, or harsh judgment:
 
 When the compass is in balance, a calm, coherent energy can pass through its center. This energy acts as a recalibration signal, effectively "cleaning" that spot of the mental landscape. Stay with it, allowing the energy to flow through. When the charge of the trigger is neutralized, the emotional whirlpool subsides, and the internal static clears. This is why finding your center is not a passive act of observation, but an active process of restoring your consciousness to its clear, sovereign state.
 
+**Important Note**: This "cleaning" process is the essential first step that creates space for deeper work. Once the immediate charge is neutralized and you've regained your center, you can then do more careful therapeutic work with whatever was triggered. This might include parts work, progressive completion of unfinished emotional business, or other integration practices. The compass navigation creates the stable foundation from which this deeper healing can safely occur.
+
 ##### Example Scenario: Workplace Conflict
 
 **Situation**: Your boss criticizes your work in front of colleagues
