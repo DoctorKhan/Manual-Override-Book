@@ -37,6 +37,7 @@ Observe who actually solves problems versus who holds a title. Learn from the fo
 Before speaking, feel your feet on the floor. Before reacting to a comment, take one conscious breath. Your goal is to respond from your center, not from the "NPC" role you are expected to play.
 
 **The Meeting Navigation Protocol**:
+
 1. **Pre-Meeting Centering**: Take 2 minutes to connect with your authentic intention for the meeting
 2. **During the Meeting**: Use the Observer's Anchor before each contribution
 3. **Post-Meeting Integration**: Spend 5 minutes reflecting on what you learned about the system and yourself
@@ -53,12 +54,14 @@ Before speaking, feel your feet on the floor. Before reacting to a comment, take
 When facing criticism, instead of defending, ask clarifying questions: "Help me understand what you need from this report." When in conflict, state your experience without blame: "When the deadline was moved up, I felt unsupported," instead of "You are being unreasonable."
 
 **The Four-Step Conscious Communication Process**:
+
 1. **Pause**: Take a breath before responding to emotionally charged communication
 2. **Observe**: Notice what's actually being said versus the emotional charge behind it
 3. **Clarify**: Ask questions to understand the real need or concern
 4. **Respond**: Address the actual issue rather than reacting to the emotional charge
 
 **Example Translations**:
+
 - "You're always late with reports" → "I notice the reports have been coming in after the deadline. What support do you need to meet the timeline?"
 - "This is impossible" → "I'm feeling overwhelmed by this request. Can we discuss priorities and resources?"
 - "Management doesn't care about us" → "I'm concerned about the impact of recent decisions on team morale. Can we discuss this?"
@@ -73,12 +76,14 @@ When facing criticism, instead of defending, ask clarifying questions: "Help me 
 Identify one skill your job can teach you that will serve your long-term, sovereign goals (e.g., public speaking, project management, coding). Make the acquisition of that skill your primary, secret mission. This reframes your purpose from serving the Engine to using the Engine for your own growth.
 
 **The Meaning Reframe Process**:
+
 1. **Identify the Hidden Curriculum**: What skills is this job actually teaching you?
 2. **Connect to Larger Purpose**: How do these skills serve your authentic goals?
 3. **Create Learning Objectives**: Set specific development goals that use your job as a training ground
 4. **Track Progress**: Regularly assess how you're growing through the work experience
 
 **Examples of Hidden Curriculum**:
+
 - Customer service → Developing patience and communication skills
 - Project management → Learning systems thinking and coordination
 - Sales → Understanding human psychology and persuasion
@@ -94,12 +99,14 @@ Identify one skill your job can teach you that will serve your long-term, sovere
 Track your energy levels throughout the workday. Identify what activities drain you versus what activities energize you. Design strategies to minimize energy drain and maximize energy gain.
 
 **Daily Energy Management Protocol**:
+
 - **Morning**: Set clear boundaries around your energy investment
 - **Midday**: Take conscious breaks to reset your energy
 - **Afternoon**: Use the Observer to notice energy patterns
 - **Evening**: Consciously transition out of work mode
 
 **Energy Protection Strategies**:
+
 - Limit emotional investment in workplace drama
 - Use the Observer to stay detached from office politics
 - Find ways to contribute your authentic gifts within your role
@@ -113,12 +120,14 @@ Track your energy levels throughout the workday. Identify what activities drain 
 
 **Practice: The Ethical Decision Tree**
 When faced with ethical conflicts:
+
 1. **Assess the Harm**: What are the real consequences of different choices?
 2. **Identify Your Influence**: Where do you have actual power to make a difference?
 3. **Choose Your Battles**: Focus your energy on issues where you can have meaningful impact
 4. **Document Everything**: Keep records of decisions and their rationales
 
 **Strategies for Ethical Navigation**:
+
 - Find allies who share your values
 - Suggest alternatives that serve both ethical and business goals
 - Use your position to protect or support others when possible

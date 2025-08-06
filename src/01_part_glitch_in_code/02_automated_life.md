@@ -21,6 +21,7 @@ Her colleague Mark always got triggered by the same type of feedback, reacting d
 Most disturbing was recognizing her own patterns. The way she always checked her phone when feeling anxious. The route she took to work even when traffic was terrible. The defensive tone that automatically emerged when her partner brought up certain topics.
 
 **The Research Confirms It:**
+
 - Studies show that 40-45% of daily behaviors are habits, not conscious decisions
 - People make approximately 35,000 decisions per day, but most follow predictable patterns
 - Neuroimaging reveals that habitual behaviors activate different brain regions than conscious choices
@@ -55,18 +56,21 @@ These weren't isolated incidents of distraction. They represented systematic gap
 The most disturbing evidence came from examining what Sarah called her "choices." Many decisions that felt conscious and deliberate were actually the result of factors she wasn't aware of.
 
 **Environmental Programming:**
+
 - She bought more when stores played slower music
 - Her mood affected her food choices in predictable ways
 - Her political opinions had been shaped by her social media algorithm
 - Even her "spontaneous" weekend activities followed patterns based on weather, energy levels, and social cues
 
 **Social Programming:**
+
 - Her fashion choices clustered around what her peer group wore
 - Her opinions on controversial topics aligned suspiciously with her social circle
 - She found herself conforming to group behavior even when she disagreed
 - Her lifestyle choices followed predictable demographic patterns
 
 **Biological Programming:**
+
 - Her decision-making changed based on her menstrual cycle
 - Low blood sugar made her irritable and impulsive
 - Sleep deprivation systematically altered her risk assessment

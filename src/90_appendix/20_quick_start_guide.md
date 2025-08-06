@@ -147,6 +147,7 @@ These are simple ways to begin exploring how your mind works. Think of them as c
 **What you're exploring:** Do I have predictable patterns, or am I as random as I think?
 
 **The Simple Practice:**
+
 - Keep a small notebook or use your phone.
 - When something triggers a strong reaction, just jot down:
     - What happened?
@@ -154,11 +155,13 @@ These are simple ways to begin exploring how your mind works. Think of them as c
     - Did that feel automatic or chosen?
 
 **The Random Check-In:**
+
 - Set a few phone alarms throughout the day.
 - When they go off, pause and notice: "Was I on autopilot just now, or was I present?"
 - No need to change anything—just notice.
 
 **Evening Reflection (2 minutes):**
+
 - Look at your notes.
 - Any patterns jumping out?
 - Which situations seem to trigger the same responses every time?
@@ -179,6 +182,7 @@ These are simple ways to begin exploring how your mind works. Think of them as c
 **What you're exploring:** Is there something in me that can watch my thoughts without getting caught up in them?
 
 **The Simple Practice (10 minutes):**
+
 - Sit comfortably and close your eyes.
 - Instead of trying to stop thoughts, just watch them come and go.
 - When you notice a thought, mentally say "thinking" and go back to watching.
@@ -186,11 +190,13 @@ These are simple ways to begin exploring how your mind works. Think of them as c
 - The question: What is doing the watching?
 
 **Throughout the Day:**
+
 - A few times, ask yourself: "What is aware of this moment?"
 - Notice if you can step back and observe what you're thinking or feeling.
 - Can you watch your emotions without being overwhelmed by them?
 
 **Evening Check-In:**
+
 - When did you successfully step back and observe?
 - What made it easy or difficult to find that observer perspective?
 
@@ -210,12 +216,14 @@ These are simple ways to begin exploring how your mind works. Think of them as c
 **What you're exploring:** Can I create space between what happens to me and how I respond?
 
 **The Mental Rehearsal (15 minutes):**
+
 - Think of a recent situation that triggered an automatic reaction.
 - Replay it in your mind, but this time pause when you feel the trigger.
 - Imagine responding differently—not necessarily better, just more consciously chosen.
 - Practice this mental pause and choice several times.
 
 **In Real Life:**
+
 - When you notice yourself getting triggered, try this:
     1.  Pause for just 2 seconds.
     2.  Take one conscious breath.
@@ -223,6 +231,7 @@ These are simple ways to begin exploring how your mind works. Think of them as c
     4.  Choose your response (even if it's the same as your automatic one).
 
 **Evening Reflection:**
+
 - When did you successfully create that pause?
 - What made conscious choice easier or harder?
 - Did choosing (even the same response) feel different than reacting automatically?
@@ -244,17 +253,20 @@ These are simple ways to begin exploring how your mind works. Think of them as c
 **What you're exploring:** Can I stay conscious during different activities, or does awareness only work when I'm sitting still?
 
 **The Awareness Stability Test:**
+
 - Try 10 minutes of sitting quietly and watching thoughts.
 - Try 10 minutes of walking while staying present.
 - Try 5 minutes of conscious breathing during a routine activity.
 - Question: Does awareness feel the same in all three, or different?
 
 **Pick One Daily Activity:**
+
 - Choose something routine (eating breakfast, brushing teeth, walking to the car).
 - Every time you do this activity, try to stay fully present.
 - Notice: What's the difference between doing it automatically vs. consciously?
 
 **30-Day Reflection:**
+
 - Looking back over the month, what patterns did you notice?
 - Which situations consistently triggered automatic responses?
 - When was it easiest to find that observer perspective?
@@ -268,6 +280,7 @@ When normal observation becomes impossible due to overwhelming mental states (li
 
 **For Anxiety/Panic States**
 **Sensory Anchoring Protocol**
+
 1.  Name 5 things you can see.
 2.  Name 4 things you can touch.
 3.  Name 3 things you can hear.
@@ -278,6 +291,7 @@ When normal observation becomes impossible due to overwhelming mental states (li
 
 **For Mental Loop States**
 **Pattern Disruption Protocol**
+
 1.  Notice you're in a mental loop.
 2.  Say out loud: "I'm thinking in circles."
 3.  Stand up and move your body for 30 seconds.
@@ -286,6 +300,7 @@ When normal observation becomes impossible due to overwhelming mental states (li
 
 **For Emotional Overwhelm States**
 **Observer Activation Protocol**
+
 1.  Place one hand on your chest, one on your belly.
 2.  Say internally: "I notice I'm feeling [emotion]."
 3.  Ask: "What is aware of this feeling?"

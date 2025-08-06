@@ -17,6 +17,7 @@ The counter-strategy is equally systematic:
 **The Practice**: When you find yourself in conflict with people who share your actual economic interests, pause and ask: "Who benefits from this division?"
 
 **Examples in Action**:
+
 - When neighbors argue about property values while corporate investors buy up entire neighborhoods
 - When workers blame immigrants for job losses while automation and corporate policies eliminate positions
 - When different generations blame each other for economic problems while wealth concentrates among a tiny elite
@@ -29,6 +30,7 @@ The counter-strategy is equally systematic:
 **The Principle**: Invest your time, energy, and resources in relationships with neighbors, extended family, and local community rather than vertical relationships with distant institutions.
 
 **Practical Applications**:
+
 - **Local Relationships Over Digital Connections**: Spend more time with people you can physically reach than with online communities or social media networks
 - **Mutual Aid Over Professional Services**: When possible, exchange help with neighbors rather than paying distant corporations for services
 - **Community Gatherings Over Entertainment Consumption**: Organize or attend local events where people create connection rather than consuming media
@@ -59,6 +61,7 @@ The counter-strategy is equally systematic:
 **The Solution**: Connect with elders who remember how communities functioned before atomization, and document that knowledge for future generations.
 
 **Practical Methods**:
+
 - **Oral History Projects**: Record conversations with older community members about how neighborhoods, families, and local economies once operated
 - **Traditional Skill Documentation**: Learn and teach practical abilities that reduce dependence on corporate services—food preservation, natural building, herbal medicine, conflict resolution
 - **Community Story Preservation**: Maintain the narratives and traditions that create shared identity and meaning within your local area
@@ -85,6 +88,7 @@ The counter-strategy is equally systematic:
 **The Skill**: Develop abilities in group process, consensus-building, and sustained cooperation that are essential for effective community organization.
 
 **Core Competencies**:
+
 - **Facilitation Skills**: Learn to guide group discussions that include all voices and reach workable decisions
 - **Conflict Resolution**: Develop techniques for addressing disagreements constructively rather than allowing them to fragment the community
 - **Consensus Building**: Practice finding solutions that work for everyone rather than majority-rule systems that create winners and losers
@@ -137,6 +141,7 @@ Sovereign communities operate on fundamentally different principles than the com
 **The Solution**: Start with your existing relationships and immediate needs. Look for opportunities to turn individual activities into community activities.
 
 **Practical Examples**:
+
 - Turn individual gardening into a community garden
 - Turn individual learning into a study group or skill-sharing circle
 - Turn individual problems into community problem-solving sessions
@@ -149,6 +154,7 @@ Sovereign communities operate on fundamentally different principles than the com
 **The Strategy**: Focus on practical benefits rather than ideological appeals. People will participate in community activities when they see concrete value for their lives.
 
 **Effective Approaches**:
+
 - Organize around immediate, practical needs (food, safety, childcare, skill development)
 - Make participation easy and enjoyable rather than demanding or guilt-inducing
 - Celebrate small successes and build momentum gradually

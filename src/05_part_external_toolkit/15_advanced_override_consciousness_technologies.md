@@ -13,6 +13,7 @@ Having developed the foundational practices for internal sovereignty and communi
 **Consciousness technologies** are practices that can rapidly alter states of awareness, providing access to non-ordinary states of consciousness that can facilitate healing, insight, and spiritual development.
 
 **Primary Categories**:
+
 - **Plant medicines and psychedelics**: Substances that alter brain chemistry to produce expanded states of awareness
 - **Breathwork practices**: Techniques that use controlled breathing to induce altered states
 - **Intensive meditation retreats**: Extended periods of focused practice that can produce profound shifts in consciousness

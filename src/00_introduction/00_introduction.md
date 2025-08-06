@@ -65,6 +65,7 @@ In video games, Non-Player Characters (NPCs) are automated entities that follow 
 **Hypothesis**: Most human behavior operates on a similar principle. We appear to make conscious choices, but we're actually running on automatic scripts—biological, psychological, and cultural programming that responds predictably to environmental triggers.
 
 **If this hypothesis is correct, it would explain:**
+
 - Why manipulation techniques work so consistently across different people
 - Why we often feel like we're "watching ourselves" make decisions we don't fully understand
 - Why changing behavior is so difficult, even when we consciously want to change
@@ -95,21 +96,25 @@ This is the central mystery of consciousness—and potentially the key to unders
 This book is structured as a systematic investigation into your own consciousness. Each chapter builds on the previous one, following the evidence wherever it leads.
 
 **Phase 1: Documenting the Automation** (Chapters 1-4)
+
 - Mapping your automatic patterns
 - Identifying your triggers and responses
 - Testing the NPC Hypothesis through direct observation
 
 **Phase 2: Finding the Observer** (Chapters 5-8)
+
 - Locating the part of you that can watch without being caught
 - Strengthening Observer awareness
 - Learning basic Override techniques
 
 **Phase 3: Advanced Override** (Chapters 9-12)
+
 - Mastering conscious choice in challenging situations
 - Understanding the deeper patterns of consciousness
 - Developing internal sovereignty
 
 **Phase 4: The Bigger Picture** (Chapters 13-16)
+
 - Understanding why we're programmed this way
 - Connecting individual Override to collective transformation
 - Preparing for the deeper investigation ahead

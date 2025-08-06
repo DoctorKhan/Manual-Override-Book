@@ -10,6 +10,7 @@ Think of the dolphin analogy: when a dolphin leaps through water, it creates imp
 Just as the dolphin represents external energy organizing water molecules into complex structures, consciousness represents energy from higher dimensions organizing matter into purposeful patterns. This is why genuine choice feels different from automatic responses—it literally involves energy from outside the local system.
 
 **Why This Matters for Manual Override:**
+
 - Automatic responses follow predictable patterns (like water molecules in random motion)
 - Conscious choices create new possibilities (like the dolphin-shaped water)
 - Manual override is learning to consciously direct this higher-dimensional energy
@@ -20,6 +21,7 @@ Just as the dolphin represents external energy organizing water molecules into c
 In practical terms, consciousness influences reality through what we experience as "charges"—patterns of attraction and aversion that shape our responses to life situations.
 
 **Understanding Charges:**
+
 - Charges are energetic patterns that create automatic responses
 - They activate when triggered by specific situations or stimuli
 - They generate cravings (positive charges) and aversions (negative charges)
@@ -27,6 +29,7 @@ In practical terms, consciousness influences reality through what we experience 
 
 **How Charges Influence Reality:**
 When charges activate, they:
+
 - Shape your perception of what's possible
 - Influence your emotional responses
 - Direct your attention and focus
@@ -53,6 +56,7 @@ Instead of trying to force outcomes through willpower, manual override works by 
 **Choice Point Recognition**: When facing decisions throughout the day, pause and access both clear awareness and focused energy. Notice the difference between scattered high-energy states and clear low-energy states. Optimal choices emerge when both clarity and energy are present.
 
 **Energy State Awareness**: Throughout the day, notice when you're:
+
 - **Clear but low energy**: Aware but lacking power to act
 - **Energized but scattered**: Lots of energy but reactive or unfocused attention
 - **Clear and energized**: Coherent awareness with focused energy—optimal for manual override
@@ -95,6 +99,7 @@ This isn't personal failure—it's the autopilot programming actively working to
 **Making Practice Feel Boring**: The most insidious aspect is that **the practices that would help you break free are the ones that feel most tedious or irrelevant**. This isn't coincidence—it's the system's defense mechanism.
 
 The autopilot programming makes liberating practices feel:
+
 - **Tedious**: "This is so boring, I'd rather do something else"
 - **Impractical**: "I don't have time for this, I have real problems"
 - **Irrelevant**: "This doesn't apply to my situation"

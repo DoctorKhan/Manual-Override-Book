@@ -85,20 +85,24 @@ Marcus explained that the North direction connected directly to the deepest teac
 ##### Practical Applications
 
 **When Feeling Attacked**:
+
 - **Old response**: "They're criticizing me! I need to defend myself!"
 - **North orientation**: "I am not the thing being criticized. I am the awareness observing this interaction."
 
 **During Emotional Overwhelm**:
+
 - **Old response**: "I can't handle these feelings!"
 - **North orientation**: "These emotions are arising in my field of awareness, but they are not who I am."
 
 **In Identity Crisis**:
+
 - **Old response**: "I don't know who I am anymore!"
 - **North orientation**: "I am the consciousness experiencing this confusion, not the confused thoughts themselves."
 
 ##### The Northern Practice
 
 When you notice over-identification:
+
 1. **Pause** and take a conscious breath
 2. **Check your compass**: "Am I lost in the story of 'me'?"
 3. **Orient North**: "I am not this experience—I am the one experiencing it"
@@ -132,20 +136,24 @@ When you notice over-identification:
 ##### Practical Applications
 
 **When Feeling Attacked**:
+
 - **Old response**: Attack back, defend aggressively, or run away
 - **West orientation**: Stay present and calm, like a parent dealing with a child's tantrum
 
 **Dealing with Difficult People**:
+
 - **Old response**: "This person is impossible! They're making me crazy!"
 - **West orientation**: "This person is suffering and acting out. How can I respond with wisdom?"
 
 **Internal Conflict**:
+
 - **Old response**: Fighting with your own thoughts and emotions
 - **West orientation**: Treating your inner experience with the same kindness you'd show a friend
 
 ##### The Western Practice
 
 When you notice aggression or defensiveness:
+
 1. **Pause** and feel your feet on the ground
 2. **Check your compass**: "Am I moving toward conflict or peace?"
 3. **Orient West**: Breathe into your heart center
@@ -177,20 +185,24 @@ When you notice aggression or defensiveness:
 ##### Practical Applications
 
 **Forcing Solutions**:
+
 - **Old response**: "I must make this work no matter what!"
 - **South orientation**: "Let me step back and see what wants to emerge naturally."
 
 **Clinging to Plans**:
+
 - **Old response**: "Everything must go according to my plan!"
 - **South orientation**: "I can hold my intentions lightly and adapt to what's actually happening."
 
 **Resistance to Change**:
+
 - **Old response**: "I can't let this happen!"
 - **South orientation**: "I can flow with this transition while staying centered."
 
 ##### The Southern Practice
 
 When you notice forcing, clinging, or trying to escape discomfort:
+
 1. **Pause** and feel where you're pushing or trying to move away from something
 2. **Check your compass**: "Am I forcing or flowing?"
 3. **Orient South**: Notice if you're trying to avoid or escape an experience, feeling, or outcome
@@ -225,24 +237,29 @@ When you notice forcing, clinging, or trying to escape discomfort:
 ##### Practical Applications
 
 **Overwhelming Responsibility**:
+
 - **Old response**: "I have to solve everyone's problems!"
 - **East orientation**: "I can offer my best contribution and trust the larger process, without labeling my effort as 'good' or 'bad.'"
 
 **Perfectionism**:
+
 - **Old response**: "Everything must be perfect or I've failed!"
 - **East orientation**: "I can do my part well and release attachment to the outcome or its value label."
 
 **Controlling Others**:
+
 - **Old response**: "I need to make them understand/change/behave differently!"
 - **East orientation**: "I can share my perspective and allow them their own journey, without judging their path."
 
 **Self-Judgment**:
+
 - **Old response**: "I should be better/different/more advanced!"
 - **East orientation**: "I can accept where I am without assigning a value label, while continuing to grow naturally."
 
 ##### The Eastern Practice
 
 When you notice over-responsibility, control, or harsh judgment:
+
 1. **Pause** and notice where you're assigning value or carrying too much
 2. **Check your compass**: "Am I adding a layer of judgment or value to this?"
 3. **Orient East**: Ask "Can I let this be as it is, without labeling?"
@@ -312,6 +329,7 @@ Choose one direction to focus on each day, while maintaining awareness of the ce
 ##### Weekly Compass Integration
 
 At the end of each week, reflect:
+
 - Which direction did you use most naturally?
 - Which direction was most challenging to access?
 - What situations called for multiple directions simultaneously?
@@ -321,12 +339,14 @@ At the end of each week, reflect:
 ##### The Compass Meditation
 
 **Morning Orientation** (5 minutes):
+
 1. Sit quietly and imagine a compass in your heart center
 2. Feel the four directions: North (clarity), West (peace), South (flow), East (acceptance)
 3. Notice which direction you're naturally drawn to today
 4. Set an intention to stay centered while being responsive to what's needed
 
 **Evening Review** (5 minutes):
+
 1. Reflect on the day's challenges
 2. Notice which directions you used successfully
 3. Identify moments when you lost your center

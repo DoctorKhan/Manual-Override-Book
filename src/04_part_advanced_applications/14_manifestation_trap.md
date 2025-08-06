@@ -49,6 +49,7 @@ The placebo effect provides the final layer of apparent validation. Believing yo
 None of these mechanisms involve consciousness actually influencing reality through intention. They're all perfectly explainable through conventional psychology. But the manifestation bully interprets these effects as evidence of their special powers, leading to increasingly grandiose beliefs about their ability to control reality.
 
 This becomes dangerous when they:
+
 - Ignore practical concerns because they believe their thoughts will handle everything
 - Blame themselves or others when manifestations fail
 - Become isolated from people who don't share their beliefs

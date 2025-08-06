@@ -11,6 +11,7 @@ For free will to appear at any given plane, there's a critical timing requiremen
 **Mathematical Constraint**: τ_processing(n) > τ_influence(n+1)
 
 Where:
+
 - **τ_processing(n)** = time required to process decisions at plane n
 - **τ_influence(n+1)** = time for influence to arrive from plane n+1
 
@@ -19,6 +20,7 @@ Where:
 ##### The Convergence to Freedom
 
 As planes get closer together:
+
 - **Influence time decreases**: τ_influence → 0
 - **Processing time remains finite**: τ_processing > 0
 - **At the limit**: Instantaneous influence = true freedom
@@ -45,6 +47,7 @@ If consciousness operates through energy from higher planes influencing lower on
 ΔS = k_B ln(Ω_after/Ω_before)
 
 Where consciousness influence would predict:
+
 - **Ω_after < Ω_before** during conscious choice moments
 - **Measurable as**: Temporary increases in system organization
 
@@ -69,12 +72,14 @@ Whether or not consciousness can influence physical reality depends on a crucial
 Roger Penrose and Stuart Hameroff proposed that consciousness might operate through quantum processes in neural microtubules—the protein structures that form the cell's cytoskeleton.
 
 **Why Microtubules Matter**:
+
 - **Quantum coherence**: Can maintain quantum states at biological temperatures
 - **Information processing**: Form vast networks throughout neurons
 - **Scale bridging**: Connect quantum-level events to neural-level activity
 - **Evolutionary optimization**: Billions of years may have optimized them as consciousness interfaces
 
 **The Coupling Hypothesis**: Microtubules (or similar structures) act as quantum antennae that:
+
 1. **Detect** probability distribution changes from higher consciousness planes
 2. **Amplify** these subtle influences into neural firing patterns
 3. **Integrate** quantum information into classical neural computation
@@ -85,15 +90,18 @@ Roger Penrose and Stuart Hameroff proposed that consciousness might operate thro
 Even if microtubules aren't the answer, the model predicts there must be *some* evolved biological structure that serves this function. This explains why consciousness effects show a clear hierarchy:
 
 **Nervous Systems** (Strong Coupling):
+
 - Evolved quantum-classical interfaces
 - Optimized for consciousness-matter interaction
 - Measurable effects on behavior and decision-making
 
 **Other Biological Systems** (Moderate Coupling):
+
 - Some quantum biology, but not optimized for consciousness
 - Subtle effects on growth patterns, healing, organization
 
 **Inorganic Matter** (Weak Coupling):
+
 - No specialized quantum-classical interfaces
 - Minimal measurable effects (why "psychokinesis" appears so weak)
 
@@ -128,18 +136,22 @@ Even if microtubules aren't the answer, the model predicts there must be *some* 
 ##### From Minimal to Maximal Freedom
 
 **Plane 1 (Automatic)**: Heavy coupling to lower-level physical processes, minimal higher-plane influence
+
 - **Experience**: "Things happen to me"
 - **Measurable**: High neural entropy, predictable responses
 
 **Plane 2-3 (Developing)**: Moderate higher-plane influence, increasing choice capacity
+
 - **Experience**: "I can sometimes choose"
 - **Measurable**: Intermittent entropy reversals, increased response variability
 
 **Plane n (Advanced)**: Strong higher-plane coupling, approaching the convergence limit
+
 - **Experience**: "I am the source of my responses"
 - **Measurable**: Consistent entropy reversals, high neural coherence
 
 **Plane ∞ (Theoretical Limit)**: Instantaneous influence, true freedom
+
 - **Experience**: "Effortless action, choiceless choice"
 - **Measurable**: Maximum coherence, minimal entropy in conscious systems
 
@@ -195,6 +207,7 @@ If this model proves correct, it suggests consciousness isn't separate from phys
 ##### Practical Applications
 
 **Developing Higher-Plane Access**: Instead of trying to "control" outcomes, focus on:
+
 1. **Increasing sensitivity** to higher-plane influence
 2. **Reducing noise** that obscures subtle guidance
 3. **Building coherence** in your nervous system
@@ -203,6 +216,7 @@ If this model proves correct, it suggests consciousness isn't separate from phys
 ##### Diagnostic Framework
 
 **Understanding Your Current Plane**:
+
 - How often do you experience genuine choice vs. automatic reaction?
 - Can you detect the "space" between stimulus and response?
 - Do your decisions feel like they emerge from you or happen to you?

@@ -11,6 +11,7 @@ As you develop the observer consciousness and begin to see through the programmi
 ##### Shadow 1: The Gnostic's Cage - The Trap of Spiritual Ego
 
 **What it Looks Like:**
+
 - A subtle feeling of superiority over the "unconscious NPCs" or "sleepers"
 - Starting to correct people and explain the "real" nature of reality at dinner parties
 - Feeling frustrated that others can't see what you see
@@ -36,6 +37,7 @@ This is the same pattern that creates religious fundamentalism, academic elitism
 ##### Shadow 2: The Analyst's Paralysis - The Trap of Endless Deconstruction
 
 **What it Looks Like:**
+
 - Becoming so adept at deconstructing the game that you forget to play
 - Life becomes a purely intellectual exercise
 - You analyze your emotions instead of feeling them
@@ -62,6 +64,7 @@ This is the academic trap—becoming so skilled at analyzing life that you stop 
 ##### Shadow 3: The Red Pill Rabbit Hole - The Trap of Paranoia
 
 **What it Looks Like:**
+
 - Seeing control systems everywhere, even where they don't exist
 - Every news event becomes a conspiracy
 - Every institution becomes a malevolent actor
@@ -88,6 +91,7 @@ This is the same mechanism that creates clinical paranoia, but applied to social
 ##### Shadow 4: The Lotus Eater's Island - The Trap of Spiritual Bypassing
 
 **What it Looks Like:**
+
 - Using the "it's all a game" or "suffering is curriculum" insights to avoid genuine engagement with life's challenges
 - Dismissing your own or others' pain with spiritual platitudes
 - Using meditation to feel blissfully detached rather than to build resilience for engagement
@@ -128,6 +132,7 @@ This meta-shadow is the ego's final attempt to maintain control by co-opting eve
 4. **Embodiment Check:** Am I living in my head or in my full human experience?
 
 **Quarterly Shadow Work:**
+
 - Ask three trusted friends to honestly tell you if they've noticed any of these patterns in you
 - Review your journal entries for signs of spiritual bypassing or ego inflation
 - Assess whether your spiritual practice is making you more loving and engaged or more detached and superior

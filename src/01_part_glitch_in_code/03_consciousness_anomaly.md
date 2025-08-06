@@ -37,10 +37,12 @@ Marcus shared examples, framing them not just as famous figures, but as case stu
 *October 1960. The first televised presidential debate. Two candidates, similar policies, vastly different presence.*
 
 **Richard Nixon:** Prepared, knowledgeable, but operating from scripts. His responses felt rehearsed, his body language stiff. He was **reacting** to questions with pre-programmed answers.
+
 - **Temperature: Hot.** Nixon was visibly anxious, sweating under the lights. His nervous system was in a defensive, high-energy state that came across as untrustworthy and reactive.
 - **The Pattern:** Every question triggered an automatic response pattern. He was defending positions rather than engaging with ideas.
 
 **John F. Kennedy:** Equally prepared, but something was different. He seemed to be **responding** to each question in real-time. His presence was calm, alert, engaged. He wasn't performing—he was present.
+
 - **Temperature: Cool.** Kennedy's relaxed but alert presence was a visible sign of a regulated nervous system. This allowed for responsive rather than reactive engagement, creating a sense of confidence and trustworthiness.
 - **The Pattern:** Each response emerged from conscious consideration. He was engaging with the question itself, not just defending predetermined positions.
 

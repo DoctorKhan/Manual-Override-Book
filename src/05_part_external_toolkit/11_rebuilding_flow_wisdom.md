@@ -13,6 +13,7 @@ This chapter provides the tools for rebuilding true hierarchy—natural learning
 **Definition**: A social structure where authority flows naturally to those with demonstrated knowledge, skill, and the ability to serve others' learning and growth.
 
 **Characteristics**:
+
 - **Competence-Based**: Authority is earned through proven ability to achieve results and solve problems
 - **Service-Oriented**: Leaders use their expertise to help others develop rather than to maintain power over them
 - **Transparent**: The basis for authority is visible and verifiable through practical demonstration
@@ -20,6 +21,7 @@ This chapter provides the tools for rebuilding true hierarchy—natural learning
 - **Generative**: The system creates more expertise over time as knowledge is transmitted effectively
 
 **Examples in Practice**:
+
 - A master craftsperson teaching apprentices through hands-on demonstration and guided practice
 - An experienced gardener sharing knowledge with neighbors through community garden projects
 - A skilled mediator helping community members learn conflict resolution through real-world application
@@ -30,6 +32,7 @@ This chapter provides the tools for rebuilding true hierarchy—natural learning
 **Definition**: A social structure where authority is based on credentials, appointments, or political maneuvering rather than demonstrated competence and service.
 
 **Characteristics**:
+
 - **Credential-Based**: Authority comes from certificates, degrees, or institutional positions rather than proven ability
 - **Control-Oriented**: Leaders use their position to maintain power and extract value rather than to serve others
 - **Opaque**: The basis for authority is hidden behind institutional processes and bureaucratic complexity
@@ -37,6 +40,7 @@ This chapter provides the tools for rebuilding true hierarchy—natural learning
 - **Extractive**: The system concentrates expertise and resources rather than distributing them
 
 **Examples in Practice**:
+
 - Corporate executives making decisions about industries they've never worked in based on MBA credentials
 - Medical professionals who prioritize institutional protocols over patient outcomes
 - Educational administrators who have never successfully taught creating policies for teachers
@@ -49,6 +53,7 @@ This chapter provides the tools for rebuilding true hierarchy—natural learning
 **The Real-World Test**: When facing a problem, you want someone who has consistently solved similar problems, not someone who can talk about solving them.
 
 **Evaluation Criteria**:
+
 - **Track Record**: What results has this person actually achieved in the relevant area?
 - **Teaching Ability**: Can they help others develop competence, or do they just perform well themselves?
 - **Service Orientation**: Do they use their expertise to help others, or primarily to benefit themselves?
@@ -56,6 +61,7 @@ This chapter provides the tools for rebuilding true hierarchy—natural learning
 - **Practical Application**: Can they apply their knowledge in real-world situations with unpredictable variables?
 
 **Red Flags to Avoid**:
+
 - Expertise that exists only in digital or theoretical realms
 - Authority based primarily on credentials rather than demonstrated results
 - Teachers who can't or won't show their work or explain their methods
@@ -81,6 +87,7 @@ This chapter provides the tools for rebuilding true hierarchy—natural learning
 **The Teaching Imperative**: As you develop competence in any area, you have a responsibility to share that knowledge with others. This is how true hierarchy maintains itself and grows.
 
 **Progressive Teaching Model**:
+
 1. **Learn**: Develop genuine competence through practice and mentorship
 2. **Apply**: Use your skills to solve real problems and achieve consistent results
 3. **Teach**: Share your knowledge with others who want to learn
@@ -88,6 +95,7 @@ This chapter provides the tools for rebuilding true hierarchy—natural learning
 5. **Expand**: Develop new areas of competence and repeat the cycle
 
 **Teaching Principles**:
+
 - **Start Where People Are**: Meet learners at their current level rather than where you think they should be
 - **Show, Don't Just Tell**: Demonstrate skills through practical application rather than just theoretical explanation
 - **Encourage Questions**: Create safe spaces for learners to challenge and verify what they're learning
@@ -129,6 +137,7 @@ This chapter provides the tools for rebuilding true hierarchy—natural learning
 **Psychological Safety**: People learn best when they feel safe to make mistakes, ask questions, and experiment without judgment.
 
 **Practical Elements**:
+
 - **No Stupid Questions Policy**: Explicitly encourage all questions and treat them as valuable contributions to everyone's learning
 - **Mistake Celebration**: Frame errors as learning opportunities rather than failures
 - **Multiple Learning Styles**: Accommodate different ways of learning—visual, auditory, kinesthetic, social, individual

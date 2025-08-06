@@ -3,11 +3,13 @@
 **Important Note:** The following section presents a speculative framework for understanding consciousness development. This model is offered as a tool for systematic observation and self-inquiry, not as a belief system requiring acceptance. The practical techniques in this book work regardless of whether you accept this particular metaphysical framework.
 
 **Use this framework if it helps you:**
+
 - Observe patterns in your own consciousness more systematically
 - Understand why some practices work better at different stages
 - Maintain compassion for yourself and others during development
 
 **Ignore this framework if it doesn't serve you:**
+
 - The meditation practices, charge-holding techniques, and awareness exercises remain effective
 - You can develop genuine agency without accepting any particular model of soul development
 - Focus on what you can observe directly in your own experience
@@ -38,6 +40,7 @@ These "timers" prevent souls from remaining stuck indefinitely in destructive ch
 **Human Level as Advanced Training:**
 
 The human experience represents sophisticated gameplay where:
+
 - **Charges are more complex**: Involving meaning, identity, purpose, and abstract concepts
 - **Decisions carry more weight**: The complexity means choices have far-reaching consequences
 - **Mastery requirements are higher**: Success requires learning to hold multiple archetypal patterns simultaneously
@@ -62,6 +65,7 @@ The system works more like a job market than a closed loop. When new biological 
 **Practical Implications:**
 
 This model suggests:
+
 - **No Soul Shortage**: There's no competition for incarnation opportunities
 - **Natural Progression**: Souls naturally advance through increasingly complex forms as they develop capacity
 - **Flexible Timing**: The system can accommodate population fluctuations without requiring souls to skip developmental stages

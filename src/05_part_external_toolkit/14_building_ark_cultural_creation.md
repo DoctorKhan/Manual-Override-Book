@@ -129,6 +129,7 @@ Provide simple, actionable templates. Frame them as experiments.
 ##### Subsection 2.2: The 5-Step Guide to a Simple Seasonal Ritual
 
 Example: A Winter Solstice ritual.
+
 *   **Step 1: Acknowledge the Theme** (Darkness, rest, return of the light).
 *   **Step 2: Shared Contribution** (Everyone brings a candle).
 *   **Step 3: A Symbolic Action** (Light the candles one by one, sharing a hope for the coming year).

@@ -58,11 +58,13 @@
 ##### Rhythm Surfing Techniques:
 
 **Phase Recognition**: Learn to quickly identify which phase you're in by checking your internal state.
+
 - *Immersion*: Feeling automatic, routine, slightly foggy
 - *Engagement*: Feeling alert, curious, ready for input
 - *Presence*: Feeling clear, focused, fully aware
 
 **Phase Optimization**: Match your activities to your current phase.
+
 - *Immersion*: Routine tasks, physical exercise, allowing insights to process
 - *Engagement*: Planning, learning new information, social interaction
 - *Presence*: Important decisions, creative work, conscious practice
@@ -90,6 +92,7 @@
 #### Next Steps
 
 **Practical Pat**: "Now that you understand the Cosmic Rhythm, the next module will teach you specific techniques for:
+
 1. Recognizing which phase you're in
 2. Optimizing activities for each phase  
 3. Consciously transitioning between phases

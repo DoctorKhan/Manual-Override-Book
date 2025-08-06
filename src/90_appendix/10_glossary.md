@@ -11,6 +11,7 @@
 **The Observer:** The capacity of consciousness to step back and witness thoughts, feelings, and sensations without identifying with them. It is not a separate "thing," but the function that creates the space necessary for Manual Override.
 
 **The Cosmic Rhythm:** The natural, three-phase cycle of conscious experience:
+
 - **Phase 1 (Total Immersion):** Getting lost in the "game" of life, identifying completely with your role and reactions.
 - **Phase 2 (Awakening):** The "Observer" emerging, realizing you are not your thoughts or feelings.
 - **Phase 3 (The Player's Mindset):** Consciously choosing to re-engage with life, playing your role with skill and presence without losing the perspective that it is a role.
@@ -20,6 +21,7 @@
 #### Advanced Concepts
 
 **The Four Freedoms:** An advanced navigation system for consciousness. They are four qualities of awareness you can apply to challenging situations:
+
 - **Anatta (Non-Identification):** Realizing you are not the thought, emotion, or role being threatened.
 - **Ahimsa (Non-Harm):** Responding to conflict with calm, parental wisdom instead of fight-or-flight.
 - **Akatta (Non-Doership):** Doing your part skillfully without taking on the burden of controlling all outcomes.

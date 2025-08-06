@@ -49,6 +49,7 @@
 **Practical Pat:** "Here's the key insight: You can be strong without being harmful. You can set boundaries without attacking. You can defend yourself without becoming the aggressor."
 
 **Example Responses:**
+
 - Instead of: "You always do this! You're so selfish!"
 - Try: "I'm feeling attacked right now. I need us to find a way to communicate that doesn't involve blame."
 
@@ -71,6 +72,7 @@
 **Sage:** "This doesn't excuse their behavior, but it changes your response. Instead of seeing an enemy to defeat, you see a person in pain who needs boundaries, not battles."
 
 **The Wise Parent Response:**
+
 1. **Stay Calm**: Maintain your center while they lose theirs
 2. **Set Boundaries**: Protect yourself without attacking them
 3. **Don't Take It Personally**: Their behavior is about their pain, not your worth
@@ -83,16 +85,19 @@
 **Practical Pat:** "When you feel the fight response activating, use this emergency sequence:"
 
 ##### Step 1: The Pause (3 seconds)
+
 - Take one deep breath
 - Feel your feet on the ground
 - Remind yourself: "This person is in pain"
 
 ##### Step 2: The Reframe (5 seconds)
+
 - Ask internally: "What does this person actually need?"
 - Remember: "I can be strong without being harmful"
 - Choose: "I will respond from wisdom, not wounds"
 
 ##### Step 3: The Response (Ongoing)
+
 - Speak slowly and calmly
 - Use "I" statements instead of "You" accusations
 - Set boundaries without attacking
@@ -107,6 +112,7 @@
 **Sage:** "In Aikido, you never meet force with force. You blend with the attacker's energy and redirect it. Emotional Aikido works the same way."
 
 **Example:**
+
 - **Their Attack**: "You never listen to me! You don't care about anyone but yourself!"
 - **Aikido Response**: "You're right that you don't feel heard. That must be really frustrating. Help me understand what you need me to hear."
 
@@ -147,12 +153,14 @@
 #### Session Summary
 
 **Key Insights:**
+
 - Ahimsa is not passivity—it's conscious strength
 - The Wise Parent reframe transforms enemies into wounded people who need boundaries
 - The emergency protocol can interrupt reactive patterns in real-time
 - Advanced practice turns conflict energy into connection energy
 
 **Next Steps:**
+
 - Practice the emergency protocol in low-stakes situations
 - Begin integrating the Wise Parent reframe
 - Monitor your progress without self-judgment
