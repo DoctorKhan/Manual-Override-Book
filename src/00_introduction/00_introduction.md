@@ -1,18 +1,20 @@
 # Introduction: The Internal Investigation
 
-Sarah stared at her phone. 11:47 PM. Again.
+I stared at my phone. 11:47 PM. Again.
 
-She'd opened Instagram "just for a minute" after dinner. That was three hours ago. Her thumb moved in the familiar pattern—scroll, double-tap, scroll—while her mind felt strangely absent, like she was watching someone else's hand move across the screen.
+I'd opened Instagram "just for a minute" after dinner. That was three hours ago. My thumb moved in the familiar pattern—scroll, double-tap, scroll—while my mind felt strangely absent, like I was watching someone else's hand move across the screen.
 
 *How did I get here?*
 
-The question hit her with uncomfortable clarity. Not just about the phone, but about everything. The argument with her partner that morning—she'd said the exact same things she always said, felt the same surge of righteous anger, made the same defensive gestures. The meeting at work where she'd nodded along with a decision she disagreed with, then complained about it later to the same colleague she always complained to.
+The question hit me with uncomfortable clarity. Not just about the phone, but about everything. The argument with my partner that morning—I'd said the exact same things I always said, felt the same surge of righteous anger, made the same defensive gestures. The meeting at work where I'd nodded along with a decision I disagreed with, then complained about it later to the same colleague I always complained to.
 
 *When did I become so... automatic?*
 
+That moment of recognition changed my life. It was the beginning of what I now call "manual override"—the systematic reclamation of conscious choice. Over the next several years, I developed and tested the practices in this book through my own direct experience and through teaching hundreds of students in meditation and consciousness development.
+
 ---
 
-If Sarah's experience sounds familiar, you're witnessing the mystery from the inside. In *The Social Game*, we documented how external systems influence human behavior. But that investigation raised a profound question: **Why do these influence techniques work so consistently on us?**
+If my experience sounds familiar, you're witnessing the mystery from the inside. In *The Social Game*, we documented how external systems influence human behavior. But that investigation raised a profound question: **Why do these influence techniques work so consistently on us?**
 
 **The answer lies in the internal landscape—the architecture of our own minds.**
 
@@ -44,15 +46,17 @@ Having identified the architects, we uncover the ultimate purpose behind the ent
 
 ## This Book's Purpose: The Complete Internal Toolkit
 
-In *The Social Game*, you learned foundational tools for conscious choice—how to see your strings and manage emotional whirlpools. But those were just the beginning. This book provides the complete, systematic training for achieving full internal sovereignty.
+In *The Social Game*, I shared foundational tools for conscious choice—how to see your strings and manage emotional whirlpools. But those were just the beginning. This book provides the complete, systematic training for achieving full internal sovereignty.
+
+I've spent years developing these practices, first for my own liberation from automatic patterns, then refining them through teaching meditation and consciousness development to hundreds of students. What you'll find here isn't theory—it's a field-tested manual for reclaiming conscious control of your own mind.
 
 You already know that human minds are perfectly calibrated to influence patterns. You've experienced how external systems interface with universal psychological triggers. You've begun to work with your own automatic patterns.
 
 **This book is the advanced training for mastering that operating system.**
 
-Building on your foundational skills, you will develop unshakeable inner stability, master advanced consciousness technologies, and achieve the internal sovereignty necessary for navigating the deeper mysteries ahead.
+Building on the foundational skills from *The Social Game*, you will develop unshakeable inner stability, master advanced consciousness technologies, and achieve the internal sovereignty necessary for navigating the deeper mysteries ahead.
 
-**But most importantly, you'll uncover evidence of something that can observe these automatic patterns—something that isn't automatic. Something that might be the key to understanding the deepest mystery of human consciousness.**
+**But most importantly, you'll discover what I discovered through years of practice and teaching: there's something that can observe these automatic patterns—something that isn't automatic. Something that might be the key to understanding the deepest mystery of human consciousness.**
 
 ---
 

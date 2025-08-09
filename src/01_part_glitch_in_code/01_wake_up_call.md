@@ -1,20 +1,22 @@
-### Chapter 1: The Wake-Up Call
+# Chapter 1: Quick Start Guide: Your 30-Day Investigation
 
-Sarah stared at her phone. 11:47 PM. Again.
+I stared at my phone. 11:47 PM. Again.
 
-She'd opened Instagram "just for a minute" after dinner. That was three hours ago. Her thumb moved in the familiar pattern—scroll, double-tap, scroll—while her mind felt strangely absent, like she was watching someone else's hand move across the screen.
+I'd opened Instagram "just for a minute" after dinner. That was three hours ago. My thumb moved in the familiar pattern—scroll, double-tap, scroll—while my mind felt strangely absent, like I was watching someone else's hand move across the screen.
 
 *How did I get here?*
 
-The question hit her with uncomfortable clarity. Not just about the phone, but about everything. The argument with her partner that morning—she'd said the exact same things she always said, felt the same surge of righteous anger, made the same defensive gestures. The meeting at work where she'd nodded along with a decision she disagreed with, then complained about it later to the same colleague she always complained to.
+The question hit me with uncomfortable clarity. Not just about the phone, but about everything. The argument with my partner that morning—I'd said the exact same things I always said, felt the same surge of righteous anger, made the same defensive gestures. The meeting at work where I'd nodded along with a decision I disagreed with, then complained about it later to the same colleague I always complained to.
 
-Even her "spontaneous" weekend plans followed a predictable script: brunch at the usual place, shopping at the same stores, Netflix and wine until she fell asleep on the couch.
+Even my "spontaneous" weekend plans followed a predictable script: brunch at the usual place, shopping at the same stores, Netflix and wine until I fell asleep on the couch.
 
 *When did I become so... automatic?*
 
+That moment of recognition was the beginning of everything. It launched me into years of investigation, practice, and eventually teaching others how to reclaim conscious choice from automatic patterns.
+
 ---
 
-If Sarah's experience sounds familiar, you're not alone. Most of us live more of our lives on autopilot than we'd care to admit. We follow patterns so ingrained they feel like choices, react to triggers so predictably we might as well be programmed.
+If my experience sounds familiar, you're not alone. Most of us live more of our lives on autopilot than we'd care to admit. We follow patterns so ingrained they feel like choices, react to triggers so predictably we might as well be programmed.
 
 But sometimes, something breaks through—a moment of presence, a sense of clarity, a feeling of being truly awake. These moments are clues that another way of being is possible.
 
