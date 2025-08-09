@@ -1,12 +1,12 @@
 ### Chapter 5: Your Field Research Kit
 
-Sarah stared at the evidence she'd gathered about automation and the consciousness anomaly. The patterns were undeniable, but she felt overwhelmed by the implications. How much of her life was actually under her conscious control?
+I stared at the evidence I'd gathered about automation and the consciousness anomaly. The patterns were undeniable, but I felt overwhelmed by the implications. How much of my life was actually under my conscious control?
 
-She needed to move beyond theory. She needed data—real, personal evidence from her own experience.
+I needed to move beyond theory. I needed data—real, personal evidence from my own experience.
 
-Marcus had mentioned that the most compelling evidence would come from direct observation. "You are not just reading about this mystery," he'd written, "you are part of the investigation."
+My teacher had emphasized that the most compelling evidence would come from direct observation. "You are not just reading about this mystery," he'd told me, "you are part of the investigation."
 
-Sarah decided to become a scientist studying her own consciousness.
+I decided to become a scientist studying my own consciousness.
 
 ## Your Role as Co-Investigator
 

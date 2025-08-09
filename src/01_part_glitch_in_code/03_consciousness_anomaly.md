@@ -1,18 +1,20 @@
 ### Chapter 4: The Consciousness Anomaly
 
-Sarah's investigation into automation had left her with disturbing questions, but it also revealed something hopeful: the observer phenomenon. Those moments when she could step back and watch her own thoughts and behaviors as if from outside herself.
+My investigation into automation had left me with disturbing questions, but it also revealed something hopeful: the observer phenomenon. Those moments when I could step back and watch my own thoughts and behaviors as if from outside myself.
 
-But there was something else she'd started noticing—certain people seemed to operate from this observer state more consistently than others. They had a quality that was hard to define but impossible to ignore.
+But there was something else I'd started noticing—certain people seemed to operate from this observer state more consistently than others. They had a quality that was hard to define but impossible to ignore.
 
 ## The Magnetic Exception
 
 You've probably felt it too. Someone walks into a room and, without saying a word, the energy shifts. People lean in, conversations pause, and suddenly everyone feels more awake, more at ease, more alive. It's not about looks, status, or cleverness. It's something deeper—a quality of presence that makes you feel seen, safe, and inspired.
 
-Sarah began to notice these people everywhere once she started looking. Her grandmother, who could make anyone feel heard. A former teacher who made complex ideas feel simple and exciting. A colleague who somehow diffused tension just by being present.
+I began to notice these people everywhere once I started looking. My grandmother, who could make anyone feel heard. A former teacher who made complex ideas feel simple and exciting. A colleague who somehow diffused tension just by being present.
 
 What did they have that others didn't?
 
-**This rare quality, Sarah realized, might be the key to understanding conscious choice itself.**
+**This rare quality, I realized, might be the key to understanding conscious choice itself.**
+
+Years later, as I began teaching meditation and consciousness development, I would discover that this quality could be cultivated. It wasn't a gift some people were born with—it was a skill that could be developed through specific practices.
 
 ## The Temperature Connection
 

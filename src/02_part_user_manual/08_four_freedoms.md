@@ -1,10 +1,10 @@
 ### Chapter 9: The Compass Teaching - The Four Freedoms
 
-Sarah had been practicing the foundational techniques for several weeks. She could recognize whirlpools, apply the three doors, and maintain observer awareness for longer periods. But she was beginning to face a new challenge: different situations seemed to require different approaches.
+I had been practicing the foundational techniques for several weeks. I could recognize whirlpools, apply the three doors, and maintain observer awareness for longer periods. But I was beginning to face a new challenge: different situations seemed to require different approaches.
 
-Marcus's next message would provide the solution—an ancient navigation system that would transform her from a beginner practitioner into a sophisticated consciousness navigator.
+That's when my teacher introduced me to what would become the most transformative framework I've ever learned—an ancient navigation system that would transform me from a beginner practitioner into a sophisticated consciousness navigator.
 
-"You're ready for the compass teaching," Marcus wrote. "For thousands of years, consciousness explorers have used a simple but profound navigation system. Just as a physical compass helps you find your way through unknown territory, the consciousness compass helps you navigate any situation with wisdom and skill."
+"You're ready for the compass teaching," he told me during a retreat that changed everything. "For thousands of years, consciousness explorers have used a simple but profound navigation system. Just as a physical compass helps you find your way through unknown territory, the consciousness compass helps you navigate any situation with wisdom and skill."
 
 "The question now is: How do you orient yourself in the landscape of consciousness? The early stages focused on building basic capacities—recognizing patterns, understanding the cosmic rhythm, learning to interrupt whirlpools. But mastery requires something more sophisticated."
 

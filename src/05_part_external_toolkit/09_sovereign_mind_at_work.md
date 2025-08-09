@@ -1,12 +1,12 @@
 ### Chapter 17: The Sovereign Mind at Work - Navigating the Engine
 
-*The modern workplace is the primary arena where the "Engine Protocol" of the Rulers dominates. It is a system designed for predictable output, not human flourishing. To survive and thrive consciously within it requires specific strategies.*
+*The modern workplace became my primary testing ground for everything I'd learned about consciousness and sovereignty. It's where the "Engine Protocol" dominates most completely—a system designed for predictable output, not human flourishing.*
 
-Having developed internal sovereignty through the foundational practices, you now face one of the most challenging applications: maintaining conscious choice while operating within systems explicitly designed to extract value from your attention, energy, and compliance.
+After developing internal sovereignty through the foundational practices, I faced one of the most challenging applications: maintaining conscious choice while operating within systems explicitly designed to extract value from my attention, energy, and compliance.
 
-The workplace is where the Engine Protocol is most perfectly implemented. It is a controlled environment where your time, attention, and energy are systematically harvested to serve goals you may not share, using methods that often conflict with your authentic values.
+The workplace is where the Engine Protocol is most perfectly implemented. It's a controlled environment where your time, attention, and energy are systematically harvested to serve goals you may not share, using methods that often conflict with your authentic values.
 
-This chapter provides practical strategies for navigating this reality while maintaining your sovereignty and using the experience to accelerate your conscious development.
+Through years of applying consciousness practices in professional settings—and teaching others to do the same—I've developed practical strategies for navigating this reality while maintaining sovereignty and using the experience to accelerate conscious development.
 
 ## 1. The False Hierarchy Trap: Navigating Authority
 

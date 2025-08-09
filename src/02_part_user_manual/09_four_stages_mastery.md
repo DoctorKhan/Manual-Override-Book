@@ -1,12 +1,14 @@
 ### Chapter 10: The Four Stages of Mastery
 
-Sarah had absorbed the cosmic rhythm, mastered the whirlpool model, learned the foundational practices, and understood the compass teaching with its Four Freedoms. But she still felt uncertain about her progress. How could she tell if she was actually developing? What was the roadmap from where she was now to genuine mastery?
+I had absorbed the cosmic rhythm, mastered the whirlpool model, learned the foundational practices, and understood the compass teaching with its Four Freedoms. But I still felt uncertain about my progress. How could I tell if I was actually developing? What was the roadmap from where I was now to genuine mastery?
 
-Marcus's final message in this section would provide exactly what she needed—a clear developmental framework that would show her not just where she was going, but how to get there systematically.
+My teacher's final lesson in this section would provide exactly what I needed—a clear developmental framework that would show me not just where I was going, but how to get there systematically.
 
-"Manual override isn't achieved overnight," Marcus wrote. "It's a progressive development that unfolds through four distinct stages, each with specific skills to master and measurable outcomes to track. Understanding where you are helps you choose appropriate practices and avoid common pitfalls."
+"Manual override isn't achieved overnight," he explained during our final retreat session. "It's a progressive development that unfolds through four distinct stages, each with specific skills to master and measurable outcomes to track. Understanding where you are helps you choose appropriate practices and avoid common pitfalls."
 
-Sarah felt relieved. Finally, a roadmap that would help her navigate this journey with clarity and confidence.
+I felt relieved. Finally, a roadmap that would help me navigate this journey with clarity and confidence.
+
+Through years of my own development and teaching hundreds of students, I've refined this framework to help others understand their progress and choose appropriate practices for their current stage.
 
 ## Stage 1: Pattern Recognition (Months 1-3)
 

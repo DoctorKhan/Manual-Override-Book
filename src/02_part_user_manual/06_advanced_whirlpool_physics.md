@@ -1,10 +1,10 @@
 ### Chapter 7: Advanced Whirlpool Physics - Learning to Swim in the Current
 
-*In The Social Game, you learned the emergency "first aid" for Reality Whirlpools—how to escape them using the Three Doors. But that was just the beginning. True mastery involves understanding whirlpools as sophisticated vector-connected structures and learning to swim within them consciously.*
+*In The Social Game, I shared the emergency "first aid" for Reality Whirlpools—how to escape them using the Three Doors. But that was just the beginning. True mastery involves understanding whirlpools as sophisticated vector-connected structures and learning to swim within them consciously.*
 
-Sarah had been practicing the basic whirlpool exits for months, but she was beginning to realize something profound: **What if the goal isn't always to escape the whirlpool, but to learn to navigate within it?**
+I had been practicing the basic whirlpool exits for months, but I was beginning to realize something profound: **What if the goal isn't always to escape the whirlpool, but to learn to navigate within it?**
 
-Marcus's next transmission would revolutionize her understanding of consciousness dynamics.
+My teacher's next lesson would revolutionize my understanding of consciousness dynamics.
 
 ---
 

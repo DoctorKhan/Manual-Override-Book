@@ -1,24 +1,24 @@
 ### Chapter 2: The Automated Life
 
-Sarah couldn't stop thinking about Dr. Rodriguez's research. 797 out of 847 decisions made by something other than conscious awareness. The number haunted her.
+I couldn't stop thinking about Dr. Rodriguez's research. 797 out of 847 decisions made by something other than conscious awareness. The number haunted me.
 
-She decided to conduct her own experiment. For one week, she would pay attention to her choices—really pay attention. She would catch herself in the act of deciding and ask: *Did I actually choose this, or did it just happen?*
+I decided to conduct my own experiment. For one week, I would pay attention to my choices—really pay attention. I would catch myself in the act of deciding and ask: *Did I actually choose this, or did it just happen?*
 
-The results were more disturbing than she'd expected.
+The results were more disturbing than I'd expected.
 
 ## The Evidence Accumulates
 
-By day three of her experiment, Sarah had filled pages with observations. The patterns were undeniable, and they fell into clear categories that painted a picture of human behavior far more automated than she'd ever imagined.
+By day three of my experiment, I had filled pages with observations. The patterns were undeniable, and they fell into clear categories that painted a picture of human behavior far more automated than I'd ever imagined.
 
 ##### Category 1: The Repetition Patterns
 
 **The Same Mistakes, Over and Over**
 
-Sarah started noticing something unsettling: people around her made the same mistakes repeatedly, as if they were following a script they couldn't see.
+I started noticing something unsettling: people around me made the same mistakes repeatedly, as if they were following a script they couldn't see.
 
-Her colleague Mark always got triggered by the same type of feedback, reacting defensively every single time. Her friend Lisa had been promising to start exercising "next Monday" for six months, but never followed through. Sarah's own parents had the same argument about money with identical words, escalation patterns, and unresolved endings.
+My colleague Mark always got triggered by the same type of feedback, reacting defensively every single time. My friend Lisa had been promising to start exercising "next Monday" for six months, but never followed through. My own parents had the same argument about money with identical words, escalation patterns, and unresolved endings.
 
-Most disturbing was recognizing her own patterns. The way she always checked her phone when feeling anxious. The route she took to work even when traffic was terrible. The defensive tone that automatically emerged when her partner brought up certain topics.
+Most disturbing was recognizing my own patterns. The way I always checked my phone when feeling anxious. The route I took to work even when traffic was terrible. The defensive tone that automatically emerged when my partner brought up certain topics.
 
 **The Research Confirms It:**
 
