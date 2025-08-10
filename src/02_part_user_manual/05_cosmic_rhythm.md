@@ -1,5 +1,8 @@
 # Cosmic Rhythm
 
+*"Flow down and down and down, in ever-widening rings of being."*
+— Rumi
+
 After completing her 30-day investigation, Sarah had gathered compelling evidence of automation in her own life. But she still didn't understand the deeper pattern. Why did the observer appear and disappear? Why did conscious choice feel so fragile and temporary?
 
 Marcus's next message would change everything.
