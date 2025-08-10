@@ -1,0 +1,100 @@
+title: "Manual Override"
+subtitle: "The Sovereignty Toolkit - Reclaiming conscious choice in an age of autopilot living"
+book_number: 2
+author: "Rez Khan"
+series: "The Orphaned Species"
+
+structure:
+  - type: introduction
+    title: "Introduction: The Glitch in the Code"
+    file: "00_introduction/00_introduction.md"
+
+  - type: part
+    number: 1
+    title: "Part 1: The Glitch in the Code"
+    chapters:
+      - title: "The Wake-Up Call"
+        file: "01_part_glitch_in_code/01_wake_up_call.md"
+      - title: "The Automated Life"
+        file: "01_part_glitch_in_code/02_automated_life.md"
+      - title: "The Consciousness Anomaly"
+        file: "01_part_glitch_in_code/03_consciousness_anomaly.md"
+      - title: "Field Research Kit"
+        file: "01_part_glitch_in_code/04_field_research_kit.md"
+
+  - type: part
+    number: 2
+    title: "Part 2: The User Manual"
+    chapters:
+      - title: "Cosmic Rhythm"
+        file: "02_part_user_manual/05_cosmic_rhythm.md"
+      - title: "Advanced Whirlpool Physics"
+        file: "02_part_user_manual/06_advanced_whirlpool_physics.md"
+      - title: "Foundational Practices"
+        file: "02_part_user_manual/07_foundational_practices.md"
+      - title: "The Four Freedoms"
+        file: "02_part_user_manual/08_four_freedoms.md"
+      - title: "Four Stages of Mastery"
+        file: "02_part_user_manual/09_four_stages_mastery.md"
+
+  - type: part
+    number: 3
+    title: "Part 3: The Bigger Picture"
+    chapters:
+      - title: "The Game Paradox"
+        file: "03_part_bigger_picture/10_game_paradox.md"
+      - title: "The Consciousness Interface"
+        file: "03_part_bigger_picture/11_consciousness_interface.md"
+      - title: "Conscious Evolution"
+        file: "03_part_bigger_picture/12_conscious_evolution.md"
+
+  - type: part
+    number: 4
+    title: "Part 4: Advanced Applications"
+    chapters:
+      - title: "The Manifestation Trap"
+        file: "04_part_advanced_applications/14_manifestation_trap.md"
+      - title: "Real Agency"
+        file: "04_part_advanced_applications/15_real_agency.md"
+      - title: "Shadows of Awakening"
+        file: "04_part_advanced_applications/16_shadows_of_awakening.md"
+
+  - type: part
+    number: 5
+    title: "Part 5: The External Toolkit"
+    chapters:
+      - title: "Sovereign Mind at Work"
+        file: "05_part_external_toolkit/09_sovereign_mind_at_work.md"
+      - title: "Principles of Sovereign Community"
+        file: "05_part_external_toolkit/10_principles_sovereign_community.md"
+      - title: "Rebuilding Flow Wisdom"
+        file: "05_part_external_toolkit/11_rebuilding_flow_wisdom.md"
+      - title: "Forging Adulthood - Modern Rites"
+        file: "05_part_external_toolkit/12_forging_adulthood_modern_rites.md"
+      - title: "Sovereign Life - Daily Practices"
+        file: "05_part_external_toolkit/13_sovereign_life_daily_practices.md"
+      - title: "Building the Ark - Cultural Creation"
+        file: "05_part_external_toolkit/14_building_ark_cultural_creation.md"
+      - title: "Advanced Override - Consciousness Technologies"
+        file: "05_part_external_toolkit/15_advanced_override_consciousness_technologies.md"
+
+  - type: part
+    number: 6
+    title: "Capstone: Practices for Liberation"
+    chapters:
+      - title: "Practices for Liberation"
+        file: "50_capstone/00_practices_for_liberation.md"
+
+  - type: appendix
+    title: "Appendices"
+    chapters:
+      - title: "Quick Start Guide"
+        file: "90_appendix/20_quick_start_guide.md"
+      - title: "Physics of Consciousness"
+        file: "90_appendix/30_physics_consciousness.md"
+      - title: "Glossary"
+        file: "90_appendix/10_glossary.md"
+      - title: "Metaphysical Model"
+        file: "90_appendix/13_metaphysical_model.md"
+      - title: "AI Research Team"
+        file: "90_appendix/15_ai_research_team.md"
