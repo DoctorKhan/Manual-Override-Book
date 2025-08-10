@@ -1,4 +1,4 @@
-### Chapter 18: Rebuilding the Flow of Wisdom - True Hierarchy and Learning Communities
+# Rebuilding Flow Wisdom
 
 *"In a time of universal deceit, telling the truth is a revolutionary act. In a time of false expertise, genuine learning is a revolutionary act."* - Adapted from George Orwell
 

@@ -1,4 +1,4 @@
-### Chapter 20: The Sovereign Life - Daily Practices for a Programmed World
+# Sovereign Life - Daily Practices
 
 *"The most radical thing you can do is live consciously in an unconscious world."*
 

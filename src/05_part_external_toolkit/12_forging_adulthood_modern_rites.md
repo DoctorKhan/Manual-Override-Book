@@ -1,4 +1,4 @@
-### Chapter 19: Forging Adulthood - Creating Modern Rites of Passage
+# Forging Adulthood - Modern Rites
 
 *"The cave you fear to enter holds the treasure you seek."* - Joseph Campbell
 

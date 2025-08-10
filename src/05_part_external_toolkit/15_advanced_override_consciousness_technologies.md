@@ -1,4 +1,4 @@
-### Chapter 22: Advanced Override - Using Consciousness Technologies
+# Advanced Override - Consciousness Technologies
 
 *"The mystic swims in the same waters in which the psychotic drowns."* - Joseph Campbell
 

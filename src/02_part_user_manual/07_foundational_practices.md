@@ -1,4 +1,4 @@
-# Chapter 7: Foundational Practices
+# Foundational Practices
 
 I had the theory—the cosmic rhythm, the whirlpool model, the three doors to freedom. But I needed something more: systematic practices that would build my capacity to navigate these states consistently.
 

@@ -1,4 +1,4 @@
-### Chapter 17: The Sovereign Mind at Work - Navigating the Engine
+# Sovereign Mind at Work
 
 *The modern workplace became my primary testing ground for everything I'd learned about consciousness and sovereignty. It's where the "Engine Protocol" dominates most completely—a system designed for predictable output, not human flourishing.*
 

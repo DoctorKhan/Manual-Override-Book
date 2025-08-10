@@ -1,4 +1,4 @@
-### Chapter 2: The Automated Life
+# The Automated Life
 
 I couldn't stop thinking about Dr. Rodriguez's research. 797 out of 847 decisions made by something other than conscious awareness. The number haunted me.
 

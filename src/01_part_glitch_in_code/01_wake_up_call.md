@@ -1,4 +1,4 @@
-# Chapter 1: Quick Start Guide: Your 30-Day Investigation
+# The Wake-Up Call
 
 I stared at my phone. 11:47 PM. Again.
 

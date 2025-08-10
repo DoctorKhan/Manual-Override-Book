@@ -1,4 +1,4 @@
-### Chapter 4: The Consciousness Anomaly
+# The Consciousness Anomaly
 
 My investigation into automation had left me with disturbing questions, but it also revealed something hopeful: the observer phenomenon. Those moments when I could step back and watch my own thoughts and behaviors as if from outside myself.
 

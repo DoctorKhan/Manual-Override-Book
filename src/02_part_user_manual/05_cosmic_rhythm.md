@@ -1,4 +1,4 @@
-### Chapter 6: The Cosmic Rhythm
+# Cosmic Rhythm
 
 After completing her 30-day investigation, Sarah had gathered compelling evidence of automation in her own life. But she still didn't understand the deeper pattern. Why did the observer appear and disappear? Why did conscious choice feel so fragile and temporary?
 

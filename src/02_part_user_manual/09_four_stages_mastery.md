@@ -1,4 +1,4 @@
-### Chapter 10: The Four Stages of Mastery
+# Four Stages of Mastery
 
 I had absorbed the cosmic rhythm, mastered the whirlpool model, learned the foundational practices, and understood the compass teaching with its Four Freedoms. But I still felt uncertain about my progress. How could I tell if I was actually developing? What was the roadmap from where I was now to genuine mastery?
 
