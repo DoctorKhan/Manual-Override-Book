@@ -1,7 +1,7 @@
 # Manual Override
 ## A Practical Guide to Conscious Living
 
-*Compiled August 09, 2025 at 10:45 PM*
+*Compiled August 10, 2025 at 4:00 PM*
 
 ---
 
@@ -545,6 +545,8 @@ Sarah's discoveries in her own life are not unique; they are a reflection of wel
 
 ### The Ghost in the Machine: The Player and the Autopilot
 
+*Consider the actor who plays King Lear so convincingly that he forgets he is not the king. The tragedy is not that he plays the role, but that he has forgotten he is the actor.*
+
 Our investigation reveals a fundamental truth of the human condition: you are not a single, unified being. You are a composite. You are a **Player**—an eternal, conscious Soul—operating a sophisticated biological avatar. This avatar often runs on **Autopilot**, a complex **Operating System (OS)** of programmed thoughts, emotions, and habits.
 
 **The Character's OS:** Is the product of genetics, culture, and trauma. Its prime directive is survival and pattern-matching. It is deterministic and predictable.
@@ -1018,6 +1020,9 @@ The real investigation is about to begin.
 
 
 ## Chapter 5: Cosmic Rhythm
+
+*"Flow down and down and down, in ever-widening rings of being."*
+— Rumi
 
 After completing her 30-day investigation, Sarah had gathered compelling evidence of automation in her own life. But she still didn't understand the deeper pattern. Why did the observer appear and disappear? Why did conscious choice feel so fragile and temporary?
 
