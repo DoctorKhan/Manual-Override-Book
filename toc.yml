@@ -43,8 +43,8 @@ structure:
     chapters:
       - title: "The Game Paradox"
         file: "03_part_bigger_picture/10_game_paradox.md"
-      - title: "The Consciousness Interface"
-        file: "03_part_bigger_picture/11_consciousness_interface.md"
+      - title: "Pattern Recognition Mastery"
+        file: "03_part_bigger_picture/11_pattern_recognition_mastery.md"
       - title: "Conscious Evolution"
         file: "03_part_bigger_picture/12_conscious_evolution.md"
 
@@ -75,7 +75,9 @@ structure:
         file: "90_appendix/30_physics_consciousness.md"
       - title: "Glossary"
         file: "90_appendix/10_glossary.md"
-      - title: "Metaphysical Model"
+      - title: "The Simulation Hypothesis"
         file: "90_appendix/13_metaphysical_model.md"
+      - title: "The Consciousness Interface"
+        file: "90_appendix/14_consciousness_interface.md"
       - title: "AI Research Team"
         file: "90_appendix/15_ai_research_team.md"

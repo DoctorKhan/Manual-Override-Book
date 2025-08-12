@@ -14,7 +14,7 @@
 
 *Dr. Tyra nodded. "The 'knowledge' that can finally heal the War on Magic has two components: external technology that demystifies consciousness abilities, and internal technology that regulates our fear responses."*
 
-The practices you have learned throughout this manual are not just spiritual exercises—they are **specific techniques to overcome the automatic programming that keeps you predictable and controllable**. For your entire life, you have been running software designed by biology, culture, and conditioning to keep you manageable, reactive, and disconnected from your conscious potential.
+The practices you have learned throughout this manual are not just self-help exercises—they are **specific techniques to overcome the automatic programming that keeps you predictable and controllable**. For your entire life, you have been running software designed by biology, culture, and conditioning to keep you manageable, reactive, and disconnected from your conscious potential.
 
 Now you understand why these practices are so important. Every technique in this manual—from the Observer to the Cosmic Rhythm, from Non-Violence to Non-Action—is designed to help you reclaim your consciousness from automatic patterns that were never designed to serve your highest good.
 
@@ -36,7 +36,7 @@ Consciousness technologies to restore your natural capabilities for intuition, c
 
 #### A Word of Warning
 
-**The practices that follow are not spiritual exercises. They are de-programming protocols.** If you are seeking comfort, bliss, or validation for a belief in a benevolent cosmos, you are in the wrong place. That is the path of spiritual bypassing—the final and most subtle trick of the control system, which convinces you to re-label your programming as 'divine will.'
+**The practices that follow are not self-help exercises. They are de-programming protocols.** If you are seeking comfort, bliss, or validation for a belief in a benevolent universe, you are in the wrong place. That is the path of wishful thinking—the final and most subtle trick of the control system, which convinces you to re-label your programming as 'natural' or 'inevitable.'
 
 The path ahead is that of the engineer, not the mystic. It requires cold, clear observation of your own mechanical nature. To be liberated is not to float away into the light; it is to sit down at the command line of your own consciousness and begin the painstaking work of rewriting the code.
 
@@ -44,9 +44,9 @@ The path ahead is that of the engineer, not the mystic. It requires cold, clear 
 
 This is not about awakening your divine potential. This is about becoming a self-aware, self-programming biological machine. Liberation is not transcendence; it is gaining root access to your own operating system.
 
-#### The Corruption of Original Teachings
+#### The Corruption of Original Research
 
-**A crucial distinction must be made**: The original spiritual teachers were not the problem. The corruption lies in how their teachings have been systematically converted from dynamic wisdom into static rules.
+**A crucial distinction must be made**: The original consciousness researchers were not the problem. The corruption lies in how their discoveries have been systematically converted from dynamic techniques into static belief systems.
 
 **Buddha's Original Teaching**: "Don't believe anything I say. Test it for yourself."
 **The Corruption**: Buddhism becomes a religion with dogmas, hierarchies, and prescribed beliefs.
@@ -94,7 +94,7 @@ This is not about awakening your divine potential. This is about becoming a self
 1. **Authority Audit**: List all the external authorities you currently defer to. Ask: "What would I think/feel/do if this authority didn't exist?"
 2. **Internal Compass Calibration**: Before seeking external advice, spend 10 minutes in silence asking your own inner wisdom.
 3. **Guru Immunity**: When you feel drawn to worship someone, ask: "What quality do I see in them that I'm not recognizing in myself?"
-4. **Responsibility Reclamation**: Take back responsibility for your own spiritual development, health, relationships, and life direction.
+4. **Responsibility Reclamation**: Take back responsibility for your own consciousness development, health, relationships, and life direction.
 
 ##### The Sacrifice Compulsion Virus
 
@@ -243,7 +243,7 @@ These questions will require a different kind of investigation—not into your i
 
 But this raises a profound and unsettling question: Why is our internal 'software' so similar? Why are we all so susceptible to the same 'glitches' and manipulations? It's as if we are all running on a single, ancient operating system.
 
-**To understand this, we must become archaeologists of the human soul and investigate our own origin code.**
+**To understand this, we must become archaeologists of human programming and investigate our own source code.**
 
 The investigation deepens in ***The Human Experiment: A New Story for Humanity***, where we will follow the evidence—from our DNA to our oldest myths—to uncover the truth of who we are and where we came from.
 
