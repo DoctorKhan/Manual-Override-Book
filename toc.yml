@@ -7,35 +7,35 @@ series: "The Orphaned Species"
 structure:
   - type: introduction
     title: "How to Use This Series: A Reader's Guide"
-    file: "00_introduction/010_introduction.md"
+    file: "00_introduction/000_introduction.md"
 
   - type: part
     number: 1
     title: "Part 1: The Glitch in the Code"
     chapters:
       - title: "The Wake-Up Call"
-        file: "01_part_glitch_in_code/030_wake_up_call.md"
+        file: "01_part_glitch_in_code/010_wake_up_call.md"
       - title: "The Automated Life"
-        file: "01_part_glitch_in_code/040_automated_life.md"
+        file: "01_part_glitch_in_code/020_automated_life.md"
       - title: "The Consciousness Anomaly"
-        file: "01_part_glitch_in_code/050_consciousness_anomaly.md"
+        file: "01_part_glitch_in_code/030_consciousness_anomaly.md"
       - title: "Field Research Kit"
-        file: "01_part_glitch_in_code/060_field_research_kit.md"
+        file: "01_part_glitch_in_code/040_field_research_kit.md"
 
   - type: part
     number: 2
     title: "Part 2: The User Manual"
     chapters:
       - title: "Cosmic Rhythm"
-        file: "02_part_user_manual/05_cosmic_rhythm.md"
+        file: "02_part_user_manual/050_cosmic_rhythm.md"
       - title: "Advanced Whirlpool Physics"
-        file: "02_part_user_manual/06_advanced_whirlpool_physics.md"
+        file: "02_part_user_manual/060_advanced_whirlpool_physics.md"
       - title: "Foundational Practices"
-        file: "02_part_user_manual/07_foundational_practices.md"
+        file: "02_part_user_manual/070_foundational_practices.md"
       - title: "The Four Freedoms"
-        file: "02_part_user_manual/08_four_freedoms.md"
+        file: "02_part_user_manual/080_four_freedoms.md"
       - title: "Four Stages of Mastery"
-        file: "02_part_user_manual/09_four_stages_mastery.md"
+        file: "02_part_user_manual/090_four_stages_mastery.md"
 
   - type: part
     number: 3
