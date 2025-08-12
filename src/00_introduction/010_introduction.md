@@ -43,15 +43,19 @@ The central discovery of this work is this: **there is a part of you that is not
 This book is an interactive training manual. It is designed to systematically upgrade your consciousness.
 
 **Phase 1: Exposing the Code (Chapters 1-4)**
+
 -   You will become a detective in your own mind, mapping your automatic scripts, triggers, and subroutines. You will test the NPC Hypothesis and see the programming in stark relief.
 
 **Phase 2: Activating the Observer (Chapters 5-8)**
+
 -   You will learn to locate the silent watcher within. You will amplify its signal, strengthen its presence, and begin to use it to interrupt your automatic patterns.
 
 **Phase 3: Mastering Manual Override (Chapters 9-12)**
+
 -   You will move from simple interruption to active creation. You will learn to consciously choose your responses in even the most challenging situations, forging a new level of inner freedom.
 
 **Phase 4: The Mind of the Programmer (Chapters 13-16)**
+
 -   With the skills of a sovereign mind, you will be ready to confront the deepest questions: Why is the system designed this way? What is the nature of the intelligence that programmed it?
 
 This is more than a book. It is an invitation to become the master of your own mind.
