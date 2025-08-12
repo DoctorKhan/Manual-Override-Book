@@ -6,21 +6,21 @@ series: "The Orphaned Species"
 
 structure:
   - type: introduction
-    title: "Introduction: The Glitch in the Code"
-    file: "00_introduction/00_introduction.md"
+    title: "How to Use This Series: A Reader's Guide"
+    file: "00_introduction/010_introduction.md"
 
   - type: part
     number: 1
     title: "Part 1: The Glitch in the Code"
     chapters:
       - title: "The Wake-Up Call"
-        file: "01_part_glitch_in_code/01_wake_up_call.md"
+        file: "01_part_glitch_in_code/030_wake_up_call.md"
       - title: "The Automated Life"
-        file: "01_part_glitch_in_code/02_automated_life.md"
+        file: "01_part_glitch_in_code/040_automated_life.md"
       - title: "The Consciousness Anomaly"
-        file: "01_part_glitch_in_code/03_consciousness_anomaly.md"
+        file: "01_part_glitch_in_code/050_consciousness_anomaly.md"
       - title: "Field Research Kit"
-        file: "01_part_glitch_in_code/04_field_research_kit.md"
+        file: "01_part_glitch_in_code/060_field_research_kit.md"
 
   - type: part
     number: 2
