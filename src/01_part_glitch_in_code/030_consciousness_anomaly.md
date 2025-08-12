@@ -14,7 +14,7 @@ He wasn't just singing songs; he was channeling something. He'd lose himself in 
 
 ## The Source of the Signal
 
-It was as if they were all operating from just outside the game, able to see the whole board and bring something new into it. The old stories had names for this: the muse for the artist, the daemon for the philosopher, the genius for the Roman. It was the idea of an external intelligence, a signal from beyond the normal confines of the self, that could be channeled to create something extraordinary. In the most extreme cases, the ancient Sumerians spoke of *melam*, a magnificent, divine aura that a person could carry, and *Ni*, the awe-inspiring sensation you would feel in your body as a result of being in its presence.
+It was as if they were all operating from just outside the game, able to see the whole board and bring something new into it. The old stories had names for this: the muse for the artist, the daemon for the philosopher, the genius for the Roman. It was the idea of an external intelligence, a signal from beyond the normal confines of the self, that could be channeled to create something extraordinary.
 
 ## The Observer
 n had left me with disturbing questions. But amidst the unsettling discoveries about how much of my life was running on autopilot, I'd also stumbled upon an anomaly—moments of strange clarity. Times when I could step back and watch my own thoughts and behaviors as if from outside myself. It was a fleeting but profound sensation, a glimpse of something beyond the machine.

@@ -1,7 +1,7 @@
 # Manual Override
 ## A Practical Guide to Conscious Living
 
-*Compiled August 11, 2025 at 11:36 PM*
+*Compiled August 12, 2025 at 10:49 AM*
 
 ---
 
@@ -173,7 +173,7 @@ He wasn't just singing songs; he was channeling something. He'd lose himself in 
 
 ### The Source of the Signal
 
-It was as if they were all operating from just outside the game, able to see the whole board and bring something new into it. The old stories had names for this: the muse for the artist, the daemon for the philosopher, the genius for the Roman. It was the idea of an external intelligence, a signal from beyond the normal confines of the self, that could be channeled to create something extraordinary. In the most extreme cases, the ancient Sumerians spoke of *melam*, a magnificent, divine aura that a person could carry, and *Ni*, the awe-inspiring sensation you would feel in your body as a result of being in its presence.
+It was as if they were all operating from just outside the game, able to see the whole board and bring something new into it. The old stories had names for this: the muse for the artist, the daemon for the philosopher, the genius for the Roman. It was the idea of an external intelligence, a signal from beyond the normal confines of the self, that could be channeled to create something extraordinary.
 
 ### The Observer
 n had left me with disturbing questions. But amidst the unsettling discoveries about how much of my life was running on autopilot, I'd also stumbled upon an anomaly—moments of strange clarity. Times when I could step back and watch my own thoughts and behaviors as if from outside myself. It was a fleeting but profound sensation, a glimpse of something beyond the machine.
@@ -938,10 +938,10 @@ He explained that getting lost in our own programming—the whirlpools, the reac
 
 | Direction | Freedom From... | The Practice |
 | :--- | :--- | :--- |
-| **North** | ...Taking it Personally | **Non-Identification** (Anatta) |
-| **West** | ...Unnecessary Conflict | **Non-Violence** (Ahimsa) |
-| **South** | ...Exhausting Effort | **Non-Action** (Wu Wei) |
-| **East** | ...The Burden of Judgment | **Non-Judgment** (Epochē) |
+| **North** | ...Taking it Personally | **Non-Identification** |
+| **West** | ...Unnecessary Conflict | **Non-Violence** |
+| **South** | ...Exhausting Effort | **Non-Action** |
+| **East** | ...The Burden of Judgment | **Non-Judgment** |
 
 "These four directions map directly onto the four main ways you get triggered into autopilot," he explained. "By learning to use this compass, you are learning to interrupt your most deeply ingrained reactive patterns."
 
@@ -986,7 +986,7 @@ The Western path is about meeting conflict with wisdom instead of reactivity. It
 **When to Orient South**: When you are forcing, pushing, clinging to outcomes, or struggling against the current of life.
 **The Compass Question**: "Am I trying to force a solution, or can I allow one to emerge?"
 
-The Southern path is the art of effortless action, or *Wu Wei*. It's not about doing nothing; it's about acting in harmony with the natural flow of events instead of brute-forcing your will upon them. It's the difference between a frantic swimmer fighting the current and a skilled surfer riding the wave.
+The Southern path is the art of effortless action. It's not about doing nothing; it's about acting in harmony with the natural flow of events instead of brute-forcing your will upon them. It's the difference between a frantic swimmer fighting the current and a skilled surfer riding the wave.
 
 **My First Southern Navigation**: I was stuck on a difficult section of a report, and the harder I pushed, the more blocked I became. I was trying to force a solution. Frustrated, I remembered the compass and oriented South. I asked, "What wants to emerge here?" I stopped trying to write and just sat quietly. An entirely new and better way to structure the section simply appeared in my mind. I had been trying to force the lock, when all I needed to do was find the key.
 
@@ -1540,7 +1540,7 @@ Welcome to the advanced curriculum. The real work is just beginning.
 
 The practices you have learned throughout this manual are not just spiritual exercises—they are **specific techniques to overcome the automatic programming that keeps you predictable and controllable**. For your entire life, you have been running software designed by biology, culture, and conditioning to keep you manageable, reactive, and disconnected from your conscious potential.
 
-Now you understand why these practices are so important. Every technique in this manual—from the Observer to the Cosmic Rhythm, from Ahimsa to Wu Wei—is designed to help you reclaim your consciousness from automatic patterns that were never designed to serve your highest good.
+Now you understand why these practices are so important. Every technique in this manual—from the Observer to the Cosmic Rhythm, from Non-Violence to Non-Action—is designed to help you reclaim your consciousness from automatic patterns that were never designed to serve your highest good.
 
 ##### The Four Liberation Protocols
 
@@ -2378,10 +2378,10 @@ This technical framework preserves both the mystery and the measurability of con
 
 **The Four Freedoms:** An advanced navigation system for consciousness. They are four qualities of awareness you can apply to challenging situations:
 
-- **Anatta (Non-Identification):** Realizing you are not the thought, emotion, or role being threatened.
-- **Ahimsa (Non-Harm):** Responding to conflict with calm, parental wisdom instead of fight-or-flight.
-- **Akatta (Non-Doership):** Doing your part skillfully without taking on the burden of controlling all outcomes.
-- **Wu Wei (Effortless Action):** Flowing with what's emerging naturally instead of forcing a specific result.
+- **Non-Identification:** Realizing you are not the thought, emotion, or role being threatened.
+- **Non-Violence:** Responding to conflict with calm, parental wisdom instead of fight-or-flight.
+- **Non-Action:** Doing your part skillfully without taking on the burden of controlling all outcomes.
+- **Non-Judgment:** Flowing with what's emerging naturally instead of forcing a specific result.
 
 **The Consciousness Interface:** The model proposing that the brain does not create consciousness, but acts as a sophisticated receiver or "interface" that tunes into a broader field of consciousness. Manual Override is the skill of learning to operate this interface consciously.
 

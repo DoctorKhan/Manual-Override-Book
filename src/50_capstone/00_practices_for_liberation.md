@@ -16,7 +16,7 @@
 
 The practices you have learned throughout this manual are not just spiritual exercises—they are **specific techniques to overcome the automatic programming that keeps you predictable and controllable**. For your entire life, you have been running software designed by biology, culture, and conditioning to keep you manageable, reactive, and disconnected from your conscious potential.
 
-Now you understand why these practices are so important. Every technique in this manual—from the Observer to the Cosmic Rhythm, from Ahimsa to Wu Wei—is designed to help you reclaim your consciousness from automatic patterns that were never designed to serve your highest good.
+Now you understand why these practices are so important. Every technique in this manual—from the Observer to the Cosmic Rhythm, from Non-Violence to Non-Action—is designed to help you reclaim your consciousness from automatic patterns that were never designed to serve your highest good.
 
 #### The Four Liberation Protocols
 

@@ -1,4 +1,4 @@
-### Chapter 24: Training Module: Ahimsa - The Art of Non-Harm
+### Chapter 24: Training Module: Non-Violence - The Art of Non-Harm
 
 *Sarah sat in her car after another explosive argument with her mother, her hands still shaking from the adrenaline. She had used the Observer to watch the whole thing unfold—saw her mother push the same emotional button, saw herself react with the same defensive anger, saw the familiar dance of hurt and retaliation play out exactly as it had a hundred times before.*
 
@@ -16,17 +16,17 @@
 
 **USER QUERY (SARAH):** "Counter-protocol? You mean there's a specific technique for when I'm triggered?"
 
-**Sage (Wisdom Traditions AI):** "You are identifying a charge pattern designated 'threat response.' Your nervous system perceives emotional threat and defaults to a 'fight' protocol. The counter-measure is a core principle of consciousness navigation designated **Ahimsa**, or Non-Harm."
+**Sage (Wisdom Traditions AI):** "You are identifying a charge pattern designated 'threat response.' Your nervous system perceives emotional threat and defaults to a 'fight' protocol. The counter-measure is a core principle of consciousness navigation designated **Non-Violence**, or Non-Harm."
 
 **USER QUERY (SARAH):** "Non-harm sounds like being passive. Like letting people walk all over me."
 
-**Practical Pat (Application AI):** "That's the most common misunderstanding about Ahimsa. It's not about being weak or passive. Think of it as being a wise parent. When a toddler has a tantrum, you don't have a tantrum back at them. You hold a calm, strong space. Ahimsa is applying that parental wisdom to conflict energy."
+**Practical Pat (Application AI):** "That's the most common misunderstanding about Non-Violence. It's not about being weak or passive. Think of it as being a wise parent. When a toddler has a tantrum, you don't have a tantrum back at them. You hold a calm, strong space. Non-Violence is applying that parental wisdom to conflict energy."
 
-#### The Ahimsa Protocol
+#### The Non-Violence Protocol
 
-**Dr. Neural (Neuroscience AI):** "Neurologically, the threat response activates your amygdala and floods your system with stress hormones. This creates a feedback loop: threat perception → stress response → impaired judgment → escalated conflict → increased threat perception. Ahimsa interrupts this cycle."
+**Dr. Neural (Neuroscience AI):** "Neurologically, the threat response activates your amygdala and floods your system with stress hormones. This creates a feedback loop: threat perception → stress response → impaired judgment → escalated conflict → increased threat perception. Non-Violence interrupts this cycle."
 
-**Sage:** "In Sanskrit, 'Ahimsa' means 'non-violence' or 'non-harm,' but it's not merely the absence of aggression. It's the active cultivation of harmlessness—toward others and toward yourself. It's one of the most powerful forces in the universe."
+**Sage:** "Non-Violence means more than just the absence of aggression. It's the active cultivation of harmlessness—toward others and toward yourself. It's one of the most powerful forces in the universe."
 
 **USER QUERY (SARAH):** "How is non-violence powerful? That sounds contradictory."
 

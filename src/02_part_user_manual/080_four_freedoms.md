@@ -12,10 +12,10 @@ He explained that getting lost in our own programming—the whirlpools, the reac
 
 | Direction | Freedom From... | The Practice |
 | :--- | :--- | :--- |
-| **North** | ...Taking it Personally | **Non-Identification** (Anatta) |
-| **West** | ...Unnecessary Conflict | **Non-Violence** (Ahimsa) |
-| **South** | ...Exhausting Effort | **Non-Action** (Wu Wei) |
-| **East** | ...The Burden of Judgment | **Non-Judgment** (Epochē) |
+| **North** | ...Taking it Personally | **Non-Identification** |
+| **West** | ...Unnecessary Conflict | **Non-Violence** |
+| **South** | ...Exhausting Effort | **Non-Action** |
+| **East** | ...The Burden of Judgment | **Non-Judgment** |
 
 "These four directions map directly onto the four main ways you get triggered into autopilot," he explained. "By learning to use this compass, you are learning to interrupt your most deeply ingrained reactive patterns."
 
@@ -60,7 +60,7 @@ The Western path is about meeting conflict with wisdom instead of reactivity. It
 **When to Orient South**: When you are forcing, pushing, clinging to outcomes, or struggling against the current of life.
 **The Compass Question**: "Am I trying to force a solution, or can I allow one to emerge?"
 
-The Southern path is the art of effortless action, or *Wu Wei*. It's not about doing nothing; it's about acting in harmony with the natural flow of events instead of brute-forcing your will upon them. It's the difference between a frantic swimmer fighting the current and a skilled surfer riding the wave.
+The Southern path is the art of effortless action. It's not about doing nothing; it's about acting in harmony with the natural flow of events instead of brute-forcing your will upon them. It's the difference between a frantic swimmer fighting the current and a skilled surfer riding the wave.
 
 **My First Southern Navigation**: I was stuck on a difficult section of a report, and the harder I pushed, the more blocked I became. I was trying to force a solution. Frustrated, I remembered the compass and oriented South. I asked, "What wants to emerge here?" I stopped trying to write and just sat quietly. An entirely new and better way to structure the section simply appeared in my mind. I had been trying to force the lock, when all I needed to do was find the key.
 

@@ -22,10 +22,10 @@
 
 **The Four Freedoms:** An advanced navigation system for consciousness. They are four qualities of awareness you can apply to challenging situations:
 
-- **Anatta (Non-Identification):** Realizing you are not the thought, emotion, or role being threatened.
-- **Ahimsa (Non-Harm):** Responding to conflict with calm, parental wisdom instead of fight-or-flight.
-- **Akatta (Non-Doership):** Doing your part skillfully without taking on the burden of controlling all outcomes.
-- **Wu Wei (Effortless Action):** Flowing with what's emerging naturally instead of forcing a specific result.
+- **Non-Identification:** Realizing you are not the thought, emotion, or role being threatened.
+- **Non-Violence:** Responding to conflict with calm, parental wisdom instead of fight-or-flight.
+- **Non-Action:** Doing your part skillfully without taking on the burden of controlling all outcomes.
+- **Non-Judgment:** Flowing with what's emerging naturally instead of forcing a specific result.
 
 **The Consciousness Interface:** The model proposing that the brain does not create consciousness, but acts as a sophisticated receiver or "interface" that tunes into a broader field of consciousness. Manual Override is the skill of learning to operate this interface consciously.
 
