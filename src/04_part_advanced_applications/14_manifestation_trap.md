@@ -14,7 +14,7 @@ Marcus pointed out that this pattern wasn't just misguided; it was often aggress
 
 -   **Aggressive Positivity**: They can't tolerate "negative" conversations, labeling them "low-vibe."
 -   **Reality Denial**: They insist that "high-vibe thinking" alone will solve practical problems, ignoring the need for action.
--   **Victim-Blaming**: They attribute others' suffering—poverty, illness, injustice—to "limiting beliefs," which allows them to maintain their fantasy of control while avoiding empathy.
+-   **Victim-Blaming**: They attribute others' **Challenge Difficulty**—poverty, illness, injustice—to "limiting beliefs," which allows them to maintain their fantasy of control while avoiding empathy.
 
 I recognized the pattern immediately. I had seen it in online communities and even in friends. A person discovers these ideas and at first finds comfort, but soon becomes unable to tolerate anyone who doesn't reinforce their beliefs. What begins as spiritual seeking devolves into a rigid, materialistic dogma.
 

@@ -49,7 +49,7 @@ The Northern path is about remembering who you are. You are not your thoughts, y
 ## West: The Freedom from Unnecessary Conflict (Non-Violence)
 
 **When to Orient West**: When you feel aggressive, defensive, or in fight-or-flight mode. When you're tempted to attack or run away.
-**The Compass Question**: "Is there really an enemy here, or is this just suffering meeting suffering?"
+**The Compass Question**: "Is there really an enemy here, or is this just **Challenge Friction** meeting **Challenge Friction**?"
 
 The Western path is about meeting conflict with wisdom instead of reactivity. It's not about being a doormat; it's about recognizing that all aggression comes from pain. A wise parent doesn't get into a fistfight with their screaming toddler; they meet the tantrum with calm, centered presence.
 
@@ -69,7 +69,7 @@ The Southern path is the art of effortless action. It's not about doing nothing;
 **When to Orient East**: When you are caught in labeling experiences as "good" or "bad," "success" or "failure." When you are judging yourself or others harshly.
 **The Compass Question**: "Can I let this be as it is, without needing to have an opinion about it?"
 
-The Eastern path is the practice of suspending judgment. Most of our suffering comes not from events themselves, but from the layer of judgment we add to them. Orienting East means responding to what a situation *requires*, rather than what your judgments *tell you it means*.
+The Eastern path is the practice of suspending judgment. Most of our **Challenge Friction** comes not from events themselves, but from the layer of judgment we add to them. Orienting East means responding to what a situation *requires*, rather than what your judgments *tell you it means*.
 
 **My First Eastern Navigation**: A project I had poured my heart into failed to get funding. My instant reaction was a storm of self-judgment: "I'm a failure. This was a waste of time. This is bad." The whirlpool was immense. I paused and oriented East. I dropped the labels. It wasn't "good" or "bad"; it just *was*. From that neutral space, I could ask a more useful question: "What did I learn from this process, and what is the skillful next step?" The freedom was immediate and profound.
 

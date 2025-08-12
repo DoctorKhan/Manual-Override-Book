@@ -13,7 +13,7 @@ Finally. A roadmap.
 **My Practice Focus**: My only job was to *notice*. I set random alarms on my phone to check in: "Am I present right now?" I kept a small notebook where I'd jot down patterns I observed, without judgment. The goal wasn't to change anything yet, but simply to build the muscle of awareness.
 **The Trap**: Judging myself for the patterns I saw. I had to constantly remind myself that seeing the pattern was a victory, not a failure.
 
-## Stage 2: Observer Development (Building the Watchtower)
+## Stage 2: Player View Development (Building the Watchtower)
 
 **Core Skill**: Strengthening the "witness" consciousness that can step back from the patterns.
 **The Experience**: This is where the foundational practices became crucial. I could now feel an emotion arising and, sometimes, not get completely swept away by it. I could have an anxious thought without it spiraling into a full-blown whirlpool. A space was beginning to open up between stimulus and response. I was building a watchtower from which I could observe the battlefield of my mind without getting caught in the fighting.

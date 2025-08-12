@@ -25,7 +25,7 @@ The antidote was an **Embodiment Mandate**. He challenged me to schedule non-ana
 ##### Shadow 3: The Red Pill Rabbit Hole (Paranoia)
 As I became more aware of the systems of control in the world, I started seeing them everywhere. Every news event seemed like a conspiracy, every institution a malevolent actor. My liberation was turning into a state of low-grade fear and hyper-vigilance.
 
-"The Observer correctly identifies that control systems exist," Marcus clarified, "but your mind, still running on old fear programming, is over-amplifying the threat. Your pattern-recognition system has become hyperactive."
+"The **Player View** correctly identifies that control systems exist," Marcus clarified, "but your mind, still running on old fear programming, is over-amplifying the threat. Your pattern-recognition system has become hyperactive."
 
 His solution was a **Reality Test**. He encouraged me to check my paranoid thoughts with trusted friends, to focus on small, constructive actions I could take, and to deliberately practice seeking out beauty and kindness to rebalance my perception.
 
@@ -91,7 +91,7 @@ This is the academic trap—becoming so skilled at analyzing life that you stop 
 
 1. **Scheduled Non-Analytical Time:** Block out time each day for activities that force you into your body and out of your head: dance, vigorous exercise, making art, gardening, playing with children or animals.
 
-2. **Somatic Strategy for Positive Emotions:** Use the "Somatic Strategy" (Door #1) not just for negative whirlpools, but to consciously feel positive emotions as well. Practice actually feeling joy, love, excitement, and gratitude in your body.
+2. **Haptic Focus for Positive Emotions:** Use **Haptic Focus** (Special Move #1) not just for negative **Debuff Loops**, but to consciously feel positive emotions as well. Practice actually feeling joy, love, excitement, and gratitude in your body.
 
 3. **The Vulnerability Challenge:** Regularly engage in activities that require emotional risk: sharing something personal, asking for help, expressing affection, trying something you might fail at.
 
@@ -109,7 +109,7 @@ This is the academic trap—becoming so skilled at analyzing life that you stop 
 - You lose the ability to enjoy simple pleasures because everything is "part of the system"
 
 **Why it Happens:**
-The Observer correctly identifies that systems of control exist, but the mind, still running on Manager-installed fear programming, over-amplifies the threat level. The pattern-recognition system becomes hyperactive and starts seeing patterns where none exist.
+The **Player View** correctly identifies that systems of control exist, but the mind, still running on Manager-installed fear programming, over-amplifies the threat level. The pattern-recognition system becomes hyperactive and starts seeing patterns where none exist.
 
 **The Deeper Pattern:**
 This is the same mechanism that creates clinical paranoia, but applied to social and political systems. The mind becomes so focused on threats that it loses the ability to see beauty, connection, and genuine goodness in the world.
@@ -128,7 +128,7 @@ This is the same mechanism that creates clinical paranoia, but applied to social
 
 **What it Looks Like:**
 
-- Using the "it's all a game" or "suffering is curriculum" insights to avoid genuine engagement with life's challenges
+- Using the "it's all a game" or "**Challenge Friction** is curriculum" insights to avoid genuine engagement with life's challenges
 - Dismissing your own or others' pain with spiritual platitudes
 - Using meditation to feel blissfully detached rather than to build resilience for engagement
 - Avoiding difficult conversations or situations by claiming they're "not real" or "just drama"

@@ -98,7 +98,7 @@ This is not about awakening your divine potential. This is about becoming a self
 
 ##### The Sacrifice Compulsion Virus
 
-**The Program**: **The Rulers** installed the belief that suffering and sacrifice are necessary for spiritual growth or moral worth.
+**The Program**: **The Rulers** installed the belief that **Challenge Friction** and sacrifice are necessary for spiritual growth or moral worth.
 
 **The Symptoms**:
 

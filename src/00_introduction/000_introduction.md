@@ -36,7 +36,7 @@ This book is the answer. For years, I have practiced and taught the methods in t
 
 You have already seen how external systems interface with your internal triggers. You have felt the pull of automatic patterns. Now, you will learn to master that operating system. You will learn to seize the controls.
 
-The central discovery of this work is this: **there is a part of you that is not a program.** There is an Observer, a silent witness, a ghost in the machine. This book will teach you how to shift your identity to that core of consciousness, transforming you from a pawn in the game to a player.
+The central discovery of this work is this: **there is a part of you that is not a program.** There is a Player View, a silent witness, a ghost in the machine. This book will teach you how to shift your identity to that core of consciousness, transforming you from a pawn in the game to the Player.
 
 ## The Training Protocol
 
@@ -46,7 +46,7 @@ This book is an interactive training manual. It is designed to systematically up
 
 -   You will become a detective in your own mind, mapping your automatic scripts, triggers, and subroutines. You will test the NPC Hypothesis and see the programming in stark relief.
 
-**Phase 2: Activating the Observer (Chapters 5-8)**
+**Phase 2: Activating the Player View (Chapters 5-8)**
 
 -   You will learn to locate the silent watcher within. You will amplify its signal, strengthen its presence, and begin to use it to interrupt your automatic patterns.
 

@@ -26,9 +26,9 @@ structure:
     number: 2
     title: "Part 2: The User Manual"
     chapters:
-      - title: "Cosmic Rhythm"
+      - title: "The Four Player Modes"
         file: "02_part_user_manual/050_cosmic_rhythm.md"
-      - title: "Advanced Whirlpool Physics"
+      - title: "Escaping Debuff Loops"
         file: "02_part_user_manual/060_advanced_whirlpool_physics.md"
       - title: "Foundational Practices"
         file: "02_part_user_manual/070_foundational_practices.md"
@@ -54,7 +54,7 @@ structure:
     chapters:
       - title: "The Manifestation Trap"
         file: "04_part_advanced_applications/14_manifestation_trap.md"
-      - title: "Real Agency"
+      - title: "The Immersion Engine and Its Four Locks"
         file: "04_part_advanced_applications/15_real_agency.md"
       - title: "Shadows of Awakening"
         file: "04_part_advanced_applications/16_shadows_of_awakening.md"

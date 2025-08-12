@@ -8,15 +8,24 @@
 
 **Charge:** A stored pattern of emotional and physical energy in the body-mind, linked to a past experience. When triggered, a charge activates an automatic program (an NPC response). A positive charge creates a compulsion or craving; a negative charge creates an aversion or defense.
 
-**The Observer:** The capacity of consciousness to step back and witness thoughts, feelings, and sensations without identifying with them. It is not a separate "thing," but the function that creates the space necessary for Manual Override.
+**The Player View:** The capacity of consciousness to step back and witness thoughts, feelings, and sensations without identifying with them. It is not a separate "thing," but the function that creates the space necessary for Manual Override. Also called "Player Mode" when referring to the perspective.
 
-**The Cosmic Rhythm:** The natural, three-phase cycle of conscious experience:
+**The Four Player Modes:** The natural, four-mode cycle of conscious experience:
 
-- **Phase 1 (Total Immersion):** Getting lost in the "game" of life, identifying completely with your role and reactions.
-- **Phase 2 (Awakening):** The "Observer" emerging, realizing you are not your thoughts or feelings.
-- **Phase 3 (The Player's Mindset):** Consciously choosing to re-engage with life, playing your role with skill and presence without losing the perspective that it is a role.
+- **Mode 0 (Offline Mode):** The Player is AFK - deep sleep where consciousness recharges at the source.
+- **Mode 1 (Character-Lock):** Getting lost in the "game" of life, identifying completely with your role and reactions.
+- **Mode 2 (Lucid Mode):** The **Player View** emerging, realizing you are not your thoughts or feelings.
+- **Mode 3 (God Mode):** Consciously choosing to re-engage with life, playing your role with skill and presence without losing the perspective that it is a role.
 
-**The Reality Whirlpool:** A self-sustaining feedback loop where a thought creates a feeling, and the feeling reinforces the thought, locking you into a subjective reality (e.g., an "anxiety whirlpool" or an "anger whirlpool"). Manual Override involves breaking this loop.
+**Debuff Loop:** A self-sustaining feedback cycle where a thought creates a feeling, and the feeling reinforces the thought, locking you into a subjective reality (e.g., an "anxiety loop" or an "anger loop"). Manual Override involves breaking this loop. Also called **Stun-Lock** when it prevents other actions.
+
+**Character-Lock:** The state of being completely identified with your in-game avatar (personality/body), forgetting you are the Player. This is the default gameplay mode that creates immersion.
+
+**The Player:** The core consciousness that is playing the game of life. Not the character/avatar, but the awareness in which the character appears.
+
+**Challenge Difficulty:** The raw intensity of a difficult situation, equivalent to what the Character experiences as "pain" but is actually the game's mechanism for offering XP.
+
+**XP (Experience Points):** The growth and wisdom gained from successfully navigating challenges while maintaining Player awareness.
 
 #### Advanced Concepts
 
