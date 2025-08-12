@@ -61,25 +61,6 @@ structure:
 
   - type: part
     number: 5
-    title: "Part 5: The External Toolkit"
-    chapters:
-      - title: "Sovereign Mind at Work"
-        file: "05_part_external_toolkit/09_sovereign_mind_at_work.md"
-      - title: "Principles of Sovereign Community"
-        file: "05_part_external_toolkit/10_principles_sovereign_community.md"
-      - title: "Rebuilding Flow Wisdom"
-        file: "05_part_external_toolkit/11_rebuilding_flow_wisdom.md"
-      - title: "Forging Adulthood - Modern Rites"
-        file: "05_part_external_toolkit/12_forging_adulthood_modern_rites.md"
-      - title: "Sovereign Life - Daily Practices"
-        file: "05_part_external_toolkit/13_sovereign_life_daily_practices.md"
-      - title: "Building the Ark - Cultural Creation"
-        file: "05_part_external_toolkit/14_building_ark_cultural_creation.md"
-      - title: "Advanced Override - Consciousness Technologies"
-        file: "05_part_external_toolkit/15_advanced_override_consciousness_technologies.md"
-
-  - type: part
-    number: 6
     title: "Capstone: Practices for Liberation"
     chapters:
       - title: "Practices for Liberation"
