@@ -96,6 +96,7 @@ I started to investigate the phenomenon of the observer more systematically, col
 ##### Evidence Category 1: The Witness
 
 Most people have experienced it:
+
 - Watching yourself get angry and thinking, "Why am I reacting this way?"
 - Noticing yourself scrolling social media and wondering, "How did I end up here?"
 - Realizing mid-conversation that you haven't been listening at all.
@@ -105,6 +106,7 @@ Most people have experienced it:
 ##### Evidence Category 2: Flow States
 
 Athletes, artists, and performers often describe a state where the self disappears and something else takes over:
+
 - "I wasn't thinking—the music was playing itself through me."
 - "I felt like I was watching myself from outside my body."
 
@@ -123,6 +125,7 @@ The observer often appears in extreme conditions: trauma, lucid dreaming, and ne
 ## The Pattern
 
 Across all these categories, a consistent pattern emerged:
+
 1.  Something in us can observe our mental and emotional processes.
 2.  This observer is usually dormant.
 3.  It can be activated through specific practices or extreme situations.
