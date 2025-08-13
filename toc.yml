@@ -58,6 +58,8 @@ structure:
         file: "04_part_advanced_applications/15_real_agency.md"
       - title: "Shadows of Awakening"
         file: "04_part_advanced_applications/16_shadows_of_awakening.md"
+      - title: "Conscious Engagement Technology"
+        file: "04_part_advanced_applications/17_conscious_engagement_technology.md"
 
   - type: part
     number: 5
