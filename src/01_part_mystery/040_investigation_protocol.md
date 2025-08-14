@@ -55,6 +55,13 @@ I designed a four-week investigation with escalating complexity:
 **Frequency:** At least 3 override attempts per day
 **Research Question:** What techniques are most effective for accessing conscious choice?
 
+Success criteria (minimums):
+
+- Week 1: 30+ check-ins logged; identify top 3 automatic contexts
+- Week 2: 10+ clear observer moments; list 3 conditions that help
+- Week 3: Map 5 trigger→response chains with physical/emotional/mental notes
+- Week 4: 10 successful overrides; rank top 2 techniques for you
+
 ## The Data Collection Tools
 
 I created simple tracking methods that wouldn't interfere with the phenomena I was studying:
@@ -67,6 +74,13 @@ A small notebook with pre-formatted pages:
 - Automatic (A) or Conscious (C)
 - Observer Present (Y/N)
 - Notes
+
+Sample page
+
+- Time: 2:15 PM | Situation: Email criticism
+- A/C: A → started defensive script
+- Observer: Y → noticed jaw clench
+- Notes: Pause + breath x3 → chose clarifying question instead
 
 **The Trigger Log:**
 
@@ -112,6 +126,8 @@ The first week confirmed my worst fears and best hopes.
 5. Learning new skills (17% conscious)
 
 **Key Discovery:** Consciousness seemed to emerge under specific conditions—novelty, challenge, or deliberate attention.
+
+Tiny warning: Don’t turn your life into a lab 24/7. Log, then live. If logging spikes stress, reduce frequency and favor end-of-day summaries.
 
 ## Week 2 Results: The Observer Patterns
 

@@ -103,7 +103,7 @@ Week three was when I started documenting my interactions with other people. Thi
 
 I wasn't just automated in isolation—I was part of automated relationship systems. My partner and I were running complementary programs. My colleagues and I were stuck in predictable interaction loops. 
 
-We were all NPCs in each other's games, delivering scripted responses to scripted stimuli.
+We were all running scripted patterns in each other's games, delivering patterned responses to patterned stimuli.
 
 ## Week 4: The Deep Programming
 
@@ -172,6 +172,17 @@ During my evening phone scrolling, I caught myself in the loop and put the phone
 These moments were rare—maybe 12% of the time—but they were real. There was something in me that could observe the programming and choose differently.
 
 *But what was that something? And how could I access it more often?*
+
+### Method Notes (how this was measured)
+
+- Sampling: hourly check-ins during waking hours + event-triggered logs
+- Categories: routine, work, relationships, media, health
+- Coding: “A” for automatic, “C” for conscious; observer present Y/N
+- Limitation: undercounts true automation (you can’t log what you don’t notice)
+
+Visual cue (suggested): A simple pie chart: ~88% automatic vs ~12% conscious.
+
+Practice (1 day, 5 check-ins): Set 5 alarms. When they ring, mark A/C and Y/N for observer. At night, write 2 lines: What was most automatic? Where did I have a choice?
 
 ## The Central Mystery
 

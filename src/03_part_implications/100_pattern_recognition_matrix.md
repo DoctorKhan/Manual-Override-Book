@@ -15,21 +15,21 @@ It started when I began recognizing the Four Modes pattern in other contexts:
 - **Offline Mode:** Periods of rest, retreat, strategic planning
 - **Character-Lock:** Deep focus on execution, total immersion in projects
 - **Lucid Mode:** Stepping back to assess, strategic perspective
-- **God Mode:** Skillful leadership that maintains both vision and engagement
+- **Flow Mode (God Mode):** Skillful leadership that maintains both vision and engagement
 
 **In Relationships:**
 
 - **Offline Mode:** Periods of independence, personal space
 - **Character-Lock:** Deep intimacy, total presence with each other
 - **Lucid Mode:** Healthy perspective on the relationship dynamics
-- **God Mode:** Conscious partnership that serves both individuals and the connection
+- **Flow Mode (God Mode):** Conscious partnership that serves both individuals and the connection
 
 **In Creative Work:**
 
 - **Offline Mode:** Incubation, rest, letting ideas percolate
 - **Character-Lock:** Flow state, total absorption in the creative process
 - **Lucid Mode:** Stepping back to evaluate and refine the work
-- **God Mode:** Masterful creation that serves both personal expression and larger purpose
+- **Flow Mode (God Mode):** Masterful creation that serves both personal expression and larger purpose
 
 *The same pattern was everywhere.*
 

@@ -28,6 +28,8 @@ structure:
     chapters:
       - title: "The Four Modes Mystery"
         file: "02_part_discovery/050_four_modes_mystery.md"
+      - title: "Foundational Practices (The Three Streams)"
+        file: "02_part_discovery/055_foundational_practices.md"
       - title: "The Navigation System"
         file: "02_part_discovery/060_navigation_system.md"
       - title: "The Gateway Protocol"
@@ -71,6 +73,8 @@ structure:
         file: "90_appendix/20_quick_start_guide.md"
       - title: "Physics of Consciousness"
         file: "90_appendix/30_physics_consciousness.md"
+      - title: "Whirlpool Physics (Debuff Loops)"
+        file: "90_appendix/25_whirlpool_physics.md"
       - title: "Glossary"
         file: "90_appendix/10_glossary.md"
       - title: "The Simulation Hypothesis"

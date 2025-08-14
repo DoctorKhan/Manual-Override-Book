@@ -89,7 +89,7 @@ Once I saw it this way, everything made sense:
 - Offline Mode: Rest and integration
 - Character-Lock: Deep engagement and experience gathering
 - Lucid Mode: Perspective and choice development  
-- God Mode: Skillful action and service
+- Flow Mode (God Mode): Skillful action and service
 
 **The Compass Directions** weren't just navigation tools—they were core curriculum:
 

@@ -92,4 +92,10 @@ My life depended on it.
 
 ---
 
+**Aha:** There are two simultaneous processes in me—the reactive system and a silent witness. The witness can notice without being swept away.
+
+Try this today (2 minutes): When you feel a surge (annoyance, anxiety, desire), pause and ask, “What is aware of this?” Notice even one breath’s worth of space.
+
+---
+
 *The system crash had revealed the automation, but it had also revealed something else: a witness to the automation. The investigation would begin with a simple question: if I'm not making most of my decisions, who or what is? And more importantly—who is asking this question?*

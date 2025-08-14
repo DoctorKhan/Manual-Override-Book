@@ -39,7 +39,7 @@ Through practice, or sometimes spontaneously, a crack would appear in the immers
 
 *This was the state that allowed conscious choice.*
 
-### Mode 3: God Mode (Engaged Lucidity)
+### Mode 3: Flow Mode (a.k.a. “God Mode”, Engaged Lucidity)
 Sometimes, from the observer state, I could choose to re-engage with experience while maintaining awareness. I could play the character with full passion and skill, without forgetting I was the player. I was fully immersed yet never lost.
 
 *This was the state I'd experienced during that breakthrough hour at work.*
@@ -58,6 +58,7 @@ Each mode served a purpose:
 - **Character-Lock** allowed deep engagement and learning
 - **Lucid Mode** provided perspective and choice
 - **God Mode** enabled skillful action with awareness
+	(We’ll use “Flow Mode” for accessibility; some readers know this by the older nickname “God Mode”.)
 
 ## The Game Metaphor
 
@@ -90,6 +91,8 @@ The "automation" I'd been worried about wasn't a malfunction—it was Mode 1, th
 
 *The problem wasn't that I was automatic sometimes. The problem was that I didn't understand the rhythm and was fighting against it.*
 
+Note: Mode 1 (Character-Lock) isn’t “bad.” It’s how deep learning, love, and mastery are earned. The aim is not to avoid Mode 1, but to recognize it and cycle skillfully.
+
 ## The Practical Implications
 
 Understanding the four modes changed everything:
@@ -101,6 +104,14 @@ Understanding the four modes changed everything:
 **Instead of grasping for the observer state,** I could trust that Mode 2 would naturally arise and learn to recognize its signals.
 
 **Instead of seeing consciousness as all-or-nothing,** I could see it as a dynamic dance between different modes of awareness.
+
+Day in the life (one possible cycle):
+
+- Morning: wake (Mode 0 → 1), fully immersed in family logistics (Mode 1)
+- Commute insight (Mode 2), choose a calmer route
+- Work sprint in flow (Mode 3), then meeting immersion (Mode 1)
+- Midday walk restores perspective (Mode 2)
+- Evening creative session (Mode 3), wind down and log off (Mode 0)
 
 ## The Navigation Question
 
@@ -125,3 +136,5 @@ The investigation was about to reveal the navigation system that would make cons
 ---
 
 *The four modes had revealed the natural rhythm of consciousness—but understanding the rhythm was just the beginning. The next discovery would provide the navigation system: a way to orient toward freedom no matter which mode I was experiencing.*
+
+Optional visual: a simple wheel diagram showing 0→1→2→3→0 with brief labels under each mode.

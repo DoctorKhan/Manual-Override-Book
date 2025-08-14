@@ -75,6 +75,12 @@ During routine activities, I would ask: "Who is aware of this experience?" The q
 **The Space Check:**
 When I felt compressed or overwhelmed, I would ask: "Where is the space around this feeling?" This would often reveal that there was indeed space—the observer was always operating from a place of spaciousness, even when my mind felt cramped.
 
+Micro-practice (60 seconds): Notice → Name → Nest
+
+- Notice a reaction start
+- Name it quietly: “anger,” “fear,” “urge”
+- Nest attention in the feel of awareness that notices, not the reaction
+
 ## The Anomaly Deepens
 
 The more I practiced accessing the observer, the more mysterious it became. This wasn't just a psychological technique or a mental trick. There seemed to be something fundamental about consciousness itself that I was discovering.
@@ -84,6 +90,8 @@ The more I practiced accessing the observer, the more mysterious it became. This
 **The observer could observe the body without being the body.**
 
 *So what was it?*
+
+Falsification test: Am I just thinking about awareness? Two checks—(1) Can I observe thoughts beginning and ending without needing a new thought to label them? (2) When attention drifts, does the capacity to notice return without effort when I relax the mind? If yes, I’m contacting something prior to thought.
 
 ## The Central Mystery
 

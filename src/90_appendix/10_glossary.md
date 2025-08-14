@@ -15,7 +15,7 @@
 - **Mode 0 (Offline Mode):** The Player is AFK - deep sleep where consciousness recharges at the source.
 - **Mode 1 (Character-Lock):** Getting lost in the "game" of life, identifying completely with your role and reactions.
 - **Mode 2 (Lucid Mode):** The **Player View** emerging, realizing you are not your thoughts or feelings.
-- **Mode 3 (God Mode):** Consciously choosing to re-engage with life, playing your role with skill and presence without losing the perspective that it is a role.
+- **Mode 3 (Flow Mode, a.k.a. God Mode):** Consciously choosing to re-engage with life, playing your role with skill and presence without losing the perspective that it is a role.
 
 **Debuff Loop:** A self-sustaining feedback cycle where a thought creates a feeling, and the feeling reinforces the thought, locking you into a subjective reality (e.g., an "anxiety loop" or an "anger loop"). Manual Override involves breaking this loop. Also called **Stun-Lock** when it prevents other actions.
 

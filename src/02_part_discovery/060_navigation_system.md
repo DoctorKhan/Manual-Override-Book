@@ -46,6 +46,12 @@ I mapped these orientations like cardinal directions on a compass:
 
 *These four directions mapped directly onto the four main ways I got triggered into autopilot.*
 
+Guardrails:
+
+- Non-Action ≠ passivity. It’s receptive responsiveness, not avoidance.
+- Non-Violence ≠ appeasement. It includes firm boundaries without hostility.
+- Non-Judgment ≠ no discernment. You drop labels while keeping clear seeing.
+
 ## North: The Freedom from Taking it Personally
 
 **When to Orient North:** When I was lost in drama, taking things personally, or over-identifying with a thought, emotion, or story.
@@ -95,6 +101,11 @@ The compass transformed my relationship with difficult experiences. Instead of b
 
 *The compass wasn't a rigid set of rules—it was a dynamic, living map that helped me navigate the complex territory of my own mind.*
 
+Failure case → correction:
+
+- Misuse: I oriented South (Non-Action) in a safety-critical situation and delayed a needed boundary; things worsened.
+- Correction: Oriented West (Non-Violence) first to establish safety/boundary, then South to allow a better solution.
+
 ## The Deeper Discovery
 
 But as I worked with the compass more, I discovered something that would revolutionize my understanding of what this practice was actually for.
@@ -118,6 +129,13 @@ The realization hit me like lightning: **The compass isn't a tool for avoiding o
 When the compass was properly aligned, I could "pass through the center"—meaning I could engage with challenging situations, difficult emotions, or triggering experiences from a place of conscious presence rather than automatic reaction.
 
 *This wasn't about spiritual bypassing. This was about conscious engagement.*
+
+Compass card (carry this):
+
+- North: “Am I taking this personally?”
+- West: “Is there really an enemy here?”
+- South: “Am I forcing this, or can I allow?”
+- East: “Can I let this be as it is—for now?”
 
 ## The Navigation Revolution
 

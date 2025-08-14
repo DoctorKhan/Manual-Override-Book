@@ -57,6 +57,14 @@ Take whatever action emerged naturally from the conscious engagement:
 - Sometimes it was connection
 - Sometimes it was simply presence
 
+Care menu (useful defaults):
+
+- Fear → Safety first (regulate breath, anchor body) → Small, doable next step
+- Anger → Boundary check → Name value being protected → Choose firm, non-violent action
+- Sadness → Permission to feel → Soothing contact/connection → Gentle movement/rest
+- Shame → Reality-check story → Bring compassion voice → Repair if needed
+- Overwhelm → Reduce inputs → Time-box tasks → Ask for help
+
 ## The Both/And Revolution
 
 This approach created what I called a "both/and" relationship with difficult experiences:
@@ -95,6 +103,8 @@ I could:
 - **Skillful Response:** I took a day off, had honest conversations with my manager about workload, and restructured my schedule to include regular breaks.
 
 *The overwhelm wasn't eliminated—it was transformed into useful information that led to positive changes.*
+
+Practice (this week): Pick one recurring difficult state. Run the protocol 3 times: align compass → listen/validate/care/integrate → take one small action. Journal 3 lines after each.
 
 ## The Trauma Application
 
