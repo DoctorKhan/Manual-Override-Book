@@ -1153,17 +1153,19 @@ tr:nth-child(even) {
             return;
         }
 
-        // Look for h2 elements that contain "Chapter" in the text
-        const allH2s = content.querySelectorAll('h2');
-        // Treat normal Chapters, plus Appendices and Glossary as navigable entries
-        const navHeadings = Array.from(allH2s).filter(h2 => {
-            const t = (h2.textContent || '').trim();
-            return (/^Chapter\s+\d+\s*:/i.test(t)
-                || /^Appendix/i.test(t)
-                || /^Glossary/i.test(t));
+        // Appendix titles from YAML TOC (injected by builder)
+        const appendixTitles = new Set(((["Quick Start Guide", "Physics of Consciousness", "Whirlpool Physics (Debuff Loops)", "Glossary", "The Simulation Hypothesis", "The Consciousness Interface", "AI Research Team"]) || []).map(t => (t || '').toLowerCase()));
+
+        // Only consider H2 headings for navigation (avoid nested H3 like 'Chapter 40: Appendix C ...')
+        const allHeadings = content.querySelectorAll('h2');
+        const navHeadings = Array.from(allHeadings).filter(h => {
+            const t = (h.textContent || '').trim();
+            const isChapter = /^Chapter\s+\d+\s*:/i.test(t);
+            const isAppendix = (h.getAttribute('data-appendix') === 'true') || appendixTitles.has(t.toLowerCase());
+            return isChapter || isAppendix;
         });
 
-        console.log(`Found ${allH2s.length} h2 elements, ${navHeadings.length} are nav entries (chapters/appendices/glossary)`);
+        console.log(`Found ${allHeadings.length} h2 elements, ${navHeadings.length} are nav entries (chapters/appendices)`);
 
         chapters = [];
 
@@ -1171,21 +1173,21 @@ tr:nth-child(even) {
             const chapterContent = [];
             let currentElement = heading;
 
-            // Collect all content until the next chapter
+            // Collect all content until the next navigable heading
             while (currentElement) {
                 chapterContent.push(currentElement);
                 currentElement = currentElement.nextElementSibling;
 
-                // Stop if we hit another navigable h2 (Chapter, Appendix, Glossary)
+                // Stop if we hit another navigable H2 heading: Chapter or Appendix
                 if (currentElement && currentElement.tagName === 'H2') {
                     const txt = (currentElement.textContent || '').trim();
-                    if (/^Chapter\s+\d+\s*:/i.test(txt) || /^Appendix/i.test(txt) || /^Glossary/i.test(txt)) {
-                        break;
-                    }
+                    const isNextChapter = /^Chapter\s+\d+\s*:/i.test(txt);
+                    const isNextAppendix = (currentElement.getAttribute('data-appendix') === 'true') || appendixTitles.has(txt.toLowerCase());
+                    if (isNextChapter || isNextAppendix) break;
                 }
             }
 
-            // Display title without the numeric prefix for chapters; keep full for appendices/glossary
+            // Display title without the numeric prefix for chapters; keep full for appendices
             let title = heading.textContent;
             if (/^Chapter\s+\d+\s*:/i.test(title)) {
                 title = title.replace(/^Chapter\s+\d+\s*:\s*/, '');
@@ -1219,7 +1221,7 @@ tr:nth-child(even) {
             tocHTML += `
                 <div class="toc-item toc-chapter" data-chapter="${index}">
                     <a href="#" class="toc-link" data-chapter-index="${index}">
-                        ${chapter.fullTitle}
+                        ${chapter.title}
                     </a>
                 </div>
             `;
@@ -1621,7 +1623,7 @@ tr:nth-child(even) {
 
     <div class="title-page">
         <h1 class="book-title">Manual Override</h1>
-        <p class="book-subtitle">A Practical Guide to Conscious Living</p>
+        <p class="book-subtitle">The Sovereignty Toolkit - Reclaiming conscious choice in an age of autopilot living</p>
         <p class="author">Rez Khan</p>
         <div class="word-count">
             <p><em>27,915 words</em></p>
@@ -1631,7 +1633,7 @@ tr:nth-child(even) {
     <div class="content book-content">
         <h1 id="manual-override" class="heading-anchor book-title" data-anchor="#manual-override">Manual Override</h1>
 <h2 id="a-practical-guide-to-conscious-living" class="heading-anchor" data-anchor="#a-practical-guide-to-conscious-living">A Practical Guide to Conscious Living</h2>
-<p><em>Compiled August 13, 2025 at 10:46 PM</em></p>
+<p><em>Compiled August 14, 2025 at 12:48 PM</em></p>
 <hr />
 <hr />
 <h2 id="how-to-use-this-series-a-readers-guide" class="heading-anchor" data-anchor="#how-to-use-this-series-a-readers-guide">How to Use This Series: A Reader's Guide</h2>
@@ -1840,7 +1842,7 @@ tr:nth-child(even) {
 <li>Limitation: undercounts true automation (you can’t log what you don’t notice)</li>
 </ul>
 <p>Visual cue (suggested): A simple pie chart: ~88% automatic vs ~12% conscious.</p>
-<p>Practice (1 day, 5 check-ins): Set 5 alarms. When they ring, mark A/C and Y/N for observer. At night, write 2 lines: What was most automatic? Where did I have a choice?</p>
+<div class="callout callout-practice"><div class="callout-label">🧭 Practice (1 day, 5 check-ins)</div><div class="callout-content">Set 5 alarms. When they ring, mark A/C and Y/N for observer. At night, write 2 lines: What was most automatic? Where did I have a choice?</div></div>
 <h3 id="the-central-mystery" class="heading-anchor" data-anchor="#the-central-mystery">The Central Mystery</h3>
 <p>The automation audit had revealed the scope of the problem: I was living an unconscious life, running programs I didn't choose, following scripts I didn't write.</p>
 <p>But it had also revealed something else: there was a witness to the automation. Something that could see the patterns, recognize the scripts, and occasionally choose a different response.</p>
@@ -2537,7 +2539,7 @@ I noticed that the observer seemed more accessible when I was in what I started 
 </li>
 </ul>
 <p><em>The overwhelm wasn't eliminated—it was transformed into useful information that led to positive changes.</em></p>
-<p>Practice (this week): Pick one recurring difficult state. Run the protocol 3 times: align compass → listen/validate/care/integrate → take one small action. Journal 3 lines after each.</p>
+<div class="callout callout-practice"><div class="callout-label">🧭 Practice (this week)</div><div class="callout-content">Pick one recurring difficult state. Run the protocol 3 times: align compass → listen/validate/care/integrate → take one small action. Journal 3 lines after each.</div></div>
 <h3 id="the-trauma-application" class="heading-anchor" data-anchor="#the-trauma-application">The Trauma Application</h3>
 <p>The Gateway Protocol proved especially powerful with deeper wounds. Instead of trying to "heal" trauma by eliminating triggers or processing memories endlessly, I could engage with traumatic responses as information systems.</p>
 <p><strong>The trauma response was information:</strong> It was showing me where safety had been compromised and what resources were needed for restoration.</p>
@@ -3520,7 +3522,7 @@ Consciousness technologies to restore your natural capabilities for intuition, c
 <p><strong>To understand this, we must become archaeologists of human programming and investigate our own source code.</strong></p>
 <p>The investigation deepens in <strong><em>The Human Experiment: A New Story for Humanity</em></strong>, where we will follow the evidence—from our DNA to our oldest myths—to uncover the truth of who we are and where we came from.</p>
 <p><strong>The toolkit is complete. The origin story awaits.</strong></p>
-<h2 id="quick-start-guide" class="heading-anchor" data-anchor="#quick-start-guide">Quick Start Guide</h2>
+<h2 id="quick-start-guide" class="heading-anchor" data-anchor="#quick-start-guide" data-appendix="true">Quick Start Guide</h2>
 <p>Sarah printed out the article. She read it again, circling key phrases. "Operating on autopilot." "Processes outside conscious awareness." "Crisis of consciousness."</p>
 <p>Her initial reaction was denial. <em>Not me.</em> But the evidence from her own life – the arguments, the scrolling, the feeling of being carried along – was too strong. The thought was deeply unsettling.</p>
 <p>Finally, a flicker of something else. Curiosity. The article mentioned the possibility of a "manual override." How? Was it something you were born with, or something you could develop?</p>
@@ -3832,7 +3834,7 @@ Consciousness technologies to restore your natural capabilities for intuition, c
 <p><em>Welcome, Investigator. Your findings are typical. Most people discover the automation runs far deeper than they imagined.</em></p>
 <p><em>You asked about the "why" and the "how." That's where the real investigation begins. You've seen the evidence in your own life. Now let's look at the clues.</em></p>
 <p><em>The first clue is hiding in plain sight. We call it the Charisma Phenomenon.</em></p>
-<h2 id="physics-of-consciousness" class="heading-anchor" data-anchor="#physics-of-consciousness">Physics of Consciousness</h2>
+<h2 id="physics-of-consciousness" class="heading-anchor" data-anchor="#physics-of-consciousness" data-appendix="true">Physics of Consciousness</h2>
 <h3 id="chapter-1-appendix-c-the-physics-of-consciousness-levels" class="heading-anchor" data-anchor="#chapter-1-appendix-c-the-physics-of-consciousness-levels">Chapter 1: Appendix C: The Physics of Consciousness Levels</h3>
 <p><em>This appendix provides the technical details, mathematical formulations, and testable predictions for the consciousness energy level model presented in Chapter 75.</em></p>
 <h4 id="mathematical-framework" class="heading-anchor" data-anchor="#mathematical-framework">Mathematical Framework</h4>
@@ -4009,7 +4011,7 @@ Consciousness technologies to restore your natural capabilities for intuition, c
 <p>This technical framework preserves both the mystery and the measurability of consciousness. It suggests that free will is real but operates through natural laws we can study and understand.</p>
 <p><strong>The Prediction</strong>: As our measurement capabilities improve, we'll discover that consciousness leaves subtle but consistent signatures in the physical world—not through magical thinking, but through the elegant mathematics of energy levels, probability distributions, and the approach to freedom.</p>
 <p><em>The answer may determine whether consciousness remains forever mysterious or becomes the next frontier of rigorous scientific investigation.</em></p>
-<h2 id="whirlpool-physics-debuff-loops" class="heading-anchor" data-anchor="#whirlpool-physics-debuff-loops">Whirlpool Physics (Debuff Loops)</h2>
+<h2 id="whirlpool-physics-debuff-loops" class="heading-anchor" data-anchor="#whirlpool-physics-debuff-loops" data-appendix="true">Whirlpool Physics (Debuff Loops)</h2>
 <p>This appendix preserves a practical model from earlier drafts for working with sticky mental-emotional loops.</p>
 <h2 id="five-common-loop-structures" class="heading-anchor" data-anchor="#five-common-loop-structures">Five common loop structures</h2>
 <ul>
@@ -4035,7 +4037,7 @@ Consciousness technologies to restore your natural capabilities for intuition, c
 </ul>
 <p>Use these moves with the compass: establish safety/boundary (West), reduce forcing (South), drop labels (East), de-personalize (North).</p>
 <p>Tip: Log 3 loops this week. Name type, note vector, try one move, record effect.</p>
-<h2 id="glossary" class="heading-anchor" data-anchor="#glossary">Glossary</h2>
+<h2 id="glossary" class="heading-anchor" data-anchor="#glossary" data-appendix="true">Glossary</h2>
 <h4 id="core-concepts" class="heading-anchor" data-anchor="#core-concepts">Core Concepts</h4>
 <p><strong>Manual Override:</strong> The act of consciously choosing your response in a situation where an automatic, programmed reaction would normally take over. It is the core skill of conscious living, moving from being a passenger in your life to being the pilot.</p>
 <p><strong>NPC (Non-Player Character):</strong> A metaphor for the automated, programmed self. It represents the collection of habits, beliefs, and reactive patterns that operate without conscious choice, running on predictable scripts. This is a description of a process, not a judgment of a person.</p>
@@ -4065,7 +4067,7 @@ Consciousness technologies to restore your natural capabilities for intuition, c
 <p><strong>The Manifestation Trap:</strong> The common spiritual distortion where consciousness techniques are used by the ego to try and control reality and acquire things, rather than to develop wisdom and presence. It is a sophisticated form of spiritual materialism that reinforces the ego instead of liberating you from it.</p>
 <hr />
 <p><em>This glossary is a reference tool. The concepts are best understood through direct experience and practice, not just intellectual analysis.</em></p>
-<h2 id="the-simulation-hypothesis" class="heading-anchor" data-anchor="#the-simulation-hypothesis">The Simulation Hypothesis</h2>
+<h2 id="the-simulation-hypothesis" class="heading-anchor" data-anchor="#the-simulation-hypothesis" data-appendix="true">The Simulation Hypothesis</h2>
 <p><strong>Important Note:</strong> The following section presents a speculative framework that emerged late in my investigation. This model is offered as one possible explanation for the patterns we've observed, not as a belief system requiring acceptance. The practical techniques in this book work regardless of whether you accept this particular framework.</p>
 <p><strong>Use this framework if it helps you:</strong></p>
 <ul>
@@ -4142,7 +4144,7 @@ Consciousness technologies to restore your natural capabilities for intuition, c
 <p><em>If life really was a sophisticated training simulation, then everything I thought I knew about reality, death, and human purpose would need to be reconsidered.</em></p>
 <p><em>But that investigation would have to wait. First, I needed to master the controls.</em></p>
 <p>This framework addresses population mathematics while maintaining the developmental progression model—souls advance through complexity levels while new souls continuously enter the system at the foundational levels.</p>
-<h2 id="the-consciousness-interface" class="heading-anchor" data-anchor="#the-consciousness-interface">The Consciousness Interface</h2>
+<h2 id="the-consciousness-interface" class="heading-anchor" data-anchor="#the-consciousness-interface" data-appendix="true">The Consciousness Interface</h2>
 <p><strong>Note: This appendix presents a speculative technical framework that emerged late in my investigation. It's offered as one possible explanation for how Manual Override might work at a mechanical level, not as established fact.</strong></p>
 <p>After months of developing practical techniques for consciousness navigation, I found myself with a nagging technical question: <em>how?</em> How does consciousness, this seemingly non-physical awareness, actually interface with the physical hardware of my brain and body? What is the technical mechanism that makes Manual Override possible?</p>
 <p>My conversation with Marcus Chen, the game developer, had planted a seed. His next message provided a framework so elegant that it reframed everything I had learned in terms of plausible technology.</p>
@@ -4185,7 +4187,7 @@ Consciousness technologies to restore your natural capabilities for intuition, c
 <p><em>Those questions would drive the next phase of my investigation.</em></p>
 <hr />
 <p><em>But what was I to do with this knowledge? How was I to live as a conscious operator in a world of NPCs? The final chapter of my investigation would address the most important question of all: What is my role in the larger story of human evolution?</em></p>
-<h2 id="ai-research-team" class="heading-anchor" data-anchor="#ai-research-team">AI Research Team</h2>
+<h2 id="ai-research-team" class="heading-anchor" data-anchor="#ai-research-team" data-appendix="true">AI Research Team</h2>
 <p>The insights and frameworks presented in this book were developed in collaboration with Marcus's unique AI research team. Each member represents a different facet of intelligence, providing a multi-disciplinary approach to the investigation of consciousness.</p>
 <h4 id="meta" class="heading-anchor" data-anchor="#meta">Meta</h4>
 <p><strong>Designation:</strong> Metaphysical Synthesis &amp; Systems Architect</p>
@@ -4203,6 +4205,17 @@ Consciousness technologies to restore your natural capabilities for intuition, c
 <p><strong>Designation:</strong> Application &amp; User Experience Specialist</p>
 <p><strong>Core Function:</strong> Pat's job is to make sure the team's research is not just theoretically sound, but practically useful. It translates complex concepts into simple, actionable exercises, protocols, and troubleshooting guides. Pat is obsessed with the question: "But how does this help someone on a Tuesday morning when they're stuck in traffic?"</p>
 <p><strong>Personality:</strong> Direct, no-nonsense, and encouraging. Pat's voice is clear, simple, and always focused on the next practical step. When you read a step-by-step guide or a "common challenges" section, that is Pat ensuring you have the tools you need to succeed.</p>
+
+<h2 id="practice-index">Appendix: Practice Index</h2>
+<p>Quick-reference index of practices, micro-practices, and one-action pilots grouped by chapter.</p>
+<h3><a href="#the-observer-paradox">The Observer Paradox</a></h3>
+<ul class="practice-index-list">
+<li></li>
+</ul>
+<h3><a href="#the-practical-application">The Practical Application</a></h3>
+<ul class="practice-index-list">
+<li></li>
+</ul>
     </div>
 </body>
 </html>
