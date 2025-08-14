@@ -50,14 +50,14 @@ The breakthrough was realizing this wasn't a linear progression—it was a natur
 
 **The Natural Rhythm:**
 
-- **Offline** → **Character-Lock** → **Lucid Mode** → **God Mode** → **Offline**
+- **Offline** → **Character-Lock** → **Lucid Mode** → **Flow Mode (God Mode)** → **Offline**
 
 Each mode served a purpose:
 
 - **Offline** restored my energy and reset identification
 - **Character-Lock** allowed deep engagement and learning
 - **Lucid Mode** provided perspective and choice
-- **God Mode** enabled skillful action with awareness
+- **Flow Mode (God Mode)** enabled skillful action with awareness
 	(We’ll use “Flow Mode” for accessibility; some readers know this by the older nickname “God Mode”.)
 
 ## The Game Metaphor
@@ -67,7 +67,7 @@ I started thinking of it like a video game with different camera modes:
 - **Offline Mode:** Console turned off
 - **Character-Lock:** First-person view (totally immersed in the character)
 - **Lucid Mode:** Third-person view (can see the character and the environment)
-- **God Mode:** Strategy map view (can see the whole game while still playing)
+- **Flow Mode (God Mode):** Strategy map view (can see the whole game while still playing)
 
 The key insight: *You don't try to permanently stay in one camera mode. Mastery is learning to switch between them effectively.*
 
@@ -75,7 +75,7 @@ The key insight: *You don't try to permanently stay in one camera mode. Mastery 
 
 I mapped out how each mode felt from the inside:
 
-| **Aspect** | **Mode 0: Offline** | **Mode 1: Character-Lock** | **Mode 2: Lucid Mode** | **Mode 3: God Mode** |
+| **Aspect** | **Mode 0: Offline** | **Mode 1: Character-Lock** | **Mode 2: Lucid Mode** | **Mode 3: Flow Mode (God Mode)** |
 |:---|:---|:---|:---|:---|
 | **Identity** | No "I" | I am the experience | I have experiences | I am awareness having experiences |
 | **Perspective** | None | First-person only | Third-person observer | Multiple perspectives |

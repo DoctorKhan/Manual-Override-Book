@@ -1,7 +1,7 @@
 # Manual Override
 ## A Practical Guide to Conscious Living
 
-*Compiled August 13, 2025 at 10:23 PM*
+*Compiled August 13, 2025 at 11:35 PM*
 
 ---
 
@@ -10,68 +10,12 @@
 
 ## How to Use This Series: A Reader's Guide
 
-You are holding the second key.
-
-Our investigation began in *The Social Game*, where we surveyed the crime scene—a world of social engineering, emotional manipulation, and systematic distraction. We learned to spot the strings and resist the pull of the current. That was the first key: **awareness**.
-
-This book is the second key: **sovereignty**.
-
-If *The Social Game* was about seeing the prison, *Manual Override* is about forging the key to your own cell. It is a complete, systematic training manual for reclaiming your mind.
-
----
-
 ### The Four-Part Investigation
 
-This book is part of a larger journey into the nature of reality, consciousness, and the human condition. Each installment takes you deeper into the mystery.
-
-**Book 1: *The Social Game* (The Crime Scene)**
-We documented the evidence of a world designed to keep you distracted, divided, and suggestible. You learned the foundational skills of seeing the manipulation and managing your internal state.
-
-**Book 2: *Manual Override* (The Toolkit for Liberation)**
-You are here. This is the advanced training. You will move from being a conscious observer of the system to a sovereign architect of your own experience. You will develop the unshakeable inner stability required for the journey ahead.
-
-**Book 3: *The Human Experiment* (Identifying the Architects)**
-With the internal toolkit mastered, we follow the evidence trail to its source. Who designed this system of control? And for what purpose? The answers will change how you see human history.
-
-**Book 4: *The Cosmic Game* (The Purpose of the Puzzle)**
-The final revelation. We uncover the ultimate reason for the game itself, revealing how our greatest limitations are, in fact, the engine of our evolution.
-
----
-
-### From Victim to Architect
-
-In *The Social Game*, we asked: "Why are we so programmable?"
-
-This book is the answer. For years, I have practiced and taught the methods in these pages, refining them with hundreds of students. This is not theory; it is a field-tested protocol for de-bugging and reprogramming your own consciousness.
-
-You have already seen how external systems interface with your internal triggers. You have felt the pull of automatic patterns. Now, you will learn to master that operating system. You will learn to seize the controls.
-
-The central discovery of this work is this: **there is a part of you that is not a program.** There is a Player View, a silent witness, a ghost in the machine. This book will teach you how to shift your identity to that core of consciousness, transforming you from a pawn in the game to the Player.
-
-### The Training Protocol
-
-This book is an interactive training manual. It is designed to systematically upgrade your consciousness.
-
-**Phase 1: Exposing the Code (Chapters 1-4)**
-
--   You will become a detective in your own mind, mapping your automatic scripts, triggers, and subroutines. You will test the NPC Hypothesis and see the programming in stark relief.
-
-**Phase 2: Activating the Player View (Chapters 5-8)**
-
--   You will learn to locate the silent watcher within. You will amplify its signal, strengthen its presence, and begin to use it to interrupt your automatic patterns.
-
-**Phase 3: Mastering Manual Override (Chapters 9-12)**
-
--   You will move from simple interruption to active creation. You will learn to consciously choose your responses in even the most challenging situations, forging a new level of inner freedom.
-
-**Phase 4: The Mind of the Programmer (Chapters 13-16)**
-
--   With the skills of a sovereign mind, you will be ready to confront the deepest questions: Why is the system designed this way? What is the nature of the intelligence that programmed it?
-
-This is more than a book. It is an invitation to become the master of your own mind.
-
-Are you ready to take control?
-
+- **Book 1: *The Social Game*** — Gather the evidence
+- **Book 2: *Manual Override*** — Learn the tools
+- **Book 3: *The Human Experiment*** — Follow the trail
+- **Book 4: *The Cosmic Game*** — The final revelation
 
 ## Chapter 1: The System Crash
 
@@ -805,14 +749,14 @@ The breakthrough was realizing this wasn't a linear progression—it was a natur
 
 **The Natural Rhythm:**
 
-- **Offline** → **Character-Lock** → **Lucid Mode** → **God Mode** → **Offline**
+- **Offline** → **Character-Lock** → **Lucid Mode** → **Flow Mode (God Mode)** → **Offline**
 
 Each mode served a purpose:
 
 - **Offline** restored my energy and reset identification
 - **Character-Lock** allowed deep engagement and learning
 - **Lucid Mode** provided perspective and choice
-- **God Mode** enabled skillful action with awareness
+- **Flow Mode (God Mode)** enabled skillful action with awareness
 	(We’ll use “Flow Mode” for accessibility; some readers know this by the older nickname “God Mode”.)
 
 ### The Game Metaphor
@@ -822,7 +766,7 @@ I started thinking of it like a video game with different camera modes:
 - **Offline Mode:** Console turned off
 - **Character-Lock:** First-person view (totally immersed in the character)
 - **Lucid Mode:** Third-person view (can see the character and the environment)
-- **God Mode:** Strategy map view (can see the whole game while still playing)
+- **Flow Mode (God Mode):** Strategy map view (can see the whole game while still playing)
 
 The key insight: *You don't try to permanently stay in one camera mode. Mastery is learning to switch between them effectively.*
 
@@ -830,7 +774,7 @@ The key insight: *You don't try to permanently stay in one camera mode. Mastery 
 
 I mapped out how each mode felt from the inside:
 
-| **Aspect** | **Mode 0: Offline** | **Mode 1: Character-Lock** | **Mode 2: Lucid Mode** | **Mode 3: God Mode** |
+| **Aspect** | **Mode 0: Offline** | **Mode 1: Character-Lock** | **Mode 2: Lucid Mode** | **Mode 3: Flow Mode (God Mode)** |
 |:---|:---|:---|:---|:---|
 | **Identity** | No "I" | I am the experience | I have experiences | I am awareness having experiences |
 | **Perspective** | None | First-person only | Third-person observer | Multiple perspectives |
