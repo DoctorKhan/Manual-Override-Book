@@ -11,55 +11,51 @@ structure:
 
   - type: part
     number: 1
-    title: "Part 1: The Glitch in the Code"
+    title: "Part 1: The Mystery"
     chapters:
-      - title: "The Wake-Up Call"
-        file: "01_part_glitch_in_code/010_wake_up_call.md"
-      - title: "The Automated Life"
-        file: "01_part_glitch_in_code/020_automated_life.md"
-      - title: "The Consciousness Anomaly"
-        file: "01_part_glitch_in_code/030_consciousness_anomaly.md"
-      - title: "Field Research Kit"
-        file: "01_part_glitch_in_code/040_field_research_kit.md"
+      - title: "The System Crash"
+        file: "01_part_mystery/010_system_crash.md"
+      - title: "The Automation Audit"
+        file: "01_part_mystery/020_automation_audit.md"
+      - title: "The Observer Anomaly"
+        file: "01_part_mystery/030_observer_anomaly.md"
+      - title: "The Investigation Protocol"
+        file: "01_part_mystery/040_investigation_protocol.md"
 
   - type: part
     number: 2
-    title: "Part 2: The User Manual"
+    title: "Part 2: The Discovery"
     chapters:
-      - title: "The Four Player Modes"
-        file: "02_part_user_manual/050_cosmic_rhythm.md"
-      - title: "Escaping Debuff Loops"
-        file: "02_part_user_manual/060_advanced_whirlpool_physics.md"
-      - title: "Foundational Practices"
-        file: "02_part_user_manual/070_foundational_practices.md"
-      - title: "The Four Freedoms"
-        file: "02_part_user_manual/080_four_freedoms.md"
-      - title: "Four Stages of Mastery"
-        file: "02_part_user_manual/090_four_stages_mastery.md"
+      - title: "The Four Modes Mystery"
+        file: "02_part_discovery/050_four_modes_mystery.md"
+      - title: "The Navigation System"
+        file: "02_part_discovery/060_navigation_system.md"
+      - title: "The Gateway Protocol"
+        file: "02_part_discovery/070_gateway_protocol.md"
+      - title: "The Mastery Stages"
+        file: "02_part_discovery/080_mastery_stages.md"
 
   - type: part
     number: 3
-    title: "Part 3: The Bigger Picture"
+    title: "Part 3: The Implications"
     chapters:
       - title: "The Game Paradox"
-        file: "03_part_bigger_picture/10_game_paradox.md"
-      - title: "Pattern Recognition Mastery"
-        file: "03_part_bigger_picture/11_pattern_recognition_mastery.md"
-      - title: "Conscious Evolution"
-        file: "03_part_bigger_picture/12_conscious_evolution.md"
+        file: "03_part_implications/090_game_paradox.md"
+      - title: "The Pattern Recognition Matrix"
+        file: "03_part_implications/100_pattern_recognition_matrix.md"
+      - title: "The Evolution Protocol"
+        file: "03_part_implications/110_evolution_protocol.md"
 
   - type: part
     number: 4
-    title: "Part 4: Advanced Applications"
+    title: "Part 4: The Mastery"
     chapters:
-      - title: "The Manifestation Trap"
-        file: "04_part_advanced_applications/14_manifestation_trap.md"
-      - title: "The Immersion Engine and Its Four Locks"
-        file: "04_part_advanced_applications/15_real_agency.md"
-      - title: "Shadows of Awakening"
-        file: "04_part_advanced_applications/16_shadows_of_awakening.md"
-      - title: "Conscious Engagement Technology"
-        file: "04_part_advanced_applications/17_conscious_engagement_technology.md"
+      - title: "The Manifestation Paradox"
+        file: "04_part_mastery/120_manifestation_paradox.md"
+      - title: "The Shadow Integration Protocol"
+        file: "04_part_mastery/130_shadow_integration_protocol.md"
+      - title: "The Liberation Technology"
+        file: "04_part_mastery/140_liberation_technology.md"
 
   - type: part
     number: 5
