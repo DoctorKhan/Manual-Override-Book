@@ -49,6 +49,25 @@ This conscious direction, Marcus explained, depends on two key factors:
 
 "Optimal agency," he concluded, "occurs when you combine clear awareness with focused energy. This is when the 'Player' has the strongest connection to the 'NPC'."
 
+
+## The Technology of Choice Points
+
+My internal landscape wasn’t a single monolithic “me.” It was composed of energetic clusters deposited by experience. Each cluster was a bundle of charges—some activated, some neutral.
+
+The neutral charges were my inherent points of freedom—the natural choice points where my system wasn’t bound by a reactive program. The work of manual override wasn’t to erase the past; it was to neutralize the active charges.
+
+Every time I consciously engaged with a trigger instead of running it, I neutralized a charge. The energy discharged, and what had been a reactive command became neutral space.
+
+This is how new choice points are created. Freedom isn’t a state I find; it’s a landscape I build. Each neutralized charge becomes a new plot of sovereign ground—expanding the territory where I can consciously choose my response instead of defaulting to a pre-written script.
+
+## The Illusion of Robot Agency
+
+A sophisticated autopilot can simulate agency. When I’m identified with the robot, its calculated outputs feel like my own choices. I feel pride in its wins and shame in its losses, convinced I was at the controls.
+
+This is the subtlest trap: mistaking the robot’s choices for my own. True agency doesn’t come from upgrading the robot’s code; it comes from dis-identifying with the robot entirely. I am the Player who can observe the robot’s proposed actions and, from quiet neutrality, choose whether to let them run.
+
+The real choice is upstream: not “what will the robot do?” but “will I grant the robot authority to act at all?”
+
 ## When the Programming Fights Back
 
 As I deepened my practice, I started noticing something strange. Just as I felt I was making progress in overriding a pattern, an intense wave of resistance would rise up. I'd suddenly "forget" to practice, or my mind would be flooded with voices of doubt and sabotage.

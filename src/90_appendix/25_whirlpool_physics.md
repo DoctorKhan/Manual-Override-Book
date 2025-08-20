@@ -28,3 +28,8 @@ Each loop combines thoughts + emotions + sensations → a single resultant “st
 Use these moves with the compass: establish safety/boundary (West), reduce forcing (South), drop labels (East), de-personalize (North).
 
 Tip: Log 3 loops this week. Name type, note vector, try one move, record effect.
+
+> Quick callout — Frame widening
+>
+> When trapped in any loop, widen: there is always a larger frame than the loop you’re in. Use the Larger-Frame Protocol (Capstone) and re-ask: “From the larger frame, what’s the smallest wise next step?”
+

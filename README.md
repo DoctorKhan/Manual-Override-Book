@@ -15,6 +15,16 @@ This repository contains the source files and compiled output for "Manual Overri
 - **Temperature Metrics**: Nirvana as a cooling measurement, not a destination
 - **NPC/Player Framework**: Shifting from unconscious character to conscious player
 
+## Terminology (consistency)
+
+- Use “autopilot” (lowercase) to describe the default automated state of behavior.
+- Use “NPC” to refer to the automated mechanism/program that runs while on autopilot (e.g., “an NPC pattern,” “the NPC program”).
+- Use “Player” (capitalized) for conscious awareness/agency and “Player View” for the witnessing perspective.
+- Reserve “AI” for the in-story AI research team characters; do not use “AI” to mean the autopilot/NPC.
+- “Robot” can appear as a metaphor in narrative, but prefer “autopilot”/“NPC” in explanations and guidance.
+
+See `src/90_appendix/10_glossary.md` for canonical definitions.
+
 ## Structure
 ```
 src/                          - Source markdown files organized by stages

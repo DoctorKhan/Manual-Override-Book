@@ -122,4 +122,7 @@ I was no longer a victim of my own internal weather. The **Debuff Loops** were s
 
 ---
 
+> One-liner: There is always a larger frame than the loop you’re in. When stuck, widen, then re-choose the smallest wise next step. See Capstone: Larger-Frame Protocol.
+
+
 *My investigation was becoming increasingly practical. I was moving from theory to application, from mapping the mind to navigating it. But the biggest challenge remained: how to apply these skills in the most chaotic environment of all—interactions with other people.*

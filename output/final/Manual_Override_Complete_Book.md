@@ -1,7 +1,7 @@
 # Manual Override
 ## A Practical Guide to Conscious Living
 
-*Compiled August 16, 2025 at 7:55 PM*
+*Compiled August 19, 2025 at 8:00 PM*
 
 ---
 
@@ -437,6 +437,10 @@ But before I could explore those deeper questions, I needed to develop a systema
 The next phase of my investigation would focus on developing a research protocol—a systematic way to study consciousness from the inside.
 
 ---
+
+> One-liner: There is always a larger frame than the loop you’re in.
+> Use the Larger-Frame Protocol (Capstone) when the Observer feels distant.
+
 
 *The observer anomaly had revealed the most important discovery yet: there was something in me that was never programmed, never automatic, never unconscious. But accessing it seemed random and unpredictable. The investigation would now focus on the crucial question: how could I learn to access this witnessing presence deliberately?*
 
@@ -3298,12 +3302,19 @@ Use these moves with the compass: establish safety/boundary (West), reduce forci
 
 Tip: Log 3 loops this week. Name type, note vector, try one move, record effect.
 
+> Quick callout — Frame widening
+>
+> When trapped in any loop, widen: there is always a larger frame than the loop you’re in. Use the Larger-Frame Protocol (Capstone) and re-ask: “From the larger frame, what’s the smallest wise next step?”
+
+
 
 ## Glossary
 
 #### Core Concepts
 
 **Manual Override:** The act of consciously choosing your response in a situation where an automatic, programmed reaction would normally take over. It is the core skill of conscious living, moving from being a passenger in your life to being the pilot.
+
+**Autopilot (state):** The default, automated mode of operation where perception, thought, and behavior run on learned programs without conscious choice. In running text, use lowercase “autopilot” (e.g., “on autopilot”).
 
 **NPC (Non-Player Character):** A metaphor for the automated, programmed self. It represents the collection of habits, beliefs, and reactive patterns that operate without conscious choice, running on predictable scripts. This is a description of a process, not a judgment of a person.
 
@@ -3327,6 +3338,13 @@ Tip: Log 3 loops this week. Name type, note vector, try one move, record effect.
 **Challenge Difficulty:** The raw intensity of a difficult situation, equivalent to what the Character experiences as "pain" but is actually the game's mechanism for offering XP.
 
 **XP (Experience Points):** The growth and wisdom gained from successfully navigating challenges while maintaining Player awareness.
+
+> Terminology note (consistency across the book):
+> - Use “autopilot” for the state you’re in (e.g., “I was on autopilot”).
+> - Use “the NPC” for the mechanism/program that runs behavior while on autopilot (e.g., “an NPC pattern,” “the NPC program”).
+> - Use “Player” for conscious awareness/agency (“the Player View”).
+> - “AI” refers only to the in-story AI research characters, not the autopilot mechanism.
+> - The word “robot” may appear as a metaphor in narrative passages, but prefer “autopilot”/“NPC” elsewhere.
 
 #### Advanced Concepts
 
