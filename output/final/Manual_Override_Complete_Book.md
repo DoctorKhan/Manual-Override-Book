@@ -1,7 +1,7 @@
 # Manual Override
 ## A Practical Guide to Conscious Living
 
-*Compiled August 23, 2025 at 7:47 PM*
+*Compiled August 23, 2025 at 8:04 PM*
 
 ---
 
