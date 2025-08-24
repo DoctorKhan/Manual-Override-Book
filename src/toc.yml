@@ -68,6 +68,10 @@ structure:
       - title: "Practices for Liberation"
         file: "50_capstone/00_practices_for_liberation.md"
 
+
+      - title: "References and Sources"
+        file: "90_appendix/00_references.md"
+
   - type: appendix
     title: "Appendices"
     chapters:

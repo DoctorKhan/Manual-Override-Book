@@ -1,7 +1,7 @@
 # Manual Override
 ## A Practical Guide to Conscious Living
 
-*Compiled August 23, 2025 at 10:05 PM*
+*Compiled August 24, 2025 at 1:00 PM*
 
 ---
 
@@ -2780,6 +2780,18 @@ But this raises a profound and unsettling question: Why is our internal 'softwar
 The investigation deepens in ***The Human Experiment: A New Story for Humanity***, where we will follow the evidence—from our DNA to our oldest myths—to uncover the truth of who we are and where we came from.
 
 **The toolkit is complete. The origin story awaits.**
+
+
+## Chapter 18: References and Sources
+
+This appendix consolidates key references cited or implied across the text. It’s a living list; consult the online version for updates.
+
+- Canonical non‑dual voices: Rumi, Blake, Shakespeare, Shelley, Kathleen Raine, Yeats (quoted where relevant)
+- Cognitive science, neuroscience, and contemplative research references (attention, interoception, predictive processing)
+- Ethics and action frameworks (ahimsa, wu‑wei contextualizations)
+
+Note: Specific chapter callouts will use bracketed notation [see: References and Sources].
+
 
 
 ## Quick Start Guide
