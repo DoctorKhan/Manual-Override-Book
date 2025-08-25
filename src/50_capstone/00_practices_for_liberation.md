@@ -215,7 +215,7 @@ The practices in this manual are your tools for remembering who you are and recl
 
 #### The Deeper Question
 
-You now have the tools to override your automatic programming. You can observe your NPC patterns, interrupt your reactive responses, and choose conscious alternatives. You have achieved a level of internal sovereignty that most humans never experience.
+You now have the tools to override your automatic programming. You can observe your Autopilot patterns, interrupt your reactive responses, and choose conscious alternatives. You have achieved a level of internal sovereignty that most humans never experience.
 
 But in developing these capabilities, you may have noticed something unsettling: **the programming you've been overriding is remarkably sophisticated.**
 

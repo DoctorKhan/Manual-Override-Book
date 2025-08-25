@@ -24,8 +24,10 @@ structure:
 
   - type: part
     number: 2
-    title: "Part 2: The Discovery"
+    title: "Part 2: Manual Override — Your Training Ground"
     chapters:
+      - title: "Manual Override: The Training Ground"
+        file: "02_part_discovery/045_training_ground.md"
       - title: "The Four Modes Mystery"
         file: "02_part_discovery/050_four_modes_mystery.md"
       - title: "Foundational Practices (The Three Streams)"
@@ -68,10 +70,6 @@ structure:
       - title: "Practices for Liberation"
         file: "50_capstone/00_practices_for_liberation.md"
 
-
-      - title: "References and Sources"
-        file: "90_appendix/00_references.md"
-
   - type: appendix
     title: "Appendices"
     chapters:
@@ -87,6 +85,4 @@ structure:
         file: "90_appendix/13_metaphysical_model.md"
       - title: "The Consciousness Interface"
         file: "90_appendix/14_consciousness_interface.md"
-      - title: "AI Research Team"
-        file: "90_appendix/15_ai_research_team.md"
 

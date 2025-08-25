@@ -37,13 +37,13 @@ Marcus pointed to several lines of evidence that fit this model perfectly.
 -   **Psychedelic Research**: Studies at institutions like Johns Hopkins and Imperial College London have shown that psychedelics often cause a *decrease* in the activity of the brain's "default mode network"—the part of the brain associated with the ego or sense of self. From the receiver perspective, this makes perfect sense. The drug temporarily disables the brain's primary filtering system, allowing a much broader spectrum of the consciousness broadcast to come through. The experience isn't created by the drug; it's *revealed* by it.
 -   **The "Hard Problem" of Consciousness**: This model elegantly sidesteps the philosophical "hard problem"—the question of how subjective experience can arise from non-sentient matter. If consciousness is fundamental, the problem dissolves. The brain doesn't have to magically generate awareness from neurons; it simply has to tune into it.
 
-## The Interface Mechanism: Player and NPC
+## The Interface Mechanism: Player and Autopilot
 
 This led to the final piece of the technical puzzle: the interface itself.
 
--   **The NPC (Non-Player Character)**: This is my programmed personality, the collection of automated thoughts, emotions, and patterns I've been investigating. It's the character being played, not the player. It's the part of the system that runs on the brain's local hardware.
--   **The Player**: This is the awareness that can step back and observe the NPC's patterns. This is what seems to be operating the interface—the consciousness that can choose to override automatic programming.
--   **The Integration Process**: The goal of all this work is to optimize the interface between the Player and the NPC. Manual Override is the Player consciously operating the interface, rather than letting the NPC's programming run on autopilot.
+-   **The Autopilot**: This is my programmed personality, the collection of automated thoughts, emotions, and patterns I've been investigating. It's the character being played, not the player. It's the part of the system that runs on the brain's local hardware.
+-   **The Player**: This is the awareness that can step back and observe the Autopilot's patterns. This is what seems to be operating the interface—the consciousness that can choose to override automatic programming.
+-   **The Integration Process**: The goal of all this work is to optimize the interface between the Player and the Autopilot. Manual Override is the Player consciously operating the interface, rather than letting the Autopilot's programming run on autopilot.
 
 **Me:** "So you're saying my entire journey of developing consciousness has been... learning to use better controls?"
 
@@ -63,4 +63,4 @@ This led to the final piece of the technical puzzle: the interface itself.
 
 ---
 
-*But what was I to do with this knowledge? How was I to live as a conscious operator in a world of NPCs? The final chapter of my investigation would address the most important question of all: What is my role in the larger story of human evolution?*
+*But what was I to do with this knowledge? How was I to live as a conscious operator in a world running on autopilot? The final chapter of my investigation would address the most important question of all: What is my role in the larger story of human evolution?*

@@ -6,9 +6,9 @@
 
 **Autopilot (state):** The default, automated mode of operation where perception, thought, and behavior run on learned programs without conscious choice. In running text, use lowercase “autopilot” (e.g., “on autopilot”).
 
-**NPC (Non-Player Character):** A metaphor for the automated, programmed self. It represents the collection of habits, beliefs, and reactive patterns that operate without conscious choice, running on predictable scripts. This is a description of a process, not a judgment of a person.
+**The Autopilot (mechanism):** The automated, programmed self that operates without conscious choice. It represents the collection of habits, beliefs, and reactive patterns that run on predictable scripts. This is a description of a process, not a judgment of a person. (Formerly called "NPC" - Non-Player Character.)
 
-**Charge:** A stored pattern of emotional and physical energy in the body-mind, linked to a past experience. When triggered, a charge activates an automatic program (an NPC response). A positive charge creates a compulsion or craving; a negative charge creates an aversion or defense.
+**Charge:** A stored pattern of emotional and physical energy in the body-mind, linked to a past experience. When triggered, a charge activates an automatic program (an Autopilot response). A positive charge creates a compulsion or craving; a negative charge creates an aversion or defense.
 
 **The Player View:** The capacity of consciousness to step back and witness thoughts, feelings, and sensations without identifying with them. It is not a separate "thing," but the function that creates the space necessary for Manual Override. Also called "Player Mode" when referring to the perspective.
 
@@ -31,10 +31,10 @@
 
 > Terminology note (consistency across the book):
 > - Use “autopilot” for the state you’re in (e.g., “I was on autopilot”).
-> - Use “the NPC” for the mechanism/program that runs behavior while on autopilot (e.g., “an NPC pattern,” “the NPC program”).
+> - Use “The Autopilot” for the mechanism/program that runs behavior while on autopilot (e.g., “an Autopilot pattern,” “the Autopilot program”).
 > - Use “Player” for conscious awareness/agency (“the Player View”).
 > - “AI” refers only to the in-story AI research characters, not the autopilot mechanism.
-> - The word “robot” may appear as a metaphor in narrative passages, but prefer “autopilot”/“NPC” elsewhere.
+> - The word “robot” may appear as a metaphor in narrative passages, but prefer “autopilot”/“Autopilot” elsewhere.
 
 #### Advanced Concepts
 
