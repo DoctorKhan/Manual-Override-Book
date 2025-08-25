@@ -14,7 +14,7 @@ I did. Researchers place a rubber hand in front of a subject while their real ha
 
 I found this fascinating. It was a perfect metaphor for my experience with criticism or anxiety—the more I focused on the threatening thought, the more my body believed it was real.
 
-"This experiment reveals the fundamental cycle of consciousness," Marcus's message continued. "First, you become so absorbed in the illusion that you forget it's not you. Then, some form of shock or insight awakens you to the truth. Finally, you return to the reality of what you are, and the illusion loses its power. This rhythm has four phases, and understanding them is the key to everything."
+"This experiment reveals the fundamental cycle of consciousness," Marcus's message continued. "First, you become so absorbed in the illusion that you forget your true nature. Then, some form of shock or insight awakens you to the truth. Finally, you return to the reality of what you are, and the illusion loses its power. This rhythm has four phases, and understanding them is the key to everything."
 
 He then laid out a model of consciousness so elegant and comprehensive that it felt like being handed a map to my own mind.
 

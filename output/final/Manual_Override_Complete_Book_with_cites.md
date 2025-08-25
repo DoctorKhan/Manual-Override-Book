@@ -2,7 +2,7 @@
 
 ## A Practical Guide to Conscious Living
 
-*Compiled August 24, 2025 at 7:44 PM*
+*Compiled August 24, 2025 at 8:20 PM*
 
 ------------------------------------------------------------------------
 
@@ -3213,9 +3213,8 @@ ultimate technology of conscious living.*
 ## Chapter 16: The Immersion Engine and Real Agency
 
 Understanding the “Cheat Code Delusion” was crucial, but it left a
-pressing question: How *does* a Player influence the game, then? If it’s
-not through forcing your will, what is the actual mechanism of Player
-agency?
+pressing question: How *does* a Player influence the game, then? What is
+the actual mechanism of Player agency beyond forcing your will?
 
 Marcus’s reply reframed everything. “The game’s primary function is to
 make the Character’s experience feel completely real. It does this

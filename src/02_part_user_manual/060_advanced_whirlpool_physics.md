@@ -14,7 +14,7 @@ A **Debuff Loop** is a self-sustaining feedback cycle that traps your Character 
 
 1.  **Status Effect Hits:** A **Debuff** is applied (e.g., Fear, Anger). This is felt as a raw haptic sensation in the avatar.
 2.  **Script Runs:** Your Character's OS scans its library of scripts (thoughts) to find one that matches the **Debuff**.
-3.  **The Loop Ignites:** The script reinforces the **Debuff**, which in turn makes the script feel more true, creating a vicious cycle. The loop's greatest trick is convincing you it's not a temporary status effect—it's just the reality of the game.
+3.  **The Loop Ignites:** The script reinforces the **Debuff**, which in turn makes the script feel more true, creating a vicious cycle. The loop's greatest trick is convincing you that this temporary status effect represents the permanent reality of the game.
 
 At any given moment, your mental state is a combination of three components:
 
