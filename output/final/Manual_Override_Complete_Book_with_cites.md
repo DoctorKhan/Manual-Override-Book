@@ -2,7 +2,7 @@
 
 ## A Practical Guide to Conscious Living
 
-*Compiled August 31, 2025 at 1:48 AM*
+*Compiled August 31, 2025 at 10:59 AM*
 
 ------------------------------------------------------------------------
 
@@ -3218,13 +3218,13 @@ the actual mechanism of Player agency beyond forcing your will?
 
 Marcus’s reply reframed everything. “The game’s primary function is to
 make the Character’s experience feel completely real. It does this
-through a sophisticated system I call the **Immersion Engine**. Real
+through a sophisticated system I call the **Immersion Machine**. Real
 agency comes not from fighting the engine, but from understanding its
 subroutines so you can consciously disengage from them.”
 
-### The Immersion Engine: The Mechanics of Character-Lock
+### The Immersion Machine: The Mechanics of Character-Lock
 
-“The Immersion Engine’s core function,” Marcus explained, “is to apply
+“The Immersion Machine’s core function,” Marcus explained, “is to apply
 the ‘**I**’ tag to various in-game data streams. When a stream is tagged
 with ‘I,’ the Player’s **Awareness** fuses with it, mistaking the data
 for their own identity. Leveling up is the process of learning to
