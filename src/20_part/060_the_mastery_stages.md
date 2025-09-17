@@ -1,4 +1,4 @@
-# Chapter 8: The Mastery Stages
+# Chapter 4: The Mastery Stages
 
 The Gateway Protocol had revealed the technology of conscious engagement, but it raised a crucial question: *How could I develop the capacity to use this technology consistently?*
 

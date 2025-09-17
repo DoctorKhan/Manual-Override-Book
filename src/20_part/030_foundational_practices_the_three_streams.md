@@ -1,4 +1,4 @@
-# Chapter 5.5: Foundational Practices (The Three Streams)
+# Chapter 1: Foundational Practices (The Three Streams)
 
 To make the frameworks usable in real life, you need a base practice that stabilizes attention and embodiment.
 

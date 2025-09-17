@@ -1,4 +1,4 @@
-# Chapter 13: The Shadow Integration Protocol
+# Chapter 26: The Shadow Integration Protocol
 
 The Manifestation Paradox had revealed the power of aligning with the Evolution Protocol, but it had also exposed a challenging reality: *not all parts of me wanted to serve the highest good.*
 

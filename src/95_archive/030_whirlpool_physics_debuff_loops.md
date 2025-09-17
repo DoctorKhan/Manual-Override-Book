@@ -1,4 +1,4 @@
-# Appendix: Whirlpool Physics (Debuff Loops) and Three Special Moves
+# Chapter 31: Appendix: Whirlpool Physics (Debuff Loops) and Three Special Moves
 
 This appendix preserves a practical model from earlier drafts for working with sticky mental-emotional loops.
 

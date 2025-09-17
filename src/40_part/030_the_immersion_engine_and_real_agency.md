@@ -1,4 +1,4 @@
-# Chapter 15: The Immersion Machine and Its Four Locks
+# Chapter 7: The Immersion Machine and Its Four Locks
 
 Understanding the "Cheat Code Delusion" was crucial, but it left a pressing question: How *does* a Player influence the game, then? What is the actual mechanism of Player agency beyond forcing your will?
 

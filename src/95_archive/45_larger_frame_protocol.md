@@ -11,11 +11,13 @@ A secular micro-practice to break whirlpools by widening the frame—no metaphys
 7) Close: One grateful breath; proceed
 
 Notes
+
 - Do not suppress emotion—include it in the wider frame
 - If overwhelm rises: ground (feet, room scan), shorten, retry
 - If rumination returns: pair with the 3‑breath Observer reset (see Chapter: The Observer Anomaly)
 
 Why it helps
+
 - Widening reduces threat appraisal, de‑escalates stress chemistry, improves HRV
 - Frame-shift reopens choice architecture; skillful action becomes available
 
@@ -41,6 +43,7 @@ Tip: If the loop resists widening, alternate 30s widen / 30s focus on one neutra
 - Use Three Special Moves when: you can analyze the loop’s components and want to transform its energy (Align/Compose/Transform).
 
 Quick picks
+
 - High heat, little clarity → Observer reset → Larger-Frame
 - Medium heat, ruminating → Larger-Frame → Choose action
 - Analytical mood, time available → Three Special Moves

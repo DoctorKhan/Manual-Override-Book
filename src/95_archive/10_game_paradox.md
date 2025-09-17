@@ -1,4 +1,4 @@
-# Chapter 10: The Game Paradox
+# Chapter 16: The Game Paradox
 
 I had the tools. I had the map. I had the training plan. I was making real progress. But a deep, unsettling question began to surface. If my life is a series of automated programs, and my job is to "wake up" within this game, what does that say about the nature of my existence? Am I just a character trapped in some kind of cosmic simulation? How is that not a prison?
 

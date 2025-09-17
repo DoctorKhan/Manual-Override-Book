@@ -1,4 +1,4 @@
-# Chapter 11: Pattern Recognition Mastery
+# Chapter 17: Pattern Recognition Mastery
 
 By this point in my investigation, I had developed a disturbing skill: I could predict my own behavior with uncomfortable accuracy.
 

@@ -1,4 +1,4 @@
-# Chapter 12: Conscious Evolution
+# Chapter 18: Conscious Evolution
 
 My investigation was complete. I had the models, the practices, and the technical framework. I understood the what, the why, and the how. But a final, profound question lingered, one that Marcus's last message addressed directly.
 

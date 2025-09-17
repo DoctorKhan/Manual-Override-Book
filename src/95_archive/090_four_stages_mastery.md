@@ -1,4 +1,4 @@
-# Chapter 9: The Four Stages of Mastery
+# Chapter 43: The Four Stages of Mastery
 
 I had the practices. I had the compass. I was making real, tangible progress. But I felt adrift. How could I tell if I was actually developing? Was I on the right track? What was the roadmap from where I was now to genuine mastery?
 

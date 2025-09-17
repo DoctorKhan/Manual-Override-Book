@@ -1,4 +1,4 @@
-# Chapter 2: The Automation Audit
+# Chapter 24: The Automation Audit
 
 I needed evidence. Real data. If I was going to claim that most of my life was running on autopilot, I had to prove it.
 

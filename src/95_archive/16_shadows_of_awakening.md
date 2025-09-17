@@ -1,4 +1,4 @@
-# Chapter 16: The Shadows of Awakening
+# Chapter 21: The Shadows of Awakening
 
 The journey into real agency was exhilarating, but also disorienting. As my awareness expanded, I began to encounter a new and more subtle set of challenges. It felt like I was climbing a mountain; the air was getting thinner, and my mind was starting to play tricks on me.
 

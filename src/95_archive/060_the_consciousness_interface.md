@@ -1,4 +1,4 @@
-# Appendix B: The Consciousness Interface - A Technical Hypothesis
+# Chapter 40: Appendix B: The Consciousness Interface - A Technical Hypothesis
 
 **Note: This appendix presents a speculative technical framework that emerged late in my investigation. It's offered as one possible explanation for how Manual Override might work at a mechanical level, not as established fact.**
 

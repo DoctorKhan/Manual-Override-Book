@@ -1,4 +1,4 @@
-# Chapter 1: The Glitch in the Code
+# Chapter 15: The Glitch in the Code
 
 11:47 PM. The phone's glow painted my face in the dark. I'd picked it up "just for a minute" after dinner. Three hours ago. My thumb, a ghost in the machine, continued its mindless dance: scroll, tap, scroll.
 

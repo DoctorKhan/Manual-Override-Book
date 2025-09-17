@@ -1,4 +1,4 @@
-# Chapter 4: The Investigation Protocol
+# Chapter 34: The Investigation Protocol
 
 I couldn't just theorize about consciousness—I needed to become a scientist studying my own mind. The most compelling evidence would come from direct observation, not from books or theories.
 

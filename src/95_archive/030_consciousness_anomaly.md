@@ -1,4 +1,4 @@
-# The Consciousness Anomaly
+# Chapter 28: The Consciousness Anomaly
 
 My investigation into a##### Miles Davis: The Space Between the Notes
 

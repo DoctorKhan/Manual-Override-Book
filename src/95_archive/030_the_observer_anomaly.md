@@ -1,4 +1,4 @@
-# Chapter 3: The Observer Anomaly
+# Chapter 30: The Observer Anomaly
 
 The automation audit had revealed the scope of my unconscious living, but it had also uncovered something else—something that didn't fit the pattern. In those rare moments when I could step outside the programming and watch it happening, *what* was doing the watching?
 

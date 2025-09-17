@@ -1,4 +1,4 @@
-# Chapter 9: The Game Paradox
+# Chapter 5: The Game Paradox
 
 I had the tools. I had the map. I had the development pathway. I was making real progress. But a deep, unsettling question began to surface—one that threatened to undermine everything I had discovered.
 

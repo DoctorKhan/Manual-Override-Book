@@ -1,4 +1,4 @@
-# Appendix A: The Simulation Hypothesis - A Game Developer's Perspective
+# Chapter 38: Appendix A: The Simulation Hypothesis - A Game Developer's Perspective
 
 **Important Note:** The following section presents a speculative framework that emerged late in my investigation. This model is offered as one possible explanation for the patterns we've observed, not as a belief system requiring acceptance. The practical techniques in this book work regardless of whether you accept this particular framework.
 

@@ -1,4 +1,4 @@
-# The Automated Life
+# Chapter 23: The Automated Life
 
 The question from my late-night system crash haunted me: *How much of my life is actually my own?* I decided to approach it like a detective investigating a crime. The crime? The potential theft of my own free will. For one week, I would pay ruthless attention to my choices, asking a single question: *Did I actually choose this, or did it just happen?*
 

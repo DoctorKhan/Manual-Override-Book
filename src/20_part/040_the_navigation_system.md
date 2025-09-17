@@ -1,4 +1,4 @@
-# Chapter 6: The Navigation System
+# Chapter 2: The Navigation System
 
 Understanding the four modes had solved one mystery but created another. I knew consciousness operated in natural rhythms, but I still didn't know how to navigate them skillfully.
 

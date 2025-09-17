@@ -1,4 +1,4 @@
-# Chapter 5: The Four Modes Mystery
+# Chapter 25: The Four Modes Mystery
 
 After thirty days of systematic investigation, I had solid evidence and reliable techniques. But I was still missing something crucial: a map of how consciousness actually worked.
 

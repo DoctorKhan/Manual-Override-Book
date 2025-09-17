@@ -1,4 +1,4 @@
-# Part II: Manual Override — Your Training Ground for Conscious Living
+# Chapter 11: Manual Override — Your Training Ground for Conscious Living
 
 You are living on autopilot.
 

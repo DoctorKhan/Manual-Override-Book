@@ -1,4 +1,4 @@
-# Chapter 7: The Foundational Practices
+# Chapter 41: The Foundational Practices
 
 I had the map (The Cosmic Rhythm) and the sailing instructions (Whirlpool Physics). But I was still a novice sailor. My "muscles" for conscious navigation were weak. I could see the whirlpools, and I knew what to do in theory, but I often lacked the strength and stability to apply the techniques in the heat of the moment. I needed a training regimen.
 

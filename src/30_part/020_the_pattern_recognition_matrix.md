@@ -1,4 +1,4 @@
-# Chapter 10: The Pattern Recognition Matrix
+# Chapter 6: The Pattern Recognition Matrix
 
 The game paradox had resolved my existential crisis, but it had opened up a bigger question: *If individual consciousness development was part of a larger evolutionary process, what was that process ultimately moving toward?*
 

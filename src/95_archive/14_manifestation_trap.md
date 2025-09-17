@@ -1,4 +1,4 @@
-# Chapter 14: The Manifestation Trap
+# Chapter 19: The Manifestation Trap
 
 Armed with a new understanding of my role in conscious evolution, I felt a powerful sense of purpose. But as I began to look at the world through this new lens, I encountered a confusing and distorted echo of the principles I was learning: the mainstream "Law of Attraction" and manifestation culture.
 

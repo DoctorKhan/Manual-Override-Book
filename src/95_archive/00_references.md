@@ -1,4 +1,4 @@
-# References and Sources
+# Chapter 8: References and Sources
 
 This appendix consolidates key references cited or implied across the text. It’s a living list; consult the online version for updates.
 

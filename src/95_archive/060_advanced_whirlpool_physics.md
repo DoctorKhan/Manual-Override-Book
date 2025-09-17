@@ -1,4 +1,4 @@
-# Chapter 6: Escaping Debuff Loops - A Player's First Aid Kit
+# Chapter 39: Escaping Debuff Loops - A Player's First Aid Kit
 
 The Four Player Modes model gave me a map of my own consciousness, but I was still a terrible player. I understood the modes in theory, but day-to-day, I was still getting caught in the same **Debuff Loops**. Anxiety, frustration, obsession—they were like **Stun-Locks**, and despite knowing I was the "Player," I kept finding myself trapped in negative status effects. The emergency **Three Special Moves** technique I'd learned before was like a reset button, but it was a tactic for escape, not mastery. I didn't want to just survive the **Challenge Friction**; I wanted to learn how to use it for **XP**.
 

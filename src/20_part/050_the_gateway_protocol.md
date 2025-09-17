@@ -1,4 +1,4 @@
-# Chapter 7: The Gateway Protocol
+# Chapter 3: The Gateway Protocol
 
 The compass discovery had revolutionized my understanding, but it had also revealed a deeper mystery. The observer state wasn't the destination—it was a gateway to something more profound: conscious engagement.
 

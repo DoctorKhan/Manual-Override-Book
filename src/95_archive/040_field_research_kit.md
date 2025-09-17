@@ -1,4 +1,4 @@
-# Field Research Kit
+# Chapter 32: Field Research Kit
 
 I stared at the evidence I'd gathered about automation and the consciousness anomaly. The patterns were undeniable, but I felt overwhelmed by the implications. How much of my life was actually under my conscious control?
 
